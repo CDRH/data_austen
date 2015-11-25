@@ -1,0 +1,6 @@
+development:
+  solr_core: austen
+  tei_xsl: projects/austen/scripts/solr_transform_tei.xsl
+production:
+  solr_core: austen
+  tei_xsl: projects/austen/scripts/solr_transform_tei.xsl
