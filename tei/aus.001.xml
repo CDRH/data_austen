@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 <TEI xml:id="aus.001" xmlns="http://www.tei-c.org/ns/1.0">
 
   <teiHeader>
