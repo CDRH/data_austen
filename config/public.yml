@@ -1,5 +1,4 @@
 default:
   project_desc: "Austen Said: Patterns of Diction in Jane Austen's Major Novels"
   solr_core: austen
-  shortname: austen
   tei_solr_xsl: collections/austen/scripts/solr_transform_tei.xsl
