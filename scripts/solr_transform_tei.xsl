@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
   xpath-default-namespace="http://www.tei-c.org/ns/1.0"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -10,9 +11,7 @@
   <xsl:param name="file_location"/><!-- will be lassed in from config.yml -->
   <xsl:param name="project" select="/TEI/teiHeader/fileDesc/publicationStmt/authority[1]"></xsl:param>
   <xsl:param name="slug"/><!-- will be lassed in from config.yml -->
-  <!-- <xsl:include href="../stylesheets/xslt/common.xsl"/> -->
-  <xsl:include href="../../../scripts/xslt/cdrh_to_solr/lib/common.xsl"/>
-  <!--<xsl:include href="../xsl/common.xsl"/>-->
+  <xsl:include href=".xslt/common.xsl"/>
   
   <!-- 
   List of fields:
