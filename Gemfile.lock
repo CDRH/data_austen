@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/CDRH/data.git
+  remote: https://github.com/CDRH/datura.git
   revision: 44f60a131bb26283789a89f0458eb070880023f3
   tag: v0.1.0
   specs:
@@ -38,4 +38,4 @@ DEPENDENCIES
   datura!
 
 BUNDLED WITH
-   1.16.6
+   1.17.1
