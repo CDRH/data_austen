@@ -11,7 +11,7 @@
   <xsl:param name="file_location"/><!-- will be lassed in from config.yml -->
   <xsl:param name="project" select="/TEI/teiHeader/fileDesc/publicationStmt/authority[1]"></xsl:param>
   <xsl:param name="slug"/><!-- will be lassed in from config.yml -->
-  <xsl:include href=".xslt/common.xsl"/>
+  <xsl:include href=".xslt-datura/common.xsl"/>
   
   <!-- 
   List of fields:
