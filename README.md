@@ -63,7 +63,10 @@ the core and set the schema for Austen's data. Lastly, post the data.
 ```bash
 solr_create_api_core austen
 
-solr_manage_schema.rb -o true -j config/schema.json
+solr_manage_schema -o true -j config/schema.json
 
 post -x solr
 ```
+
+These commands use development environment config by default.
+Add `-e production` option to run the commands in production environments
