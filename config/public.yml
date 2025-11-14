@@ -3,6 +3,7 @@ default:
   project_desc: "Austen Said: Patterns of Diction in Jane Austen's Major Novels"
   solr_core: austen
   tei_solr_xsl: scripts/solr_transform_tei.xsl
+  threads: 2
 development:
   solr_path: https://servername.unl.edu/solr
 production:
