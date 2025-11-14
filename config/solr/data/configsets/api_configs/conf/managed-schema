@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Solr managed schema - automatically generated - DO NOT EDIT -->
+<schema name="example" version="1.6">
+  <uniqueKey>id</uniqueKey>
+  <fieldType name="_bbox_coord" class="solr.TrieDoubleField" stored="false" docValues="true" precisionStep="8"/>
+  <fieldType name="alphaOnlySort" class="solr.TextField" omitNorms="true" sortMissingLast="true">
+    <analyzer>
+      <tokenizer class="solr.KeywordTokenizerFactory"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.TrimFilterFactory"/>
+      <filter class="solr.PatternReplaceFilterFactory" replace="all" replacement="" pattern="([^a-z])"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="bbox" class="solr.BBoxField" geo="true" numberType="_bbox_coord" distanceUnits="kilometers"/>
+  <fieldType name="binary" class="solr.BinaryField"/>
+  <fieldType name="boolean" class="solr.BoolField" sortMissingLast="true"/>
+  <fieldType name="currency" class="solr.CurrencyField" currencyConfig="currency.xml" defaultCurrency="USD" precisionStep="8"/>
+  <fieldType name="date" class="solr.TrieDateField" positionIncrementGap="0" precisionStep="0"/>
+  <fieldType name="double" class="solr.TrieDoubleField" positionIncrementGap="0" precisionStep="0"/>
+  <fieldType name="float" class="solr.TrieFloatField" positionIncrementGap="0" precisionStep="0"/>
+  <fieldType name="ignored" class="solr.StrField" indexed="false" stored="false" multiValued="true"/>
+  <fieldType name="int" class="solr.TrieIntField" positionIncrementGap="0" precisionStep="0"/>
+  <fieldType name="location_rpt" class="solr.SpatialRecursivePrefixTreeFieldType" geo="true" maxDistErr="0.001" distErrPct="0.025" distanceUnits="kilometers"/>
+  <fieldType name="long" class="solr.TrieLongField" positionIncrementGap="0" precisionStep="0"/>
+  <fieldType name="lowercase" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer class="solr.KeywordTokenizerFactory"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="point" class="solr.PointType" subFieldSuffix="_d" dimension="2"/>
+  <fieldType name="random" class="solr.RandomSortField" indexed="true"/>
+  <fieldType name="string" class="solr.StrField" sortMissingLast="true"/>
+  <fieldType name="tdate" class="solr.TrieDateField" positionIncrementGap="0" precisionStep="6"/>
+  <fieldType name="tdouble" class="solr.TrieDoubleField" positionIncrementGap="0" precisionStep="8"/>
+  <fieldType name="text_en" class="solr.TextField" positionIncrementGap="100">
+    <analyzer type="index">
+      <tokenizer class="solr.StandardTokenizerFactory"/>
+      <filter class="solr.StopFilterFactory" words="lang/stopwords_en.txt" ignoreCase="true"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.EnglishPossessiveFilterFactory"/>
+      <filter class="solr.KeywordMarkerFilterFactory" protected="protwords.txt"/>
+      <filter class="solr.PorterStemFilterFactory"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer class="solr.StandardTokenizerFactory"/>
+      <filter class="solr.SynonymFilterFactory" synonyms="synonyms.txt" expand="true" ignoreCase="true"/>
+      <filter class="solr.StopFilterFactory" words="lang/stopwords_en.txt" ignoreCase="true"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.EnglishPossessiveFilterFactory"/>
+      <filter class="solr.KeywordMarkerFilterFactory" protected="protwords.txt"/>
+      <filter class="solr.PorterStemFilterFactory"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_en_splitting" class="solr.TextField" autoGeneratePhraseQueries="true" positionIncrementGap="100">
+    <analyzer type="index">
+      <tokenizer class="solr.WhitespaceTokenizerFactory"/>
+      <filter class="solr.StopFilterFactory" words="lang/stopwords_en.txt" ignoreCase="true"/>
+      <filter class="solr.WordDelimiterFilterFactory" generateNumberParts="1" generateWordParts="1" catenateAll="0" splitOnCaseChange="1" catenateNumbers="1" catenateWords="1"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.KeywordMarkerFilterFactory" protected="protwords.txt"/>
+      <filter class="solr.PorterStemFilterFactory"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer class="solr.WhitespaceTokenizerFactory"/>
+      <filter class="solr.SynonymFilterFactory" synonyms="synonyms.txt" expand="true" ignoreCase="true"/>
+      <filter class="solr.StopFilterFactory" words="lang/stopwords_en.txt" ignoreCase="true"/>
+      <filter class="solr.WordDelimiterFilterFactory" generateNumberParts="1" generateWordParts="1" catenateAll="0" splitOnCaseChange="1" catenateNumbers="0" catenateWords="0"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.KeywordMarkerFilterFactory" protected="protwords.txt"/>
+      <filter class="solr.PorterStemFilterFactory"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_en_splitting_tight" class="solr.TextField" autoGeneratePhraseQueries="true" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer class="solr.WhitespaceTokenizerFactory"/>
+      <filter class="solr.SynonymFilterFactory" synonyms="synonyms.txt" expand="false" ignoreCase="true"/>
+      <filter class="solr.StopFilterFactory" words="lang/stopwords_en.txt" ignoreCase="true"/>
+      <filter class="solr.WordDelimiterFilterFactory" catenateWords="1" generateNumberParts="0" catenateAll="0" generateWordParts="0" catenateNumbers="1"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.KeywordMarkerFilterFactory" protected="protwords.txt"/>
+      <filter class="solr.EnglishMinimalStemFilterFactory"/>
+      <filter class="solr.RemoveDuplicatesTokenFilterFactory"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_general" class="solr.TextField" positionIncrementGap="100">
+    <analyzer type="index">
+      <tokenizer class="solr.StandardTokenizerFactory"/>
+      <filter class="solr.StopFilterFactory" words="stopwords.txt" ignoreCase="true"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer class="solr.StandardTokenizerFactory"/>
+      <filter class="solr.StopFilterFactory" words="stopwords.txt" ignoreCase="true"/>
+      <filter class="solr.SynonymFilterFactory" synonyms="synonyms.txt" expand="true" ignoreCase="true"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_general_rev" class="solr.TextField" positionIncrementGap="100">
+    <analyzer type="index">
+      <tokenizer class="solr.StandardTokenizerFactory"/>
+      <filter class="solr.StopFilterFactory" words="stopwords.txt" ignoreCase="true"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.ReversedWildcardFilterFactory" maxPosQuestion="2" withOriginal="true" maxPosAsterisk="3" maxFractionAsterisk="0.33"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer class="solr.StandardTokenizerFactory"/>
+      <filter class="solr.SynonymFilterFactory" synonyms="synonyms.txt" expand="true" ignoreCase="true"/>
+      <filter class="solr.StopFilterFactory" words="stopwords.txt" ignoreCase="true"/>
+      <filter class="solr.LowerCaseFilterFactory"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_ws" class="solr.TextField" positionIncrementGap="100">
+    <analyzer>
+      <tokenizer class="solr.WhitespaceTokenizerFactory"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="tfloat" class="solr.TrieFloatField" positionIncrementGap="0" precisionStep="8"/>
+  <fieldType name="tint" class="solr.TrieIntField" positionIncrementGap="0" precisionStep="8"/>
+  <fieldType name="tlong" class="solr.TrieLongField" positionIncrementGap="0" precisionStep="8"/>
+  <field name="_root_" type="string" indexed="true" stored="false"/>
+  <field name="_version_" type="long" indexed="true" stored="true"/>
+  <field name="age" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="category" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="chapter" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="character_type" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="class_status" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="contributor" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="contributors" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="coverage" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="creator" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="creators" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="dataType" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="date" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="dateDisplay" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="dateSort" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="description" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="extent" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="fig_location" type="string" multiValued="false" indexed="false" required="false" stored="true"/>
+  <field name="format" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
+  <field name="image_id" type="string" multiValued="false" indexed="false" required="false" stored="true"/>
+  <field name="keywords" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="language" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="marriage_status" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="medium" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="mode_of_speech" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="novel" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="occupation" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="people" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="place" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="placeName" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="places" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="principalInvestigator" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="principalInvestigators" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="project" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="publisher" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="recipient" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="recipients" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="relation" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="rights" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="rightsHolder" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="rightsURI" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="said_no" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="sender" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="senders" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="sex" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="slug" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="source" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="speaker_id" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="speaker_name" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="subCategory" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="subject" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="subjects" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="text" type="text_en" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="timestamp" type="date" default="NOW" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="title" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="titleSort" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="topic" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <field name="type" type="string" sortMissingLast="true" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="uri" type="string" multiValued="false" indexed="false" required="false" stored="true"/>
+  <field name="uriHTML" type="string" indexed="true" sortMissingLast="true" stored="true"/>
+  <field name="uriXML" type="string" indexed="true" sortMissingLast="true" stored="true"/>
+  <field name="works" type="string" sortMissingLast="true" multiValued="true" indexed="true" required="false" stored="true"/>
+  <dynamicField name="*_coordinate" type="tdouble" indexed="true" stored="false"/>
+  <dynamicField name="ignored_*" type="ignored" multiValued="true"/>
+  <dynamicField name="random_*" type="random"/>
+  <dynamicField name="attr_*" type="text_general" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_txt" type="text_general" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_dts" type="date" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_tdt" type="tdate" indexed="true" stored="true"/>
+  <dynamicField name="*_is" type="int" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_ss" type="string" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_ls" type="long" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_en" type="text_en" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_bs" type="boolean" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_fs" type="float" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_ds" type="double" multiValued="true" indexed="true" stored="true"/>
+  <dynamicField name="*_dt" type="date" indexed="true" stored="true"/>
+  <dynamicField name="*_ti" type="tint" indexed="true" stored="true"/>
+  <dynamicField name="*_tl" type="tlong" indexed="true" stored="true"/>
+  <dynamicField name="*_tf" type="tfloat" indexed="true" stored="true"/>
+  <dynamicField name="*_td" type="tdouble" indexed="true" stored="true"/>
+  <dynamicField name="*_i" type="int" indexed="true" stored="true"/>
+  <dynamicField name="*_s" type="string" indexed="true" stored="true"/>
+  <dynamicField name="*_l" type="long" indexed="true" stored="true"/>
+  <dynamicField name="*_t" type="text_general" indexed="true" stored="true"/>
+  <dynamicField name="*_b" type="boolean" indexed="true" stored="true"/>
+  <dynamicField name="*_f" type="float" indexed="true" stored="true"/>
+  <dynamicField name="*_d" type="double" indexed="true" stored="true"/>
+  <dynamicField name="*_c" type="currency" indexed="true" stored="true"/>
+  <copyField source="category" dest="text"/>
+  <copyField source="contributors" dest="text"/>
+  <copyField source="creators" dest="text"/>
+  <copyField source="dateDisplay" dest="text"/>
+  <copyField source="description" dest="text"/>
+  <copyField source="format" dest="text"/>
+  <copyField source="keywords" dest="text"/>
+  <copyField source="people" dest="text"/>
+  <copyField source="places" dest="text"/>
+  <copyField source="principalInvestigators" dest="text"/>
+  <copyField source="publisher" dest="text"/>
+  <copyField source="relation" dest="text"/>
+  <copyField source="source" dest="text"/>
+  <copyField source="subCategory" dest="text"/>
+  <copyField source="title" dest="text"/>
+  <copyField source="topic" dest="text"/>
+  <copyField source="works" dest="text"/>
+  <copyField source="*_facet" dest="text"/>
+</schema>

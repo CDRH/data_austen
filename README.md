@@ -42,3 +42,28 @@ The Center for Digital Research in the Humanities (CDRH) is a joint initiative o
 **Center for Digital Research in the Humanities GitHub:** [https://github.com/CDRH](https://github.com/CDRH)
 
 **Center for Digital Research in the Humanities Website:** [https://cdrh.unl.edu/](https://cdrh.unl.edu/)
+
+## Index Data in Solr
+
+To index this repo's data in Solr, we first need to upload the Solr 9 compatible
+API configset to Solr's `/var/local/solr-data/data/` subdirectory.
+
+```bash
+rsync -ahuX config/solr/data/configsets user@server.unl.edu:
+
+# Then SSH into the server and move the files into place with root permissions
+# and set solr as the owner
+sudo mv /home/(user)/configsets /var/local/solr-data/data/
+sudo chown -R solr:solr /var/local/solr-data/data/configsets
+```
+
+Now we should be able to run the Datura commmands from this repository to create
+the core and set the schema for Austen's data. Lastly, post the data.
+
+```bash
+solr_create_api_core austen
+
+solr_manage_schema.rb -o true -j config/schema.json
+
+post -x solr
+```
