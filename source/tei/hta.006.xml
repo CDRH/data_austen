@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.006" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Lecture II</title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="jh">Harper, Jordan</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="project">hta.006</idno>
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-03"><name sameAs="#jh"/> transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+    <pb facs="hta.006.001"/>
+    
+    <head>LECTURE II.</head>
+        <head type="sub">LECTURE I.</head>
+        <head type="sub"><bibl>GENESIS, III. PART OF VER. 3.</bibl>
+        <hi rend="italic">God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.</hi></head>
+    
+    <p>Such was the answer which Eve, the mother of human kind, gave to the serpent, when he first suggested to her the possibility of disobeying God, by asking that subtle question, "Hath God said, Ye shall not eat of every tree of the garden?"</p>
+    <p>Moses has detailed the circumstances of man's fall with most remarkable brevity-with precisely that imposing and authoritative brevity, which becomes him who wrote under inspiration, and who, consequently, felt sure that God would annex to the narrative that irresistible force of persuasion, which no descriptive power of human eloquence could attain. Therefore, obscure as the account might have appeared to those who were desirous of gainsaying, as the Israelites often showed themselves to be, yet we do not find that they, in their most factious moods, ever entertained a doubt of the
+    
+     <pb facs="hta.006.002"/>
+    
+    veracity of the Mosaic record. We have testimonies to its truth, which they could not have; we live after the complete fulfilment of many a prophecy, which neither they nor their children heard even with their outward ears. On us are come the ends of the world, and therefore have we been favomed with a clearer knowledge of its beginnings.</p>
+    <p>God having creafed man and woman, placed them in the garden of Eden. As man was made after the image of God, and, therefore, designed for immortality, no doubt can exist that every other part of creation was equally without spot or blemish. Indeed, it is expressly said, that God saw that all was good. Man, therefore, ,yas richly, regularly, and spontaneously supplied with every thing that the earth and elements could prnduce. He had no wants unsatisfied, no hopes deferred by the difficulty or delay of attainment. The duration of such gratifications would have been as boundless as thei1; extent, had he kept the only commandment which his Creator had given him. This commandment was simply, that he should not eat of the fruit of one particular tree, under penalty of immediate death. This tree is called by Moses, the tree of the knowledge of good and evil. It is of no importance to us to know (and assuredly we cannot ascertain), whether the fruit of
+    
+      <pb facs="hta.006.003"/>
+        this tree was forbidden on account of its pernicious quality, or merely as a test of obedience. Under the latter supposition, the lesson proposed is sufficiently profitable. We may of a surety learn, that pride of heart occasioned the first falling off of man from God's law, and thence be made more vigilant, lest the same pride of heart be our chief impediment in a return to obedience. Although in the beginning of the third chapter of Genesis, it is simply stated, that the serpent, being the most subtile of animals, suggested to the woman, that she would be a gainer by breaking God's commandment; yet we are to understand from many concurrent inferences of reason, as well as from the general interpretation of this statement by many inspired writers, that Satan, that evil spirit, who, according to the Revelation of St. John, had already been cast out from heaven for rebellion against the Most High, made an instrument of the serpent. That some unnatural and prevailing agency must have been employed to excite a brute to speech, is obvious; for there is no shadow of reason to suppose, that such a privilege was ever conceded to any except human beings. That such a supernatural agency could not be of God, was evident; for it was exerted in disparagement of his previous ordinance. It follows, therefore, that the serpent was the vehicle
+    
+      <pb facs="hta.006.004"/>
+    
+    of an evil spirit. If it be objected, that Eve ought herself to have testified surprise at the novel circumstance of speech from a serpent, he it remembered, that she herself was too lately created, was surrounded with too numerous an assemblage of recent wonders, to form any accurate judgment on the laws of nature, or to be justified in astonishment at any mystery of the ensuing moment. Of much she might be ignornnt&#8212;of one thing she was well aware; and the text informs us that she was: "God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die." <bibl>Genesis 3:3</bibl> This puts her guilt beyond all question, as it might have done beyond all mercy. She, however, did not add denial to disobedience: "The serpent beguiled me, and I did eat." <bibl>Genesis 3:13</bibl> Look we well to ourselves, my brethren, lest we be beguiled of our innocence, of that true simplicity of heart which putteth to shame the wisdom of the wise, and glories in the avowal that Scripture was written for our learning. Till human reason can discover some more probable theory for the creation and fall of man, than the Mosaic narrative as above explained, all those are yet beguiled by the serpent who refuse their assent to what is in strict analogy with every promise, prophecy, and miracle, from the condemnation in Paradise to the ministry of the Apostles.</p>
+
+    <pb facs="hta.006.005"/>
+    
+    <p>Having, on a former occasion*, endeavoured to rectify any false and impious sentiment on the subject of man's offence, which might suggest that his sentence was severer than his crime deserved, I shall now merely observe, once for all, that his crime was wilful disobedience; and that God had previously pronounced the inseparable doom: " In the hour that thou eatest thereof thou shalt surely die." Nor are we here to entertain any doubt of God's veracity or consistency, because Adam and Eve did not die, in our vulgar sense of death, at the moment of their sin. From the moment of their sin their doom was fixed, the power of death made them captive. The principle of decay mixed itself with that frame which had been made in the image of God, and all power of immortality was denied to the body of man&#8212;"To dust thou shalt return." These words being pronounced as a just sentence of punishment, we must suppose, that, but for his disobedience, man would not have experienced death; and that, therefore, a thorough change took place in all his corporeal frame, from the very moment that he tasted the forbidden fruit. This is precisely what St. Paul infers, when he says, "By one man sin entered into the world, and</p>
+    
+    <p>*Allusion to a sermon preached on the morning of the
+        preceding Sunday.</p> <!--how do i tag a footnote?-->
+
+    <pb facs="hta.006.005"/>
+    
+    
+    
+    
+</div>
+</body>
+</text>
+</TEI>
+
+
