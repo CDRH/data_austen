@@ -87,7 +87,7 @@ the above.</p>
 
     <pb facs="hta.027.001"/>
     
-    <pb facs="hta.027.002"/>
+    <pb facs="hta.027.002"/> <!-- one head with line breaks -->
     <head>TO
         THE REVEREND
         J.B.S. CARWITHEN, B.D.
@@ -174,7 +174,7 @@ the above.</p>
     <p>The former Church was in every respect the reverse of that which is now erected&#8212;of mean construction&#8212;of materials so unsubstantial that they could not be calculated at more than £70 in part of the present Church&#8212;and incapable of containing more than 200 persons; whereas the New Church will contain 600 sittings, of which 400 are free.</p>
     <p>As the population of Frimley Parish amounts to about 1300 persons, no one can look on this Church as unnecessarily large; and when the constant increase of population be considered; he who can suppose that there will long be any room to spare here, must either doubt the truth of prophecy which uniformly declares that all shall be brought to a knowledge of God, or must be very indifferent to
     
-    <pb facs="hta.027.016"/> <!-- lots of obscured text -->
+    <pb facs="hta.027.016"/> <!-- lots of obscured text --><!-- use SUPPLIED tag from sermon recording -->
     
    the vigilance and activity with which Dissenters of every description, erect their conventicles wherever the Established Church is slow or meagre in furnishing accommodation for its flock: Look round on the number and size of these conventicles, and then tell us, do you suppose that the planners and promoters of them, when they laid the first stone, were anxious to ascertain what might be the smallest possible number of their congregation? Far from it. To do them justice, they are wiser in their generation. Then let us put away all such frigid <!-- idk --> calculation, all such unrighteous economy and be assured that if we provide the opportunity, God will give the increase. If we make ready the feast and set it in a large room, God will furnish it with guests.</p>
     <p>To enact <!-- idk --> this obvious and most desirable improvement, an expenditure of £2,300 has been incurred; in aid of which £400 has been supplied by the Society, &amp;c. for building and enlarging Churches and Chapels, and about £700 more by private benevolence</p>
@@ -186,14 +186,17 @@ the above.</p>
     <p>There is also another donation of £50 which must not be passed over in silence. It is a gift receiving double value from the hand that gives it; yet while it demands our loyal gratitude, still it can excite no sensation of surprise. The high personage to whom I allude, has long obtained the tribute of respect greater than his rank can bestow, by standing forth the princely patron of every patriotic and religious work.</p>
     <p>Still there remains to be provided the sum of £1,200, a very heavy sum for the resources and means of this parish. As the minister and steward of the mercies of Christ I lay this statemeut before you: I ask you in His name to contribute to the building of His house;
     
-    <pb facs="hta.027.018"/>
+    <pb facs="hta.027.018"/> <!-- lots of obscured text -->
     
     Whatever you contribute is lent to the Lord, and when He cometh, you shall receive your own with usury.</p>
-    <p>Again must I look round on this edifice, and again wish it good luck in the name of the
-Lord. How honorable woudl it be to the possesssors of opulence and influence in their        
-        
-        
-    </p>
+    <p>Again must I look round on this edifice, and again wish it good luck in the name of the Lord. How honorable would it be to the possesssors of opulence and influence in their respective districts, if every Church in this Diocese were rendered half as commodious! However highly they may now think of their own judgement in the accumulation or the expenditure of their substance; however little they may now brook the remonstrance, or attend to the recommendations of God's Minister on this subject; the moment will come, when all of their speculations and investments, none will afford to their anxious recollections, one-tenth part of the satisfaction which will be felt in the end of his life, and at the end of his <!-- obscured --> by the poorest amongst you, who flings <!-- obscured --> day, his mite into the Treasury of God.</p>
+    <p>I have risen up among you, my Friends, purposing to speak none other things than what ye must acknowledge to be true. In this confidence have I come unto you: and being thus minded could I use lightness? could I keep back <!-- obscured --> thing from such a congregation
+    
+    <pb facs="hta.027.019"/>
+    
+    which it was <hi rend="italic">my</hi> duty to say or <hi rend="italic">theirs</hi> to hear? I have not endeavored to catch you with enticing speech. Knowing the goodness of my cause and my own infirmity, I have only covenanted with myself that my words should not be yea and nay. Had I the tongue of an Apostle or of Angels I could effect nothing, but by the preventing Grace of God working in your hearts. I trust that it is working in you, both to will, and to do; that it is leading you, thankfully to accept the gracious conditions of the text&#8212;"To make the Lord a Sanctuary, that he may dwell among you."</p>
+    
+    <head type="sub">FINIS.</head> <!-- should this be a subhead? -->
     
     
     
