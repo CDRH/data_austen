@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.007" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Lecture III</title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="project">hta.007</idno>
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-06"><name sameAs="#hb"/> transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<pb facs="hta.007.001"/>
+    
+    
+<head>LECTURE III.</head>
+    <head type="sub">GENESIS, v. 1. <lb/>
+    <hi rend="italic">This is the book of the generations of Adam.</hi></head>
+    
+    
+    <p>In our two preceding Lectures we considered three principal circumstances&#8212;the creation, the fall, the promise of redeeming man : to these may be added, as of scarcely less importance, the absolute and sudden corruption of the human heart, evinced in the revolting murder of Abel under the sacriligeous violence of his brother.</p>
+    <p>The extinction of the righteous Abel, and the excommunication of Cain with his infected posterity, might seem to argue a prevalence of the power of Satan over that of the Creator. But the God who says to the plague and the tempest, "Thus far and no farther shall ye pre-vail;" the God whom the very devils believe, and in whom believing they tremble&#8212;<hi rend="italic">that</hi> God has so wonderfully laid his counsels of old, that they ought to be had in rememberance. Our attention is now naturally turned to the explanation and fulfilment of that original promise, or intimation of vengeance to be taken on the <choice><reg>serpent</reg><orig>ser-
+    
+<pb facs="hta.007.002"/>
+    
+    pent,</orig></choice> and salvation to be restored to man: "The Seed of the woman shall bruise the serpent's head." By <hi rend="italic">the</hi> woman was meant that same woman who had been both the decieved and the tempter in her turn&#8212;Eve herself. Therfore, for the information of all those who come after, Moses had delivered to us, what he doubtless received from the Lord, a correct genealogy of the patriarchs from Adam to the time of the general deluge. By this we are sure that Noah was in direct descent from her, to whom and whose seed the promise of redemption was made.</p>
+    <p>"This is the book of the generations of Adam."&#8212;On this important point Moses, omitting all other details of antediluvian hiistory, which might have been highly gratifying to posterity, is as particular and minute as the most inquisitive sceptic could require. In the fifth chapter of Genesis we may read the names of Adam's lineal descendants for ten generations, ending in Noah, who finished the first, and commenced the second covenant with God. These ten generations occupied a portion of time equal to nearly sixteen hundred ears. On reference to the text, we find that the average life of each was about nin hundred years. Let not this strike us with astonishment. It was in exact conformity with the wisdom of God that the usual length of human
+
+<pb facs="hta.007.003"/>
+    
+    life should have reference to the state of population. Instead, therefore, of regarding this as a wonder, with any vague idea that God intended it as a special mark of his favour, or that the present abbreviated span of human life is in itself a withholding of his love, or a part of our punishment, let us rather remind ourselves, from the awful fate of the old world, that the experience of a thousand years is not sufficient to make men wise unto salvation. That the changes and the chances of ever so long a life do not school mankind, and bring them to a steady recollection of their duty ; that the life, even when extended to a length which now appears so liberal, was not intended by God ever to be its own reward ; and that man was never left long without an awful warning, to consdier it as prelimary to another, is placed beyond a doubt by the miraculous removal of Enoch from earth to heaven.</p>
+    <p>Nothing, indeed, can be more determinate and satisfactory on the subject of life everlasting, than what is mentioned in the 22d and 24th verses: "And Enoch walked with God after he begat Methuselah."This expression of walking with God is not applied by Moses to any other of the patriachs; and lest there be a doubt, he repeats the same expression in the 24th verse: "And</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
