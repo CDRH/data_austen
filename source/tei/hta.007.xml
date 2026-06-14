@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.007" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Lecture III</title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="project">hta.007</idno>
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-06"><name sameAs="#hb"/> transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<pb facs="hta.007.001"/>
+    
+<head>LECTURE III.</head>
+    <head type="sub"><bibl>GENESIS, v. 1.</bibl> <lb/>
+    <hi rend="italic">This is the book of the generations of Adam.</hi></head>
+    
+    <p>In our two preceding Lectures we considered three principal circumstances&#8212;the creation, the fall, the promise of redeeming man : to these may be added, as of scarcely less importance, the absolute and sudden corruption of the human heart, evinced in the revolting murder of Abel under the sacriligeous violence of his brother.</p>
+    <p>The extinction of the righteous Abel, and the excommunication of Cain with his infected posterity, might seem to argue a prevalence of the power of Satan over that of the Creator. But the God who says to the plague and the tempest, <quote type="biblical" xml:id="hta.007.q001" source="kjv">"Thus far and no farther shall ye pre-vail;"</quote><bibl corresp="#hta.007.q001" resp="#eds">Job 38:11</bibl> the God whom the very devils believe, and in whom believing they tremble&#8212;<hi rend="italic">that</hi> God has so wonderfully laid his counsels of old, that they ought to be had in rememberance. Our attention is now naturally turned to the explanation and fulfilment of that original promise, or intimation of vengeance to be taken on the <choice><reg>serpent</reg><orig>ser-
+    
+<pb facs="hta.007.002"/>
+    
+    pent,</orig></choice> and salvation to be restored to man: <quote type="biblical" xml:id="hta.007.q002" source="kjv"> "The Seed of the woman shall bruise the serpent's head." </quote><bibl corresp="#hta.007.q002" resp="#eds">Genesis 3:15</bibl> By <hi rend="italic">the</hi> woman was meant that same woman who had been both the decieved and the tempter in her turn&#8212;Eve herself. Therfore, for the information of all those who come after, Moses had delivered to us, what he doubtless received from the Lord, a correct genealogy of the patriarchs from Adam to the time of the general deluge. By this we are sure that Noah was in direct descent from her, to whom and whose seed the promise of redemption was made.</p>
+    <p><quote type="biblical" xml:id="hta.007.q003" source="kjv">"This is the book of the generations of Adam."</quote><bibl corresp="#hta.007.q003" resp="#eds">John 9:41</bibl>&#8212;On this important point Moses, omitting all other details of antediluvian history, which might have been highly gratifying to posterity, is as particular and minute as the most inquisitive sceptic could require. In the fifth chapter of Genesis we may read the names of Adam's lineal descendants for ten generations, ending in Noah, who finished the first, and commenced the second covenant with God. These ten generations occupied a portion of time equal to nearly sixteen hundred ears. On reference to the text, we find that the average life of each was about nin hundred years. Let not this strike us with astonishment. It was in exact conformity with the wisdom of God that the usual length of human
+
+<pb facs="hta.007.003"/>
+    
+    life should have reference to the state of population. Instead, therefore, of regarding this as a wonder, with any vague idea that God intended it as a special mark of his favour, or that the present abbreviated span of human life is in itself a withholding of his love, or a part of our punishment, let us rather remind ourselves, from the awful fate of the old world, that the experience of a thousand years is not sufficient to make men wise unto salvation. That the changes and the chances of ever so long a life do not school mankind, and bring them to a steady recollection of their duty ; that the life, even when extended to a length which now appears so liberal, was not intended by God ever to be its own reward; and that man was never left long without an awful warning, to consdier it as prelimary to another, is placed beyond a doubt by the miraculous removal of Enoch from earth to heaven.</p>
+    <p>Nothing, indeed, can be more determinate and satisfactory on the subject of life everlasting, than what is mentioned in the 22d and 24th verses: <quote type="biblical" xml:id="hta.007.q004" source="kjv">"And Enoch walked with God after he begat Methuselah."</quote><bibl corresp="#hta.007.q004" resp="#eds">Genesis 5:22</bibl> This expression of walking with God is not applied by Moses to any other of the patriachs; and lest there be a doubt, he repeats the same expression in the 24th verse: <quote type="biblical" xml:id="hta.007.q005" source="kjv">"And
+
+<pb facs="hta.007.004"/>    
+    
+    Enoch walked with God,"</quote><bibl corresp="#hta.007.q005" resp="#eds">Genesis 5:24</bibl> i.e. conformed himself to God's commandments; and what was the result? <quote type="biblical" xml:id="hta.007.q006" source="kjv">"Enoch <hi rend="italic">was</hi> not, for God took him."</quote><bibl corresp="#hta.007.q006" resp="#eds">John 9:41</bibl> We must remark also, that Enoch was thus removed when he had not completed the half of human life, according to its usual duration at that time. Those who are fit for heaven, can never be thought to have escaped from earth too soon. It is not possible to withdraw our thoughts from this mysterious interference of Heaven in favour of Enoch, without recurring to the testimony which the Apostle St.Jude bears to it in his Epistle general. The Apostle exhorts all the Christian aconverts of that time to adhere most closely to that faith which the Lord had delivered to the APostles, and the Apostles to them. He warns them against false doctrines which were even then propogated; and he enforces his exhortation and his warning by holding out the terrors of the Lord. He assures them, that the propagators of these false doctrines were ordained to condemnation. He illustrates this assertion by very apt allusions to the authentic history of God's own people. He instances the delivery of Israel, as a nation, from Egypt, by the miraculous interference of the Almighty, and subjoins to it the equally miraculous and heaven-inflicted punishment of those who tempted God in the wilderness. He instances, also the <choice><reg>destruction</reg><orig>destruc-
+            
+<pb facs="hta.007.005"/>
+            
+    tion,</orig></choice> of Sodom and Gomarrah, as well as the lamentable case of Cain, and Cora, and Balaam, that his disciples might call to mind the uniformity of God's councils in all ages. Having delineated, in very accurate and striking colours, the characterisstics of ungodly men (whose minds have, in every period of the world, led them to speak evil of those things which they know not), he affirms, without hesitation, that to them the blackness of darkness is reserved for ever, and that this fearful condemnation has passed upon them agreeably to the oldest spiriti of prophecy. Enoch also, the seventh from Adam, prophesied of these, saying <quote type="biblical" xml:id="hta.007.q007" source="kjv">"Behold, the Lord cometh with ten thousand of his saints to execute judgment upon all."</quote><bibl corresp="#hta.007.q007" resp="#eds">Jude 1:14</bibl> The remainder of this prophecy will be found, on turning to the 15th and 16th verses of St. Jude's Epistle : it is very striking&#8212;it is very peculiar. The phraseology of it, even under translation, differs from all other passages of Holy Writ, and is, in itself, as irresistable proof of its originality.</p>
+    <p>On the prophecy itself, however, I propose not to comment much. I have referred to the passage, because we possess therein the unanswerable testimony, which an inspired Apostle bears to the correctness and authroity of Moses, in recording the existence, and describing the character of Enoch. Moses tells us simply,
+    
+<pb facs="hta.007.006"/>    
+    
+    that <quote type="biblical" xml:id="hta.007.q008" source="kjv">"Enoch walked with God."</quote><bibl corresp="#hta.007.q008" resp="#eds">Genesis 5:24</bibl> St.Judge informs us, that he was a prophet, and supports his assertion, by giving us a prophecy which he contends to be a part of that instruction which from the beginning of all things was occasionally imparted by God to man/</p>
+    <p>This is, indeed, a very valuable fragment of antediluvian history, preserved, it should seem, by the special providence of God, who taught the spirit of St.Jude to discern what was genuine, although it might be but traditional.</p>
+    <p>We cannot be struck with the plain and peremptory manner in which St.Jude makes mention of Enoch, his place among the patriarchs, and his spiritual graces. He does not seem apprehensive of doubt or denial, but ranges it as an undeniable record, with other events, cherished in the memory of all the Jews, and promulgated by them amongst the surrounding nations.</p>
+    <p>The Epistle of St.Jude is very short. On a first perusal, it may not appear to contain any thing essential to salvation, nor any thing which makes it necessary to the completion of Holy Scripture. But when we regard it as an authority for pronouncing that God did always, from the very fall of man, send prophets into the
+    
+<pb facs="hta.007.007"/>    
+    
+    world, and that, however distant and far apart the links of the chain might be, yet that the connexion did subsist unbroken between Adam and Abraham, and consequently between all the covenants of either testament, we shall then learn to look on the preservation of St.Jude's Epistle as a signal favour granted to our Church. We shall regard it as no unimportant explanation of those means by which God has continually recalled man from the error of his way.</p>
+    <p>St.Jude is careful to state the Enoch of whom he spake, was the seventh from Adam. This minuteness has its object. It was to distinguish this patriarch from another Enoch, whose name occurs in the genealogy of Cain. it may also be worthy of remark, that Enoch must have prophesied at a period of time nearly equidistant from the creation and the deluge. Probably, he recieved from Adam himself an awful account of God's first communion with man, whilst his own warnings and predictions could not have been delivered by his own son Methuselah, even to the children of Noah. Thus did it then require the intervention of only two generations to deliver by the most impressive medium of oral tradition, the evidences of God's power, the knowledge of his will, the justice of his anger, and the intimation of his promised mercy to those who peopled the world
+    
+<pb facs="hta.007.008"/>    
+        
+        after the deluge. Although the face of the earth might be altogether changed; yet no flood of waters could wash away the impression of such tremendous truths, descending in so short a line from God himself, in the minds of those who were inclined to retain them. Few, alas! had been inclined to retain them, even until the seventh from Adam. The prophecy of Enoch was in vain as a warning. His translation to heaven was equally fruitless as an example. The ways of God were vindicated, but those of man were unreformed. The wickedness of the earth become such that it was <quote type="biblical" xml:id="hta.007.q009" source="kjv">"corrupt befo God."</quote><bibl corresp="#hta.007.q009" resp="#eds">Genesis 6:11</bibl> By this expression, we must be very careful to understand all that is meant&#8212;corruption of worship as well as of morals&#8212;idolatory, that worst and most unpardonable of offences, which the Apostle, in after-times, so appropriately terms witchcraft; which is so much the greater object of God's vengeance than any breach of his laws as between man and man, because it removes the very landmarks of religion, and renders it impossible for man to claim the promise of redemption. Idolatry was an attempt to render the atonement of Christ nugatory by anticipation; it was putting God to open shame. The anger of God against idolatry is, in fact, the kindness of God towards men. He gives his only Son, to the end that all who believe in him, should not perish, but have <choice><reg>everlasting</reg><orig>ever-
+            
+<pb facs="hta.007.009"/>
+            
+    lasting,</orig></choice> He declared his intention so to do from the beginning. He instituted appropriate worship, and appointed representative sacrifices, to keep his promises alive in men's hearts, and afford them an interest in a future covenant, by the means of their faith and obedience to the first. These benevolent purposes of the Almighty were what Satan always endeavoured to counteract, and therefore continually enticed man from the pure and spiritual service of the Almighty, and filled his mind with vain fancies, cruel superstitutions, and monstrous ceremonies. It was the obvious cunning of a fallen angel, to begin with debasing the intellects of man, that he might end by reducing his morals below the instinct of the brutes which perish. Remember, therefore, that the nations of old filled up the measure of their intiquities by idolatry: so universal was this falling-off become in the course of ten generations after Adam, that Noah alone in all the earth was found to have kept alive in his own heart, and that of his household, the knowledge of the true God.</p>
+    <p>Our time will not now suffice us to expatiate suitably on that most tremendous exercise of God's power, the universal deluge, which marred the original features of the globe, which dropped a veil over God's first works&#8212;a veil which the philosophy of the
+    
+<pb facs="hta.007.010"/>    
+    
+    heathens vainly endeavoured to remove, but through which inspired history enables us to penetrate so far as is necessary for the foundation of the faith that is in us. I shall defer so important a subject, till, under Providence, we renew our weekly researches; and I will now merely add a few observations on the subject of idolatry, a crime whose polluting poison has mixed itself with the pure waters of the Gospel over more than half the nominal regions of Christianity. Very thankful, doubtless, ought to be all those whose lot has been cast by God within the pale of a reformed church; most humbly thankful , for we know not why we have been vessels made unto honour. Our thanks, however, though humble as regarding ourselves, ought to be avowed in justice to our cause, and in honour of God: on such a subject it is not humility, but prevarication, to be silent. On the contrary, the outward mark of our high calling being a patriarchal simplicity of worship, we are bound to be extremely jealous for the honour of the Lord. We are to set ourselves in arry against all compromise on such a subject; we are to life up our voice, and cry aloud, when the wisdom of this world holds out the right hand of fellowship to the worshippers of a graven image. If God has vouchsafed to sntach us from idolaters, feigning themselves Christians, let
+   
+<pb facs="hta.007.011"/>   
+    us remember who it is that has called us; it is Jehovah the Lord. He called Noah from idolaters; he called Abraham from idolaters; he called Israel from the gods of Egypt. His Son Jesus Christ our Lord called his Apostles from Judaism; his Apostles called the heathens from paganism. In latter times, the elect have been called through perils of fire and sword, and false brethren, from the errors of a corrupt church, to one which in spirit and in faith is pure; from a church which solicits human mediation, acknowledges human absolution, and avows human perfectibility, which invents sacraments, and interprets God's will in defiance of his word; to a church which neither adds one tittle to Scripture, nor diminishes aught from it, which declares its purest professors to be unprofitable servants, and which bows the knee to Jesus Christ, and Jesus Christ alone.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
