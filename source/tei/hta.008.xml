@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.008" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.008</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-06"><name sameAs="#hb"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.008.001"/>
+    
+    <head>LECTURE IV.</head>
+    <head type="sub"><bibl>GENESIS, VII. PART OF VER. 13.</bibl><lb/>
+        <hi rend="italic">And Noah only remained alive, and they that were with him in the ark.</hi></head>
+
+    <p>To such a degree of wickedness of were mankind arrived in the course of ten generations, that the historian seems almost at a loss for expressions of sufficient force. He tells us that God saw that the wickedness of man was great in the earth : we must understand herby, that its enormity was become audacious, and thrust itself into the notice of God, so that the honour of his name rendered farther forbearance impossible. That God always does see every individual crime committed on the earth, is undeniable; not only committed crimes, but the seeds of every evil action whilst yet it is lurking in the heart. But it should seem that the overflowings of his wrath are reserved until all hopes of amendment are removed by the extent as well as depth of iniquity. Such overflowings, therefore, of divine wrath (which, after all, is but divine justice), as they can never be in the
+        
+<pb facs="hta.008.002"/>
+        
+    least foreseen or calculated upon by us, so ought they always to be considered as most likely to be poured out, when whole nations are sunk in debauchery, or totally wrapt up in vain, worldly, and proud pursuits; when they adopt and avow publicly false systems of religion; when they set at nought the only proffered mode of salvation, because they cannot demonstrate all the means which it employs; when they neglect public worship and private prayers; when they disregard God's sacraments, which are the voice whereby he now speaks to mankind; when they cease to search the Scriptures, and either leave their salvation to chance, or claim it as the reward due unto them, for conducting themselves in general according to the precepts of a decent morality, and hiding their favorite sin from public inspection. It is more than probable, that many nations may have thrust themselves, as it were, upon the edge of God's mercy, and may be really most obnoxious to his wrath, when they apepar to be enjoying his favour, on account of their external prosperity. We may be wisely reminded by the testimony of Holy Writ, that when God looked down with closer aspect on the crimes of the antediluvian sinners, he did not, at the time, give them any particular warning. They evinced neither knowledge nor apprehension of their impending destruction. This is no matter of conjecture; our Saviour
+    
+<pb facs="hta.008.003"/>    
+    
+    describes their supineness, by likening unto it the deplorable thoughtlessness and besotted security of those who were to be overwhlemed in the destruction of Jerusalem, and those who shall fall into the hands of the living God at the last day. (St. Mark, xxiv. 38.) <quote type="biblical" xml:id="hta.008.q001" source="kjv">"As the days of Noah were, so shall also the coming of the Son of Man be. For as, in the days that were before the flood, they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark, and knew not until the flood came and took them all away; so also shall the coming of the Son of Man be." Here we cannot but observe, that our Saviour, desirous of representing as strongly as possible the suddenness with which Jerusalem should be destroyed, and the probable greater suddenness with which this earth shall be dissolved in an hour which no man knoweth of, can compare it only to the instantaneous operation of the deluge. "They know not until the flood came and took them all away."</quote><bibl corresp="#hta.008.q001" resp="#eds">Matthew 24:38</bibl>&#8212;Alas! how frequently is this exemplified even to this day in the fate of individuals! They flatter themselves that they are so strong that they cannot be moved; or they count upon warnings, which have been already lavished upon them; or they say, <quote type="biblical" xml:id="hta.008.q002" source="kjv">"Tush, God will not perceive it, the Most High regardeth it not;"</quote><bibl corresp="#hta.008.q002" resp="#eds">Romans 14:6</bibl> till their visitation cometh with the silence of a thief in the night, and the
+    
+<pb facs="hta.008.004"/>   
+    
+    vigour of a giant refreshed from sleep. We must regard this want of foresight as a judicial curse, because the same history informs us, that God, in the midst of his indignation, remembered his mercy, and forgot not his covenant. <quote type="biblical" xml:id="hta.008.q003" source="kjv">"Though it repented the Lord that he had made man on the earth,"</quote><bibl corresp="#hta.008.q003" resp="#eds">Genesis 6:6</bibl> a strong and figurative expression, denoting that the human race had, by its own abomination, perverted every effort of divine love, and crossed all purposes of divine wisdom; so that, had God been like man, he would have repented himself of creation; though the Lord is represented as saying, <quote type="biblical" xml:id="hta.008.q004" source="kjv">"I will destroy man whom I have created from the face of the earth, both man and beast, and the creeping thing, and the fowls of the air;"</quote><bibl corresp="#hta.008.q004" resp="#eds">Genesis 6:7</bibl> still did Noah find grace in the eyes of the Lord&#8212;and we are distinctly told why this grace was shown to him. <quote type="biblical" xml:id="hta.008.q005" source="kjv">"Noah was a just man and perfect in his generations; and Noah walked with God."</quote><bibl corresp="#hta.008.q005" resp="#eds">Genesis 6:9</bibl> By the words, just man, and perfect in his generations, we must understand, not only that he was himself honest and conscientious, a regarder of the rights of society, one who kept his passions in proper subjection, and who observed those rites of true religion which had been handed down to him as the representative of Seth, but that he kept himself strictly apart and seperate from the idolaters with whom he was surrounded, and
+    
+<pb facs="hta.008.005"/>    
+   
+    was successful, also, in preserving from such dangerous infection his three sons. What an awful, yet animating instance is this to prove, that the blessing of good example and good instruction is invaluable!</p>
+    <p>In breeding up his sons to walk in his own steps, Noah was, under God, the cause of again spreading over the face of the earth, nations who should praise the Lord. Indeed, no bounds can be placed to the beneficiant consequences of watching over the spiritual welfare of the rising generation. Noah not only led in safety over the dangers of the deluge his wife and sons, but also his sons' wives, who we cannot but suppose must have been thus snatched from destruction. They were, doubtless, of an idolatrous family, as to none of their relatives was salvation extended. That the holy and the virtuous should be able sometimes, and to a certain degree, to rescue those who cannot save themselves, is a most encouraging hope; it has recieved the sanction of God himself; for he would have pardoned Sodom even for the sake of ten righteous.</p>
+    <p>The Almighty was pleased to inform Noah of his determination to bring destruction on the earth, and the means which he intended to employ. He commanded him to construct an
+    
+<pb facs="hta.008.006"/>    
+        ark, or habitable vessel, capable of floating on the waters, which were to overwhelm all beings but those therin admitted. That Noah did construct such a safeguard by divine command, is self-evident. No natural cause, no customary phenomenon, could have suggested to him this novel precaution. Had it been so, would not some others besides himself have done the same? Would they not, at least, have observed his foresight, inquired into his fears, and profited by his example? The same divine power which enlightened him, blinded them. <quote type="biblical" xml:id="hta.008.q006" source="kjv">"From him who has not, shall be taken even that which he hath:"</quote><bibl corresp="#hta.008.q006" resp="#eds">Matthew 25:29</bibl>i.e. he who hath no inclination to learn the will, nor walk in the way of God, shall soon be struck with spiritual blindness, and fall into the pit which his own hands have digged. Their hearts were hardened, so that they could not see with their eyes; or they might surely have been wise enough in their generation to do that which Noah did. This is one of the surest marks of being deserted of God, and given over to punishment, when the wicked turn away with indifference from the counsels and practices of those whom they know to be wiser than themselves. So, when, in aftertimes, Lot would fain have opened the understandings and touched the hearts of the Sodomites, he seemed unto them as one who mocked. Above all things, my friends, mistrust <choice><reg>yourselves</reg><orig>your-
+    
+<pb facs="hta.008.007"/>    
+    
+    selves</orig></choice> when you feel a spirit of security; try the spirit ere you be led by it. If you feel indisposed to recieve instruction, be assured you stand in need of it. If you think you stand, dread lest you be then on the point of falling.</p>
+    <p>Those devoted persons, who set the prudence of Noah at nought, were, as the Gospel says, eating and drinking, marrying and giving in marriage, although the sentence of their destruction was already gone forth. <quote type="biblical" xml:id="hta.008.q007" source="kjv">"And behold I, even I, do bring a flood of waters on the earth to destroy all flesh werein is the breath of life, from under heaven; and every thing that is in the earth shall die."</quote><bibl corresp="#hta.008.q007" resp="#eds">Genesis 6:17</bibl> Let no audacious spirit of doubt or rebellion here suggest that it was not consonant with the justice of God to cut off from the face of the earth the various animals which tenanted it, on account of man's iniquities, and thus involve those who could not have offended, with those whose offences were so heinous. The insolence of such suggestions is equalled only by their folly. We do not know that death is any evil to the material part of animated nature; we do know that the Creator has a right to suspend all the faculties, and terminate the existence, of the creature: says not God by his inspired Psalmist, <quote type="biblical" xml:id="hta.008.q008" source="kjv">"The fowls of the air are mine, and so are the cattle on a thousand hills?"</quote><bibl corresp="#hta.008.q008" resp="#eds">Psalms 50:10</bibl>&#8212;Immediately
+    
+<pb facs="hta.008.008"/>    
+    
+    subsequent to the above threat of destroying the world as it then existed, we read, that God said unto Noah, <quote type="biblical" xml:id="hta.008.q009" source="kjv">"But with thee will I establish  my covenant."</quote><bibl corresp="#hta.008.q009" resp="#eds">Genesis 6:18</bibl> Here God reminds the just man that a covenant did exist, and that, in spite of the general contradiction of sinners and the apparant universality of destruction, that covenant should be established. Now, as we do not read of any previous covenant made personally with Noah, this could be no other than the original promise made in Eden, that the <quote type="biblical" xml:id="hta.008.q010" source="kjv">"seed of the woman should bruise the serpent's head."</quote><bibl corresp="#hta.008.q010" resp="#eds">Genesis 3:15</bibl> Therefore, a remnant of the woman's seed needs must be preserved; and thus did God establish his covenant by saving Noah and his sons to repeople the earth, instead of creating man a second time from the dust thereof. God herein assured him that the deluge should not wash away the covenant. Is not this most strikingly set forth, when our Saviour says, <quote type="biblical" xml:id="hta.008.q011" source="kjv">"Heaven and earth shall pass away, but my world shall not pass away?"</quote><bibl corresp="#hta.008.q011" resp="#eds">Matthew 24:35</bibl> Relying on the covenant of the Lord, Noah entered without fear or reluctance into the ark; and whoever of his posterity, now-a-days, has equal confidence in the faithfulnness of GOd's promises, will ever cheerfully follow the motions of his hand, humbly trusting, that however the tempest of calamity may darken around him, he shall, by some means, be brought into the haven where he would be.</p>
+
+<pb facs="hta.008.009"/>
+    
+    <p>The sudden and irresistable force with which God carried into effect the determination of his counsels, is most impressively stated by the sacred historian: "The same day were all the fountains of the great deep broken up, and the windows of heaven were opened."&#8212;Can words be more sublime, can miracle be more plainly stated? We understand at once, that the waters which were above the firmament, and the waters which were below the firmament, hastened to obey the hand that had once repressed them. Thus did the clouds of heaven and the deep places of the sea fulfil his words; thus did he send out his voice, yea, and that a mighty voice. That the fountains of the deep were broken up, and that the ocean forgot its ancient boundaries, is apparant from many evidences remaining unto this day. And if it should be presumptuously asked, whether the Almighty could not have effected his purpose, and covered all things with waters from above, without breaking up the resevoirs of the ocean; it may be answered, that he thought it right and merciful to set up imperishable marks of his power for the instruction of those who came after. We are told, that the flood was forty days upon the earth. This can hardly fail to remind us, that the duration of many other remarkable interferences has had the same limit. Moses was in the mount forty days&#8212;the children of Israel
+    
+<pb facs="hta.008.010"/>    
+    
+    in the wilderness forty years&#8212;our Saviour forty days in the wilderness; and forty days elapsed between his resurrection and ascension. Far be it from us to affect the power of explaining why this analogy exists, but its existence will not be useless if it induces us to take a deeper interest in the words of Scripture, and to fit ourselves for that improved state of existence, in which all things shall be explained.</p>
+    <p>From what we have this day considered, be this our salutary conclusion, that individuals are called to righteousness and holiness of life, not only by threat of individual punishment, but by proof that God does punish whole nations collectively. There is no safety in following a multitude to do evil; on the contrary, when God's wrath is provoked to take vengeance on communities, who shall abide the breath of his displeasure? Nations and empires are nothing in the sight of God: like a vesture did he change them, when they strove against his Spirit. Let not the fear of singularity deter us from doing our duty; neither let us imagine, that our single efforts will be unavailing against the pernicious influence of a corrupt world. Had not Noah dared to be singular, he had not remained alive, nor had he been the blessed instrument of saving all those that were with him in the ark.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
