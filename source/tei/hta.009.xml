@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.009" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.009</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-06"><name sameAs="#hb"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.009.001"/>
+    
+    <head>LECTURE V.</head>
+    <head type="sub"><bibl>GENESIS, VIII. PART OF VER. 1.</bibl><lb/>
+    <hi rend="italic">And God remembered Noah.</hi></head>
+
+    <p>And God, my beloved friends, will never forget nor desert those who remember his law, and act with reference to his commandment. Be assured, that although the Lord may not now-a-days appear to work miracles in our eyes, he does nevertheless extend a special protection over the righteous. He ordereth all things for their good; and he taketh them out of the great waterfloods of affliction, if they really cast their care on him. He who worked the greater deliverance of Noah,&#8212;he who baptized the whole earth, and made it a type of that regeneration which was afterwards to be received by the elect people of God&#8212;he can always effect the lesser deliverance of individuals. And, probably, he would be much more ready to help us, if we had faith but as a grain of mustard-seed, and were not so troubled, as we are, about many things. Why are we so dull of understanding, so slow to remember that the very hairs of our head are numbered, and that a sparrow does
+    
+<pb facs="hta.009.002"/>    
+    not fall to the ground unnoticed? Amongst other salutary effects attending on a frequent perusal of the Scriptures, it will not be a small thing that we accustom ourselves to consider God as always actually present, directing every dispensation which we call nature, regulating the seasons, pouring forth his rain, diffusing his sunshine, and spreading his hoar frost like ashes; frowning on us in every tempest, sending forth his ministers of wrath in the forms of war, pestilence, and famine, to fulfil his word; and sometimes, how much oftener than we deserve, intimating, by intervals of tranquillity, health, and abundance, what should be our lot did we always turn unto him; what shall be our lot when Christ restores the kingdom to his saints. It is good, therefore, for us continually to meditate on those periods of the world, when God spake with man face to face, or at least by some unequivocal voice or vision.</p>
+    <p>"And God remembered Noah."&#8212;The details of the deluge have been recorded with singular minuteness. Let us recall to our memories the principal circumstances, in their natural series.&#8212;The rain was upon the earth forty days and forty night: during the period of forty days, it ceased not to rain; and, probably, during the same time, all the subterraneous resources of moisture were in
+    
+<pb facs="hta.009.003"/>
+    a constant state of activity, so that the flood was uniformly accumulating in depth, and all things beneath its surface were in a state of flux and confusion. No doubt the work of vengeance and desturction went on during these forty days. They may be considered as teh appointed time of purification; so that there should afterwards be, as it were, a new earth, and, in some respects, a new heaven: I speak of the atmosphere and its ordinary characteristics. We may, without any charge of superstition, be allowed to remark, that God set apart the same precise number of days for thus washing away the antediluvian offences, as he enjoyed Moses to await in Mount Sinai, before he was deemed fit to recieve the communications fo the Spirit: and that in this latter instance there was something very perculiar intended by the term of forty days, we are sure, because when Moses, having, in his zealous indignation against idolatry, broken the first tables, was allowed to receive them a second time secluded in the mountain forty days, as before, previous to the renewal of the law. Including the above forty days of rain, the waters prevailed on the earth one hundred and fifty days. During this time we are not to supposed that there was neither increase nor decrease: the waters had exceeded the summits of the loftiest mountains by fifteen cuits; of
+    
+<pb facs="hta.009.004"/>    
+    course they covered the ordinary level of the earth by many hundred feet. This alone proves that the accumulation far exceeded what could have been prodcued by even forty days of incessant rain under usual circumstances: it proves that the fountains of the deep were broken up, and that the element had "a message from the Lord." Such an amazing body of water though gradually subsiding, was said to prevail on the earth one hundred and fifty days, because, until the expiration of that time, no sensible proof was adduced of its diminution. At the end of one hundred and fifty days, i.e. five months from the commencement of the rain, did the ark rest upon the mountains of Ararat in Armenia. Though the waters decreased continually, yet it was not until other forty days had elapsed from the time of the ark becoming thus stationary, that even the tops of mountains were seen. The rapidity with which earth, and all its tenants, all its productions, all its original beauties, had sunk beneath the avenging waters, when compared with the slowness, the tediousness, and, as it were, the reluctance of its recovery, was doubtless meant to impress on the mind of Noah and his family, as it must impresss on the mind of every reflecting person, this lesson: the desolation which human profligacy, both individual and national, pours out like a flood, constantly leaves behind it effects
+    
+<pb facs="hta.009.005"/>    
+    which many succeeding generations must deplore, and of which no lapse of time can quite eradicate the deepended vestiges.</p>
+    <p>As soon as the tops of the mountains were become visible, Noah sent forth a raven, which returned no more, but appears to have continued incessantly on the wing, till it found some spot from which the waters had retired. The wwandering character of the raven is here most accurately and faithfully contrasted with that of a dove which Noah sent forth soon afterwards, probably because the raven returned not. The dove, finding no rest for the sole of its foot, sought against the the shelter of the ark, from which, after an interval of seven days, and consequently a farther abatement of the waters, Noah a second time sent if forth to explore. This time the bird returned to him with the leaf of an olive in its beak&#8212;an encouraging proof that the floiage of the trees was now above the level of the waters. This leaf of olive was truly proof of pacification between God and man; and we cannot demand a stronger evidence of the truth of this circumstance, than that among nations who had lost the knowledge of the true God, the olive-branch was an established pledge of peace and unity between man and man. Neither may it be impertinent to remark, that both the birds chosen by Noah to
+    
+<pb facs="hta.009.006"/>    
+        ascertain circumstances so connected with his temporal safety, were in after-times selected by God as agents on occasions not less important. The raven is particularly mentioned as having ministered food to Elijah in his solitude, when Israel was vexed with a grievous famine. And we have only to refer to the commencement of all the four Gosepls to learn that it was in the figure of the dove that the Holy Ghost descended upon our Saviour, as he emerged from the waters of Jordan. This was that effectual message of peace and pardon, of grace and goodwill to men, which had been dimly shadowed out to Noah by the return of the dove, bearing the leaf of olive.&#8212;For the last time, after other seven days, Noah sent forth the dove, which returned no more. This event was regularly succeeded by the final reduction of the waters; and at the end of one year, according to our computation, from the commencement of the rain, did Noah and his family, surrounded with the remaining sources of animated life, come forth under the word of the Lord, who had remembered him. And Noah endeavoured to show that he remembered sucha wonderful and unmerited distinction, as Christians we say unmerited, for all had sinned in Adam. Not even Noah, by any works of his own, could have deserved preservation. By faith alone in a future Saviour, though it be not so stated to us, could
+    
+<pb facs="hta.009.007"/>    
+    he have found grace in the sight of the Lord. Noah, I say, endeavoured to show his humble gratitude to the Lord his Saviour by building an altar unto him and sacrificing thereon, in strict conformity to ordinances which must have been delivered to him before the flood. What a lesson to all of us! Be we reminded by it, whenever we are delivered out of any strait or trouble, from the fraud or violence of man, from the arrow which flieth by night, or the pestilence which stalketh by day; be we reminded to return our earliest and our most manifest thanks to our Preserver and Redeemer in the sight of all his people; let us receive the cup of salvation at the altar which the piety of our fathers has rescued from pollution.</p>
+    <p>It apepars that this prompt and ready sacrifice on the part of Noah was not unnoticed. The expression of God's satisfaction is, indeed, recorded in the strongest figure of inspired lnaguage: <quote type="biblical" xml:id="hta.009.q002" source="kjv">"And the Lord smelled a sweet savour; and the Lord said in his heart, I will not again curse the ground any more for man's sake."</quote><bibl corresp="#hta.009.q002" resp="#eds">Genesis 8:21</bibl> What Moses hereabove delivers as the disposition of the Most High, was subsequently declared by God to Noah, as we read in the ninth chapter of Genesis. God was pleased to bless Noah and his sons, to give them general possession of the renewed earth, to prescribe them a moral law, and
+    
+<pb facs="hta.009.008"/>    
+    to establish his covenant with them, that the earth should not again be destroyed by a flood;</p>
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
