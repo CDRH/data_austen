@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.011" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.011</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.011.001"/>
+    
+    <head>LECTURE VII.</head>
+    <head type="sub"><bibl>GENESIS, XIV. 18.</bibl><lb/>
+        <hi rend="italic">And Melchizedek, king of Salem, brought forth bread and wine; and he was the priest of the most high God.</hi></head>
+
+    <p>The chapter from which I have selected the foregoing verse may not, on a first perusal, appear to contain much that is important to Christians; yet, perhaps, on a closer consideration, we may discover a satisfactory reason why Moses regarded the events of which it treats as both interesting and instructive to remoter generations.</p>
+    <p>We learn, that four of the kings which ruled over various territories to the east of Canaan, made war against five kings of the latter country, including those of Sodom and Gomorrah. Victory was with the former, who, in consequence, ravaged the dominions of the vanquished, and took off with them much plunder and many captives. Amongst the latter was Abraham's nephew, Lot, who had fixed his
+    
+<pb facs="hta.011.002"/>    
+    dwelling in Sodom, and who thus, by evil communication, put into jeopardy his property, his life, and the welfare of all his family: no unintended warning on the part of Heaven, both to Lot, and to all who, like him, in after-times, may not take sufficient heed unto themselves, but voluntarily set up the staff of their rest in the midst of an unclean people. If Abraham had hereon abandoned Lot to the natural course of events drawn down by the latter on himself, we are not justified in saying that blame would have attached to the former. But as Abraham does seem to have been raised up, selected, and set apart by God, to be not only the receiver of an improved covenant, the father of the faithful, the fleshly progenitor of the Messiah, but also to be a pattern and model of every nobler sentiment and every liberal act which Christians now consider as the badge and test of their profession and truth; so would it have been quite inconsistent with the effect that must have been  produced on the heart of Abraham, by a revealed knowledge of God's mercies towards him, had he not, in consequence, been filled and actuated by an exceeding great desire of dispensing mercy and assistance to all prisoners and captives, and especially to one connected by the ties of blood. When, therefore, Abraham armed himself and his household for the rescue of Lot, he was actuated by a feeling of justice and
+    
+<pb facs="hta.011.003"/>    
+        humanity. On such occasions only can arms be seized with any reasonable hopes of ultimate success; and when such shall be the only motives on which man sets himself in array against his fellow, then may we hope that the Lord is hastening his time, when righteousness and peace shall kiss each other.</p>    <p>Abraham was as decidedly successful as his cause was just. His conduct, also, in the event came out from the trial of prosperity, as pure as his motives. (Ver. 16.) <quote type="biblical" xml:id="hta.011.q001" source="kjv">"And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people."</quote><bibl corresp="#hta.011.q001" resp="#eds">Genesis 14:16</bibl> Although Lot is here termed Abraham's brother, yet in fact he was his nephew only. The appellation of brother is used to show how dearly he was loved by Abraham, who considered him in the light of a brother, and rendered him such services as a Christian would to his brother. Abraham returning, is met by the king of Sodom, who proposes a participation of the booty, wishing to receive back the prisoners, who were probably his own subjects, and proffering the goods to Abraham as the reasonable fruits of his victory, and as what he himself, had their respective situations been changed, would doubtless have thought himself entitled to. What was the patriarch's reply? It was exactly that of one whom triumph could
+        
+<pb facs="hta.011.004"/>        
+    not elevate above the line of duty, and in whose heart the dictates of conscience were always heard; who in the moment of victory forgot not the Giver of all victory, nor ascribed to himself nor his own arm the honour due unto the Lord. (Ver. 22.) <quote type="biblical" xml:id="hta.011.q002" source="kjv">"And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth, that I will not take from a thread even to a shoe-latchet, and that I will not take any thing that is thine, lest thou shouldest say, I have made Abram rich, save only that which the young men have eaten, and the portion of the men which went with me."</quote><bibl corresp="#hta.011.q002" resp="#eds">Genesis 14:22</bibl>&#8212;In the commencement of the above solemn declaration, Abraham intimates, that previous to his expedition, he had made a vow (whether publicly or in his heart, signfies not; for the vows of all religious men are by them considered as made unto the Lord), that he would pursue the ends of justice only, and not sully the success of an honest cause by the acquisition of any profit at another's expense.</p>
+    <p>Not only was this virtuous determination of Abraham strictly acted up to in the hour when prosperity tried him, but he gave another remarkable instance, at the same time, of his thankfulness and humble gratitude to God. Instead of swelling his own substance, according
+    
+<pb facs="hta.011.005"/>    
+        to the laws of conquest, he gave tithes of all that he had to the priest of the most high God. This holy personage was Melchizedek, king of Salem. Of the genealogy, the history, the life, and death of this personage we know nothing; we know only what Moses has delivered to us as connected with the history of the founder of the Jewish race. However curiosity may lament that so little has been revealed to us, we may be assured that enough has been recorded for all necessary purposes of our instruction. Let us then draw the instruction which is offered. Melchizedek is stated to be both a king, and the priest of the most high God; that is, the high, and perhaps the only priest of the only true God&#8212;that God who had already made a covenant with Abraham, that in his seed, namely, in Jesus Christ, should all the families of the earth be blessed. The kingly title could add no real dignity to such an office; but it showed, at least, that a priesthood under the dispensation and covenant which God had given to Noah, did even then exist, and was formally acknowledged and considered as involving duties which kings might be proud to discharge. We find, then, that the knowledge of the true God was by no means extinct among the nations of Canaan, however their growing disposition to idolatry might, at this time, be an inducement with the Almighty to raise up another people on whom
+    
+<pb facs="hta.011.006"/>    
+    hereafter the priesthood was to be conferred for a time. So far was the knowledge of God from being extinct in the land of Canaan at that period, that it seems his high priest was actually king of Salem, afterwards Jersualem, a city within a short distance of Sodom and Gomorrah.</p>   
+    <p>Thus are both the particular and general consistency of God, his immediate and remote judgments, illustrated. Nothing could make the idolatry of the Canaanites more heinous than their turning away from the most high God, even though he had established his priest among them. We ar thus furnished with a very sufficient reason for their being given up to the sword of the Israelites, whom Melchizedek had blessed, in blessing their father Abraham.</p>
+    <p>By this interview between Abraham the receiver of his promises, and his priest Melchizedek, who was a type of Him that should fulfil all the promises, we are led to consider God in the light of a merciful, as well as an avenging being; for it is very clear that Melchizedek in several respects was a type of our Lord. Both David and St.Paul are our authorities for this construction. The former, in the 110th Psalm, puts these words into the mouth of God the Father, as investing the Son with the
+    
+<pb facs="hta.011.007"/>    
+    sacerdoctal character: <quote type="biblical" xml:id="hta.011.q003" source="kjv">"The Lord sware, and will not repent; Thou art a priest for every after the order of Melchizedek."</quote><bibl corresp="#hta.011.q003" resp="#eds">Psalm 110:4</bibl> Lest any doubt should exist in our minds as to the personage of whom David prophesies, the Apostle St. Paul, in his Epistle to the Hebrews, very largely and quite satisfactory explains all that might be considered dark in the exclamation of the royal Prophet, and applies it to our Saviour in a sense most consoling to the Christian. He most comfortably interprets in the following manner: since Melchizedek is introduced, as being already the priest of the most high GOd, previous to his meeting Abraham, so does it follow that he was, without all contradiction, his superior in office, drawing his appointment from so high a source, that even the eye of the saccred historian could not penetrate to it. That Abraham acknowledged this superiority is clear, because he gave him tithes of all. The priesthood, therefore, of Melchizedek, was superior to the priesthood of Aaron, the descendant of Abraham. In other words, the purposes and office of the priesthood, namely, to keep up the memory of God's original covenant of general redemption, and to offer continual sacrifice for man, until the Redeemer's coming, were of much older institution than the Jewish law. Therefore, when Christ is called a priest for ever after the order of Melchizedek, it is
+    
+<pb facs="hta.011.008"/>    
+    meant, both by David and the Apostle, that the councils of the Lord were not narrowed to the benefit of one particular nation; but that the Messiah came to fulfil a law antecedent to the law of Moses, and to extend to all men that blessing which Melchizedek had intimated when he blessed Abraham, not as the progenitor of Israel, but simply as the servant of the most high God.</p>
+    <p>There is something so delightful to the energies of a pious mind, in tracing our under types and shadows, more thickly sown throughout the Scriptures than the hasty reader is aware of, the riches of God's mercy, and the faithfulness of his words, that I need scarcely recommend to your serious regard a comparison of what Moses, David, and St.Paul, have severally said on the above subject. I cannot, however, quite dismiss the topic, without reminding you, that Moses makes particular mention of the nature of the refreshment which Melchizedek brought forth to Abraham. It was bread and wine. It is worthy of notice, that no other article of nourishment is mentioned&#8212;that wine does not seem to have made an usual part of the entertainments which the simple hospitality of the patriarchs set before their guest, no, not even when Abraham entertained angels; neither have we any authority for considering,
+    
+<pb facs="hta.011.009"/>    
+    that Melchizedek did not see these viands before Abraham to appease hunger or thirst. He is said to bring them forth&#8212;forth from his own holy city, in his character as a priest; and he accompanies this unusual refreshment with the blessing of Heaven. I will not press, nor pursue the analogy to irreverent minuteness; but if any one is desirous of turning such spectulations into spiritual profit, let it fortify him in the firm belief, that long before the day when Melchizedek set bread and wine before Abraham, God had predestined the acceptable sacrifice of his Son, and that every Christian shall experience the blessing of God in the strengthening and refreshing of his soul, so often as he shall partake of the consecrated bread and wine, in the obedience to the ordinance, in submission to the laws, and with faith in the atonement of Christ.</p>
+    
+</div>
+</body>
+</text>
+</TEI>
+
+
