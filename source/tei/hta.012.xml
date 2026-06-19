@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.012" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.012</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.012.001"/>
+    
+    <head>LECTURE VIII.</head>
+    <head type="sub"><bibl>GENESIS, XV. 6.</bibl><lb/>
+        <hi rend="italic">And he believed in the Lord, and he counted it to him for righteousness.</hi></head>
+
+    <p>The person to whom the words of my text apply was Abraham. To Abraham it was accounted for righteousness, that he believed in the Lord. What a comfortable and encouraging hope is here held out to all who believe! for, inasmuch as Abraham is called the father of the faithful, it is reasonable to infer, that all who follow him in faith, shall have the portion due to natural posterity, and inherit the blessing of imputed righteousness. And they will inherit so vast a blessing if they believe as Abraham did believe; if, after their faith be tried, it prove glorious; if the trial of their faith present to them on the one hand, the force of custom, the fixed opinion of other men, the influence of example, and even, perhaps, the general laws of what is called nature; on the other, merely the word of God; and under this competition of the flesh and the spirit, they have the grace to be steadfast, and cleave unto the latter.
+    
+<pb facs="hta.012.002"/>    
+    This sort of trial, in a considerable degree, did Abraham sustain before his faith received the glorious and profitable denomination of righteousness. It was imputed to Abraham as righteousness; not that he assented merely to the wisdom of God, and professed his faith for time to come, but that he had from the first given himself up to be led by the hand of God as an obedient servant: his conduct was the result of faith; faith was not the cover of a lukewarm conduct. I must be allowed to press on your minds this just distinction between a faith which produces good works, and a faith which produces only a good opinion of yourselves; because mistake and confusion on this point have never been without their followers and victims&#8212;were never more to be dreaded than at the present moment.</p>
+    <p>Now that the storms of persecution are past, and that true religion in the sight of God and the Father, might extend itself from sea to sea; many seem to seek their own ruin in an unwarranted construction of Scripture, and to make shipwreck of their souls on rocks that are above the surface. To wrest Scripture from its appointed purpose, to build up systems on some brief insulated passages, and, perhaps, on passages which were themselves but the comments of men on the word of the Lord,
+    
+    
+<pb facs="hta.012.003"/>    
+    not the word itself, is the very natural consequence of a little learning acting on a proud imagination and uncontrolled passions. To raise up arguments on questions which God has involved in obscurity, as beyond human insight, because unnecessary to human happiness; to draw a presumptuous line of distinction between good works and perfect faith, which our Saviour, by his words and deeds, has pronounced to be inseperably required; to insinuate that the peremptory words of Christ can ever be accompanied to the partial construction of a sect; is the temptation with which Satan, the indefatigable enemy of truth, is now permitted to try the purity of the church.</p>
+    <p>We are inclosed in on every side by enemies of the Gospel, but by none so dangerous as its pretended friends, who magnify the mercy of God at the expense of his justice, and who might much more profitably employ themselves, if they would always call to mind, that when our Saviour had conducted the inquiring lawyer to the knowledge of good works, he dismissed him with this incontrovertible injunction&#8212;<quote type="biblical" xml:id="hta.012.q001" source="kjv">"Go and <hi rend="italic">do</hi> thou likewise."</quote><bibl corresp="#hta.012.q001" resp="#eds">Luke 10:37</bibl> As I before remarked, those who would be very glad to find in a loud declaratio of faith, an excuse for omitting or decrying the weighty matters of commandment, generally shelter themselves under the authority
+    
+<pb facs="hta.012.004"/>    
+    of some detached texts, and these usually extracted from the Epistles; above all, from Epistles written for particular purposes to persons very differently informed from us, and under many different circumstances peculiar to those times, and which defy all parallel with ours. The words of my text are amongst those often quoted by the extollers of faith. An additional stress also is often laid upon them, because they have been quoted and built upon by St. Paul; out of whose Epistles, voliminous when compared with those of the other Apostles, as preserved to us, with great industry are selected some passages as an authority for doctrines, which, in every instance, the context will be found to condemn, and which he, the Apostle of the Gentiles, again and again reprobates as opposite to the commandment of our Saviour. To such passages, no doubt, St. Peter refers in his 2d Epistle general, when, speaking of the Epistles of St. Paul, he says, <quote type="biblical" xml:id="hta.012.q002" source="kjv">"in which are some things hard to be understood, which they that are unlearned and unstable, wrest, as they do also the Scriptures, unto their own destruction."</quote><bibl corresp="#hta.012.q002" resp="#eds">2 Peter 3:16</bibl> Hence we may infer, that this dangerous error had crept into the church, even in its very earliest ages; nor shall we wonder at the facility with which it gained admission, when we consider how convenient a doctrine it is for those, who, while they would yet do<choice><reg>something</reg><orig>some-
+            
+<pb facs="hta.012.005"/>
+    thing</orig></choice>to be saved, find it very difficult to give up their darling vices, to keep a constant check upon their passions, and to do unto all men as they would that others should do unto them.</p>
+    <p>But granting that St.Paul, throughout his numerous Epistles, lays a greater stress upon the necessity of faith, than upon the works of the law; it will very easily be accounted for, if we contemplate the peculiar circumstances which attended both his conversion and ministry. You all know that Paul, or as we has then called, Saul, was originalaly a streneous opposer and violent persecutor of the Christians, till it pleased the Almighty to effect his conversion by a miraculous interposition: from this miraculous interposition we may without presumption conclude, that (his disbelief excepted) Saul was an upright and virtuous man, and that God saw in him a fit instrument to extend, by his zeal and exertions, the knowledge of the truth among the Gentiles: is it then surprising, that the Apostle should most forcibly press upon the attention of his hearers, he knew that hte most punctual fulfilment of the moral law would be unavailing? The difference between us and the Gentiles appears to be ismply this; they might be virtuous, they might be
+    
+<pb facs="hta.012.006"/>    
+    moral; but St.Paul exhorts them to make perfect their otherwise unprofitable good works by faith. Born in a Christian country, educated by Christian parents, we cannot be supposed to disbelieve, but we are called upon to prove the sincerity of our faith by the consistency of our works.</p>
+    <p>Again, we may observe, that, although St.Paul dwells with such peculiar energy upon the necessity of faith, he in no instance implies that works are to be omitted; on the contrary, we shall find, in almost all of his Epistles, the most earnest exhortations to the various duties of life. The words of my text are likewise quoted by St.James, who, speaking of the obedience of Abraham, adds, <quote type="biblical" xml:id="hta.012.q003" source="kjv">"Seest thou how faith wrought his works, and by works, faith was made perfect?"</quote><bibl corresp="#hta.012.q003" resp="#eds">James 2:22</bibl> Let us therefore be assured, that the meaning of these equally inspired writers was the same, though, from their different situations or circumstances, they might find it necessary to dwell most focibly upon different points of doctrine.</p>
+    <p>I trust I have now satisfactorily proved, that according to common sense, to the obvious construction, or to the construction put on it by St.Paul, the text can in no way be tortured into an argument for faith unconnected
+    
+<pb facs="hta.012.007"/>    
+        with obedience (which is another word for good works). <quote type="biblical" xml:id="hta.012.q004" source="kjv">"Abraham believed in God, and it was accounted to him for righteousness"</quote><bibl corresp="#hta.012.q004" resp="#eds">Genesis 15:6</bibl>&#8212;not in lieu of all obedience, but in pardon of those imperfections which needs must come, when the flesh is not able to do what the spirit willeth. As St.Paul infers in the verse preceding that which quotes our text, that Abraham was not justified by the works of the law, and as the Saviour had not then been crucified for the sins of mankind, it must have followed, that Abraham was without the means of salvation, unless under some previous covenant between God and man. Now, this covenant did exist and had existed from the time when the promise of a Saviour was made in Eden; was the hope of Enoch and all the patriarchs; was the hope which kept them in righteousneess, humanly speaking: it was afterwards renewed with Noah, because he was a just man; and it was the conformity of Abraham's conduct to the terms of this covenant, in other words, it was his obedience to God, and his attention to sacred ordinances, that formed the test of his faith, and so recommended him to mercy, that the righteousness of Christ extended even to him by anticipation. It is therefore of consequence to remember, that the faith of Abraham did not make him a sharer in the benefit of Christ's righteousness, until he had obeyed the voice of the Lord, and seperated
+    
+<pb facs="hta.012.008"/>    
+    himself from surrounding abominations unto good works for a considerable length of time.</p>
+    <p></p>
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
