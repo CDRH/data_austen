@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.013" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.013</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.013.001"/>
+    
+    <head>LECTURE IX.</head>
+    <head type="sub"><bibl>GENESIS, XVII. 1.</bibl><lb/>
+        <hi rend="italic">And when Abram was ninety years old and nine, the Lord appeared unto Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.</hi></head>
+
+    <p>Before I proceed in our historic review of Abraham's conduct, character, and full admission into the covenanted mercies of God, I am desirous of directing your attention to the final sentence of the verse above recited: <quote type="biblical" xml:id="hta.013.q001" source="kjv">"Walk before me, and be thou perfect."</quote><bibl corresp="#hta.013.q001" resp="#eds">Genesis 17:1</bibl>&#8212;The expression, though not absolutely singular, is certainly of no common kind. It cannot but excite a very natural curiosity: that curiosity, however, will be ill directed, and lead to false conclusions, if it suggest to the inquirer any unwarrantable ideas of human perfectibility.</p>
+    <p>What! can man attain unto perfection of any kind in this life? Can he rid himself of the corruption within, before his outward substance, his corruption body, descendeth to the grave?
+    
+<pb facs="hta.013.002"/>    
+    &#8212;Can he obey and follow the law of the Spirit so long as another law ruleth in his members?&#8212;Can his most constant care in correcting his ways guard those ways from recurring obliquity? Certainly not. It is because all these things are impossible, that Jesus Christ died for all men. Universal imperfection, universal impossibility of being perfect, required an obligation to be once made for all. When God Almighty commanded Abraham <quote type="biblical" xml:id="hta.013.q002" source="kjv">"to walk before him and be perfect,"</quote><bibl corresp="#hta.013.q002" resp="#eds">Genesis 17:1</bibl> he by no means held out to the patriarch a pledge or promise of his really becoming perfect, in the full sense of the word, by any efforts of his own. We must consider him as commanding Abraham to continue in an improving progress, to aspire after a closer communion, to strain every nerve, to struggle with all his heart and all his soul, for that glorious prize which was set before him&#8212;a state of perfection, indeed, but of perfection in another world.</p>
+    <p>The very same leaven of corruption which renders it impossible for man to be perfect on earth, also renders him averse from walking constantly before God, and therefore was expedient, even for Abraham to be reminded from time to time, that he should so walk. Were there in man a power of perfectibility, it is not too much to say, that there would be in him also such a <hi rend="italic">love</hi> of perfection, that he need <hi rend="italic">not</hi>
+    
+<pb facs="hta.013.003"/>    
+    be reminded of the law of God. It would be the law of his sense as well as his reason: such, doubtless, was the law which guided him before his fall. <quote type="biblical" xml:id="hta.013.q003" source="kjv">"Be thou perfect,"</quote><bibl corresp="#hta.013.q003" resp="#eds">Genesis 17:1</bibl>&#8212;endeavour to be perfect; set a faultless model before thee. Consider as nothing all that thou hast done. Be careful for the future. Seperate thyself for life from the idolatries of the surrounding nations: in no respect compromise with them, nor mix any of the impious rites with thy worship of the only God. <bibl>Be perfect&#8212;be uniform, sincere, and persevering.</bibl> Paraphrased in this manner, the words of God to Abraham, instead of justifying him in any hopes of attaining unto perfection in this life, must rather be considered as reminding him of the vanity of such hopes, and that, although always turning towards the object of pursuit, he was still to regard the destined goal as something yet to be. That Abraham, in fact, was not puffed up by any such impious misconstruction as the one alluded to, is plain from what immediately follows.</p>
+    <p>Penetrated with a due sense of disproportion between his best deserts, and God's abundant goodness, Abraham fell on his face. He felt that he was dust and ashes; he had no foolish notion of his own perfectability, none, though so eminently distinguished already by the favour of the Lord. Strange, then, that
+    
+<pb facs="hta.013.004"/>    
+    there should have been such a sect as the Pelagians,&#8212;strange that any one who reads the Old Testament with common attention, should not be thereby fully prepared to admit the main doctrine of the NEw, and acknowledge the innate corruption of man, as well as his subsequent liabilities to depart from righteousness! Confusion of face, and contrition of heart, ought to be the lot of those who talk such swelling words of vanity, when they call to mind that the father of the faithful, the friend of God, fell on his face at the very sound of that command which required perfection.</p>
+    <p>But returning to the expression itself, we shall find that it is by no means without a parallel. Does not our Lord Jesus Chirst say unto the Apostles, <quote type="biblical" xml:id="hta.013.q004" source="kjv">"Be ye perfect, even as your Father which is in heaven is perfect?"</quote><bibl corresp="#hta.013.q004" resp="#eds">Matthews 5:48</bibl> Yet even the Apostles, while in the flesh, never put forth any pretensions to be esteemed perfect. Did their Master then enjoin them an impossibility? No: he enjoined them always to remember their imperfection, by remembering the perfection of God, and to strive for the mastery over the world, the flesh, and the devil. He gave them, and he gives us, the comfort of knowing that such strivings will not be in vain; for, if we strive, his grace will be sufficient for us. His
+    
+<pb facs="hta.013.005"/>    
+    grace will not, indeed, make us perfect, but his perfection will then be imputed to us.</p>
+    <p>In my preceeding Lecture I directed your principal attention to several evidences which Scripture supplies of Abraham's having been <hi rend="italic">tried</hi> and <hi rend="italic">proved</hi>, of his having already walked before God, and humbly resigned himself to his governance, with an implicit belief in the perfection of his law, before his faith was attributed to him for righteousness. A farther consideration of the patriarch's ensuing pilgrimage will inform us, that, among other tests of his obedience, it was no mean trial of it that he should be kept so long in a state of anxious and increasing expectation. <quote type="biblical" xml:id="hta.013.q005" source="kjv">"Hope deferred,"</quote><bibl corresp="#hta.013.q005" resp="#eds">Proverbs 13:12</bibl> saith one of justly celebrated wisdom, <quote type="biblical" xml:id="hta.013.q006" source="kjv">"maketh the heart sick."</quote><bibl corresp="#hta.013.q006" resp="#eds">Proverbs 13:12</bibl> Nothing truly among men is more likely to raise discontent, murmuring, and rebellion.</p>
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
