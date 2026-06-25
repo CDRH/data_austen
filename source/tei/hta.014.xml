@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.014" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.014</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.014.001"/>
+    
+    <head>LECTURE X.</head>
+    <head type="sub"><bibl>GENESIS, XVIII. PART OF VERSE 2.</bibl><lb/>
+        <hi rend="italic">And he lift up his eyes and looked, and, lo, three men stood by him.</hi></head>
+    
+    <p>The words which I have now recited will be sufficient to call your attention to a most awful, extraordinary, and interesting interview between God and man. The chapter, of which it forms nearly the commencement, and on the whole of which it is my purpose now to comment, must excite the attention of all who have ears to hear, however often it be repeated. The information which it contains as a moral, historic, and prophetic revelation, will abundantly repay our deepest research. It is indeed one of those links which so connect the declarations and dispensations of the Old Testament with those of the New, that they cannot be severed by the most industrious malice of man; and those who attempt the ungrateful and unprofitable task will find themselves fast bound in misery and contradition.</p>
+    
+<pb facs="hta.014.002"/>
+    <p><quote type="biblical" xml:id="hta.014.q001" source="kjv">"And he lift up his eyes and looked, and, lo, three men stood by him."</quote><bibl corresp="#hta.014.q001" resp="#eds">Genesis 18:2</bibl>&#8212;He who life up his eyes was Abraham, whose faith and works obtained for him, among other illustrious titles that of <bibl>"The friend of God."</bibl> the three Beings who stood by him were of a divine nature. One of them, as the subsequent context informs us, was the Source of all power and might; He by whom all things were made, our Lord and Saviour Jesus Christ; who afterwards, when incarnate, so signficantly told the Pharisees, <quote type="biblical" xml:id="hta.014.q002" source="kjv">"Verily Abraham saw my day, and rejoiced."</quote><bibl corresp="#hta.014.q002" resp="#eds">John 8:56</bibl>&#8212;The other two were of that class which is so sublimely described by the Psalmist, when he says, that the Lord maketh his angels spirits, and his ministers a flame of fire. The manner in which these three personages were first discerend by Abraham is characteristic of their quality. <quote type="biblical" xml:id="hta.014.q003" source="kjv">"He life up his eyes and looked, and, lo, three men stood by him."</quote><bibl corresp="#hta.014.q003" resp="#eds">Genesis 18:2</bibl> Though sitting in his tent, from which he could not but have commanded a view of all approaching objects, yet he seems to have been taken by surprise. The suddenness with which his guests manifested themselves to the patriarch is easy enough to be understood, when we consider their spirituality. How consistent are all teh records of inspiration! how unpardonable to overlook these minute testimonies of its truth! It was in fact a revelation above the laws of
+    
+<pb facs="hta.014.003"/>    
+    nature; and it is plain that Abraham instantaneously acted under the impression, perahps the involuntary impression, of its being a special communication from Heaven. Great as are the prescriptive rights of hospitality, greater as they were in those ages than it is necessary they should now be, yet we ought to observe, that in Abraham's first address to those who so suddenly stood before him, there was a humility of deportment, and a sanctity of expression, with which man would not salute man, especially in the simple integrity of pastoral manners: he ran to meet them from the tent door, and bowed himself toward the ground, and said, <quote type="biblical" xml:id="hta.014.q004" source="kjv">"My Lord, if now I have found favour in they sight, pass not away, I pray thee, from they servant."</quote><bibl corresp="#hta.014.q004" resp="#eds">Genesis 18:3</bibl> We shall therefore, probably, be nearest to the truth if we consider this revleation of the Divinity as confined to Abraham, and not necessarily extended to those who formed his household; and then we must be struck with the strict propriety of Abraham's conduct. It was not right for him to blazon what God thought fit to conceal, nor to remove that veil in which the Lord was pleased to shroud his glorious majesty. Abraham, therefore, treated with the best rites of human hospitality his Lord and his God, so long as the latter vouchsafed to retain a human appearance.</p>
+
+<pb facs="hta.014.004"/>
+    <p>In the conduct of Abraham there is matter, not only for praise, but imitation. Does the Lord never visit us, when we least expect? Does he not visit us with afflictions, to try our faith; and blessings, to prove our gratitude? Do we acknowledge with alacrity and devotion the will and the power of the Lord, who revealeth not his presence? Moreover, when he comes to visit us as a spiritual Comforter, agreeably to the promise of the Lord Jesus Christ, desirous of remaining with us, do we welcome him as Abraham did Jehovah? Do we call him Lord? Do we ask him to turn in and tarry in our hearts? Do we kill and make ready? Do we kill and mortify our favourite sins? Do we set our house in order, and pray him to abide with us as a Comforter? My friends! the Holy Spirit is much more apt to knock at the door of our hearts, than we to rise and open unto him. Why are we thus slow to listen, and reluctant to admit the heavenly guest?&#8212;Because, when he speaketh of righteousness and judgment, like Felix, we tremble: therefore, like the foolish Roman, we say in our heart, I will hear thee at a more convenient time.</p>
+    <p>But Abraham loved the communion of his Maker, and great was his reward. To him were made known the future designs of a merciful and avenging God. The almighty had
+
+<pb facs="hta.014.005"/>
+    two movtives in this manifestation of himself: 1st, To renew, for the sixth time, his promise of an heir, a son by Sarah his wife. The value and importance which God intended should be attached to this promise by man, is certainly to be argued from the frequency of its repitition. The value of it truly now is known to us, for we have the completion of it made manifest in the Gospel. But let us not, therefore, overlook, the origin of the hope that is in us; let us not count it a small thing, that God did SIX TIMES repeat to Abraham the assurance of a future Saviour. Let us not rashly denominate as merely the <hi rend="italic">History of the Jews</hi>, THAT volume in which is recorded the exceeding great love of the Creator towards his creatures, and but for which we could now build up no claim on the faithfulness of God. Had there been no Old Testament, there could, in no sense, be a New one. <bibl>Beward, then, ye who would say, Abba, Father! beware how ye interrupt the entail of your redemption!</bibl> If your God be not the God of Israel, the promise of redemption is not unto you.</p>
+    <p>2dly, The Lord was moved to make known to Abraham the outgoings of his wrath against Sodom and Gomorrah. (Ver. 16.) <quote type="biblical" xml:id="hta.014.q005" source="kjv">"And the men rose up from thence and looked towards Sodom; and Abraham went with them, to
+    
+<pb facs="hta.014.006"/>    
+    bring them on their way."</quote><bibl corresp="#hta.014.q005" resp="#eds">Genesis 18:16</bibl> (Ver. 17.) <quote type="biblical" xml:id="hta.014.q006" source="kjv">"And the Lord said, Shall I hide from Abraham that thing which I do?"</quote><bibl corresp="#hta.014.q006" resp="#eds">Genesis 18:17</bibl> Accordingly, the Almighty was pleased to inform Abraham, that the punishment about to fall on Sodom and Gomorrah was due to the enormous guilt of those places; that there was no excuse left for them; that he, the Lord, was come down to aascertain their iniquity (which is fully set forth in the subsequent chapter). (Ver 22.) <quote type="biblical" xml:id="hta.014.q007" source="kjv">"The <hi rend="italic">men</hi>, therefore, turned their faces from thence, and went towards Sodom. But Abraham stood yet before the Lord."</quote><bibl corresp="#hta.014.q007" resp="#eds">Genesis 18:22</bibl> By this we understand that the two angels in human form were sent to execute the wrath of the Lord on the ungodly, but that He, whose ministers they were, remained for a while with Abraham; to leave us a most astonishing instance of his long-suffering, and to prove that he is the God who in his justice remembereth mercy.</p>
+    <p></p>
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
