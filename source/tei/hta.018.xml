@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.018" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.018</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.018.001"/>
+    
+    <head>LECTURE XIV.</head>
+    <head type="sub"><bibl>GENESIS, XXVII. PART OF VER. 36.</bibl><lb/>
+        <hi rend="italic"></hi>He hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing.</head>
+    <p>Such was the accusation made by Esau against his brother Jacob, in the moment of bitterness, disappointement, and resentment. The charge was a heavy one. If true, the relationship of Jacob to the complainant added considerably to the weight of the crime. But if the accusation was not strictly true, if not more than half of it was true, if the other grief of which Esau complained was in fact altogether brought by him on his own head, we must not suffer ourselves to commiserate the case of the elder brother, nor join with him in obloquy against the younger hastily. Let us, therefore, inform ourselves accurately as to the circumstances which produced Esau's complaint; and the more so, because I suspect that a superficial and hasty perusal of the narrative delivered by Moses, has had frequently the effect of producing not only an excessive and unjustifiable sympathy with
+    
+<pb facs="hta.018.002"/>    
+    Esau; but also, as connected therewith, a comdemnation of Jacob's conduct as scarcely reconcilable with the share of God's favour that he enjoyed through life. Let us see how these things really were, and why they were related to us by one, Moses, who might, if judged of as a national historian, be well inclined to bury in oblivian any questionable conduct of his progenitor.</p>
+    <p>1. When Esau asserted that Jacob had stolen from him his birthright, he asserted what he knew was false. He had himself sold it for a despicable consideration. From the nature of his charge against Jacob, it is evident that he was not ignorant of the value of it. He dwells on it as a great deprivation, as one to be ranked with his father Isaac's blessing; yet in the moment of sensual temptation he had sold it for a mess of pottage. It was not, therefore, without great propriety that the inspired historian records to us the deliberate slight which Esau put on the promises of God, as regarding Abraham and Isaac's seed for ever. We read as follows, in the very last words of the preceding chapter: <quote type="biblical" xml:id="hta.018.q001" source="kjv">"Thus Esau despised his birthright."</quote><bibl corresp="#hta.018.q001" resp="#eds">Genesis 25:34</bibl> Esau, therefore, is guilty of gross falsehood when he charges his brother with having stolen his birthright. Nor does his crime herein consist of falsehood alone: he not only accuses Jacob
+    
+<pb facs="hta.018.003"/>    
+    of doing what he did not do, but passes by with intemperate ferocity and blind passion the opportunity of expressing any sense of his own guilt in having slighted such a distinction, and thus shut the door of pardon, and sealed God's wrath against him.</p>
+    <p>Jacob, on the contrary, in the above transaction, does not appear to have pracised on his brother. But when the opportunity presented itself, when Esau became the greedy solicitor for instant appeasement of appetite, then did Jacob manifest the high estimation in which he held the promises of God. From the sensual impetuosity of Esau, we may presume that he would, for a mess of pottage, have granted unto Jacob his heart's desire, had it been the undivided succession to all the gold and the silver, and the herds and the flocks of Isaac. But it is plain that Jacob's thoughts were on higher things. In this important respect he showed himself deserving of the birthright in which Esau despised. While the one had been pursuing the beasts of the forest, the other must have been strengthening himself in the faith of God's promises. The different conduct of the brothers on the above occassion, shows, that, from the earliest times, irreligion and sensuality are natural associates, and that the fear of the Lord is the beginning of widsdom.</p>
+    
+<pb facs="hta.018.004"/>
+    <p>Having thus exhibited the characters and previous conduct of Esau and Jacob, showing the former to be carless of prophecy, and the latter a regarder of it; we will state the apparent cause of Esau's final disappointment. Their father Isaac, on his death-bed, sends forth his eldest son to procure him venison, that he may eat thereof, and bless his eldest son Isaac before he died. From this intention of Isaac, we must presume he was ignorant of Esau's having forfeited, by the sale of his birthright, the capability of receiving or transmitting such a blessing. Rebekah, whose favourite Jacob was, probably did know it; we are sure that she had been originally supernaturally informed, when she inquired of God, &#38;e. that the elder of her sons should serve the younger; and the same motives would induce Jacob to reveal his acquisition to his mother, as would weigh with Esau for concealing his delinquency from his father. In Esau's absense to procure venison for his father, Rebekah contrives to pass Jacob on his father Isaac (whose eyesight had already failed him) in lieu of Esau, and thus receive the blessing which the father had intended for the elder, but which God had already pronounced should attach to Jacob. That Jacob herein practised deceit on Isaac, is not to be denied: but we are particularly informed by Scripture, that Jacob was not the suggester of the plan;
+    
+    
+<pb facs="hta.018.005"/>    
+    that he felt the impropriety, the wickedness of it; that he recoiled from it; that he remonstrated with his mother, as far as was consistent with the dutiful submission of a son; and that he did not accede to it till he stood absolved from sin by Rebekah's most remarkable absolultion of him. (Ver. 11.) <quote type="biblical" xml:id="hta.018.q002" source="kjv">"And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man: (12.) my father, peradventure, will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing."</quote><bibl corresp="#hta.018.q002" resp="#eds">Genesis 27:11-12</bibl> Thiss manly, simple, and eloquent appeal of Jacob to his mother in behalf of truth, should never be forgotten in our estimate of his character. Is it possible for man, especially to a mother, to put more forcibly his abhorence of deceit? He acknowledges that he should deserve his father's curse. Deceit, therefore, was not generated in Jacob's heart; he submitted to the authority of a parent's peremptory command. And be it remembered, that in those times the authority of a prent was the only law which children acknowledged as most binding. That we do not overstrain this fact, the words of Rebekah, which no doubt have been purposely preserved, will prove: (Ver. 13.) <quote type="biblical" xml:id="hta.018.q003" source="kjv">"And his mother said unto him, Upon me by thy curse, my son; only obey my voice, and go fetch me them."</quote><bibl corresp="#hta.018.q003" resp="#eds">Genesis 27:13</bibl></p>
+    
+    
+<pb facs="hta.018.006"/>
+    <p>The defence which Jacob's conduct thus derives from the overpowering authority of his mother, by no means extends to Rebekah: that would be confounding the innocent with the guilty. Yet her conduct is not unaccountable; on the contrary, its perfect consistency with the usual errors of the human heart, is no small evidence of the truth of the whole narrative, were it divested of all claims to our belief on a higher account. She had inquired of God, and had informed himself that Jacob was destined to have dominion over his brother; hence, doubtless, arose that undue preference and unjust partiality, which we are told she ever felt for him. She put her supernatural information herein to a very bad use; she divided her maternal affection unfairly; she was proud of her foreknowledge, considered herself as a special instrument to work the ways of Providence, proceeded from pride to sin, planned deceit against her husband, injury towards her eldest son, and exerted herself to efface the conscientious feelings of her youngest. Rebekah was in all this highly criminal. She might have been sure that God was perfectly able to achieve, without her interference, what he had determined on; and what would then probably have been effected, in a mode productive of much less bitter consequences to Rebekah and both her sons. She was not more severely than justly
+    
+<pb facs="hta.018.007"/>    
+    punished in the success of her scheme. Its immediate consequence was so violent a hatred in the heart of Esau against Jacob, that he determined to slay him as soon as the expected death of Isaac should take place. This intention of her eldest son (whom she had thus driven and goaded into a similitude of Cain, as far as intention is crime) so deeply alarmed Rebekah, that she prevailed on her husband to send her favourite away into a far country for personal safety. Jacob, accordingly, went to Haran; and though he himself was providentially preserved and blessed, yet we have reason to conclude, that his misjudging mother never saw him more. Thus do we see, that although God permitted her partiality and unfair interference to be the nominal means of working his will, yet she embittered all the latter part of her own days by this departure from sincerity. The truth, and power, and justice of the Almighty, were at once illustrated.</p>
+    <p>Returning now to a further consideration of Esau's complaint, and the cause of it, we repeat, that the first part of it was false in fact, and that the second charge against jacob, taht he had taken away his blessing, was not strictly true; since the suggestion was from Rebekah, and Jacob had by her been absolved from all criminality. The truth was, that Esau ought to
+    
+<pb facs="hta.018.008"/>    
+    have blamed only himself. In selling his birthright, he knew that he had divested himself of the right of receiving an elder brother's blessing. Had he reeived it in form from Isaac's hands, he could not expected that it could convey with it the essentiality of God's approval; for Isaac would have conferred it through ignorance of the compact subsisting between the brothers. Esau in that case would have robbed jacob; Esau would have practised deceit on his father, and perpetrated a fraud on his brother. He would then have been the supplanter, he would have taken away Jacob's blessing. Of Rebekah's craft, therefore, Esau had no right to complain; he was taken in the snare which he had himself laid to take others. Now this is exactly consonant with the ways of the Lord as declared by David his prophet. Thus did justice in different ways, and in different degrees, overtake Esau, who had despised his birthright, and Rebekah, who presumed to fancy that she might do evil for the sake of eventual good. Jacob was secured in that of which he had solemnly obtained the cession from his brother, and Isaac was preserved from bestowing his blessing contrary to the counsels of Heaven, or cursing him whom God had determined to bless.</p>
+    <p>In contemplating the circumstances above related, under the aspect which I have <choice><reg>endeavoured</reg><orig>endea-
+        
+<pb facs="hta.018.009"/>
+    voured</orig></choice> to give them, we shall find that the narrative is not without its moral, any more than its historical use. We may collect from it two valuable interferences: 1st, That it is as presumptuously wicked for human beings to think that their cunning is needed to accomplish God's determinations; 2dly, That Moses would not have perpetuated the remembrance of such domestic circumstances, tending but little to the credit of his ancestry, had he not written under divine control and injunction, to the end that the Israelites might know how faithful were the promises of God, and by what means they, the descendants of a younger son, were entitled to the privilege of birthright.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+

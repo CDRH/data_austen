@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.020" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.00x</idno> <!-- replace "hta.020" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+    
+<pb facs="hta.020.001"/>
+    
+    <head>LECTURE XVI.</head>
+    <head type="sub"><bibl>GENESIS, XXXIII. 4.</bibl><lb/>
+        <hi rend="italic"></hi>And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him; and they wept.</head>
+    
+    <p>We had begun to consider historically the various times and occasions on which Jacob experienced the visible interference of God, or at least his singular and miraculous protection. They will be found so numerous, so important, and so systematic, that, had no other records of the house of Israel been preserved, we could scarcely fail to draw this obvious conclusion&#8212;that God was carrying on some mighty plan of operations, of which the consequences, and, if planned by God, the good consequences, were to previal long after the death of Jacob. We had already mentioned the great favour which Jacob suddenly found in the eyes of his father-in-law Laban, who had been so highly irritated against him, as to follow him with intentions of violence and revenge. This change in Laban's sentiments, we read, was the direct result of the
+ 
+<pb facs="hta.020.002"/>
+    Lord appearing to him in a dream. We shall next have to acknowledge a still more striking instance of Jacob's being under the shadow of the Almighty's wings in his interview with his brother Esau.</p>
+    <p>Jacob, in his return towards the country of Isaac and Rebekah, was obliged to pass through Edom, where Esau possessed already great power. Jacob knew how powerful his brother was become, knew what dreadful threats he had formerly uttered against him, and could not know that twenty years of seperation might not have confirmed enmity, instead of meliorating his disposition. He accordingly, with due foresight, and in that pacific humility of character which marked him, and marks all of God's favourites, sent forward messengers to his brother to bespeak his amity. This was the measure of a temperate, discreet, and sagacious man&#8212;this was being wise in his generation; but he did more than this: his wisdom was not all earthly; he knew that he had a mightier Friend in the time of of need, and he betook himself to prayer; he poured out his soul in earnest prayer to God. That which was the duty of Jacob, is the duty of us all. When any difficulty, or sorrow, or danger besets us, it is our duty to exert all the powers of mind and body with which we are endued, to avert, frustrate, or subdue these evils;
+    
+<pb facs="hta.020.003"/>    
+    and when our own preparations are thus made, having, as St. Paul says, done all, to leave the issue to God, not to leave it in dismay, nor with indifference, as heathens have left things to fortune, but to place the issue of all humbly before the throne of the Almighty, recommended by the accompanying offering of our most fervent prayer. We are to pray on all occasions, and faint not; for, though we never know when nor how we shall be answered, we are assured, that fervent prayers do avail; and we perceive, that all the patriarchs, and prophets, and princes who received most from the hands of God, did pray continually.</p>
+    <p>David's piety poured forth the richest and most copious streams of prayer. With the book of Psalms before us, we can never want a motive nor a model for our supplications. The prayers of Solomon, before he fell off from god, are among the most beautiful and sublime compositions of genius and wisdom. We must not forget that the prayer of Elijah suspended the rains of heaven, and again opened its windows to refresh the earth. The prayer of Hezekiah obtained an addition of fifteen years to his life, and that of Manasses prevailed with a forgiving God to suspen the threatened ruin of his kingdom until another generation.</p>
+    
+<pb facs="hta.020.004"/>
+    <p>That Jacob addressed himself to God in an acceptable manner, we cannot doubt, when we refer to the very words of his petition. They are in every respect a model for us, provided we endeavour to make them acccepted through Jesus Christ. (Ver. 9.) <quote type="biblical" xml:id="hta.020.q001" source="kjv">"And Jacob said, O God of my father Abraham, and God of my father Isaac, the Lord, which saidst unto me, Return unto they country and to thy kindred, and I will deal with thee; I am not worthy of the least of they mercies, and of all the truth which thou hast shown unto thy servant; for with my staff I passed over this Jordan, and now I am become two bands. Deliver me, I pray thee, from the hand of my brother, from the hand of Esau; for I fear him, lest he will come and smite me, and the mother with the children. And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude."/quote><bibl corresp="#hta.020.q001" resp="#eds">Genesis 32:9-11</bibl></quote></p>
+    <p>Jacob, in this prayer, clearly avows his belief in the immortality of the soul, by terming his God the God at once of Abraham, who was dead, and of Isaac, who was living. He avows his full confidence in the faithfulness of God, that he will keep his promise, and that his mercy endureth for ever. He confesses his own most absolute unworthiness.&#8212;What a high authority is here, my friends, for that confession
+    
+<pb facs="hta.020.005"/>    
+    which has been wisely placed almost in the front of our liturgy! He humbles himself before God, and confesses the benefits already received at his hands;&#8212;he admits that he had left his native country with his staff alone, and that his present abundance was an increase coming from the Lord. His fears were so great, that he solicits deliverance, as being beyond the power o fman. But in his distress there is no selifhsness; he seems chiefly to feel, and most anxiously to pray in the character of a husband and father, for those who were alike unable to resist of to fly. But in the moment of entreaty, he also professes his recollection of God's covenant, and grounds his best hope of safety in the impossibility of God's being unwilling or unable to effect what he had determined of old: thus setting us an excelling example, and forcing us to recollect that the very hairs of our head are numbered; and though, instead of Esau, and his four hundred, a host of men should rise up against us, yet the hand of the Lord will bring mighty things to pass, and enable us to perform his will.</p>
+    <p>Jacob resigned himself most unequivocally to the care of God. He prepared not the shield nor the sword. He sought the Almighty, and he found him. Having sent his family  and all his substance forward over the brook Jabbok, he
+    
+<pb facs="hta.020.006"/>    
+    was left alone; and there wrestled a man with him until the breaking of the day. There is not a more awful, mysterious, and interesting passage than this in the whole body of the Old Testament. To Jacob it was full of advice and assurance. It was a divine warning, that he was always to persevere, and that perseverance should be crowned with succcess; it was to intimate that his whole life was to be a struggle between prosperity and affliction, but that its end should be marked with blessing. It was, doubtless, enblematic also of the trials of his posterity in Egypt, of their wanderings in the desert, and their eventual acquisition of the promised land. Was it not, also, indicative, that the opposition to Christ's church, though enduring through a long night of obscurity and struggle, shall end, and that the Sun of righteousness shall at length arise, bringing all men into the perfect day? <quote type="biblical" xml:id="hta.020.q002" source="kjv">"And when he saw that he prevailed not against him, he touched the hollow of his thigh, and the hollow of Jacob's thigh was out of joint as he wrestled with him."</quote><bibl corresp="#hta.020.q002" resp="#eds">Genesis 32:25</bibl>&#8212;The expression of Jacob's thigh being out of joint, as he wrestled with him, satisfies us that even this preternatural incident abated nothing of the patriarch's perseverance. In this we read an original intimation of what our Saviour, in the original intimation of what our Saviour, in the Gospel, says to his disciples: <quote type="biblical" xml:id="hta.020.q003" source="kjv">"Watch and pray that ye enter not into temptation"</quote><bibl corresp="#hta.020.q003" resp="#eds">Matthew 26:41</bibl>&#8212; <quote type="biblical" xml:id="hta.020.q004" source="kjv">"The
+    
+<pb facs="hta.020.007"/>    
+    spirit indeed is willing, but the flesh is weak;"</quote><bibl corresp="#hta.020.q004" resp="#eds">Matthew 26:41</bibl> which caution is also recorded by St. Mark, in these words of our blessed Lord: <quote type="biblical" xml:id="hta.020.q005" source="kjv">"Take ye heed, watch and pray, for ye know not when the time is:"</quote><bibl corresp="#hta.020.q005" resp="#eds">Mark 13:33</bibl> a sentiment farther dilated on by St. Paul, in his Epistle to the Ephisians, to whom he promises eventual success only by praying always, with all prayer and supplication in the Spirit, and wathcing thereunto with all perseverance. Nor can we doubt but that the disciples fled, when our Saviour was led away to judgment, because they had not obeyed his command in the garden of Gethsemane, but, instead of so doing, had fallen asleep, when their Lord and Master was in the agony of prayer.</p>
+    <p>From what it hath pleased God to reveal of this nocturnal visitation, we conclue with all humility, that it was our Lord and Saviour, the everlasting friend of the faithful, who vouchsafed to stand face to face with Jacob, to try his faith, and tempt him not beyond what he could bear. That Jacob acknowledged the divine power of his antagonist, is plain; for he said, <quote type="biblical" xml:id="hta.020.q006" source="kjv">"I will not let thee go, except thou bless me."</quote><bibl corresp="#hta.020.q006" resp="#eds">Genesis 32:26</bibl> This must have been the suggestion of the Holy Spirit, which was thus in communion with him. The blessing was given in very significant terms: <quote type="biblical" xml:id="hta.020.q007" source="kjv">"They name shall be called no more Jacob, but Israel; for as a prince hast thou power with
+    
+ <pb facs="hta.020.008"/>   
+    God and men, and hast prevailed."</quote><bibl corresp="#hta.020.q007" resp="#eds">Genesis 32:28</bibl> This was an assurance that Esau should not then prevail agasint himm; that neither Pharaoh, nor all the kingdoms of Canaan, should prevail against his children; that hereafter Herod should not prevail against the infant Jesus; that the devil should not prevail against our Lord in the wilderness; that death and hell should not prevail against the Lord of life; that neither the sword of kings, nor the wisdom of the world, should prevail against the first dissemination of the Gospel; and we firmly believ, that the abominations of an antichristian church shall not prevail for ever against the power of truth.</p>
+    <p>That Jacob went his way joyful in the strength of the Lord, his own words declared: he called the name of the place Peniel, <quote type="biblical" xml:id="hta.020.q008" source="kjv">"for I have seen God face to face, and my life is preserved."</quote><bibl corresp="#hta.020.q008" resp="#eds">Genesis 32:30</bibl> It was doubtless the Lord Jesus whom he had seen, whom Abraham saw in the plains of Mamre, Moses at the bush in Horeb, Joshua in the fields of Jericho. It was doubtless the Lord Jesus, who hath said, <quote type="biblical" xml:id="hta.020.q009" source="kjv">"No one hath seen the Father at any time."</quote><bibl corresp="#hta.020.q009" resp="#eds">John 1:18</bibl> After such an assurance of heavenly protection, the heart of Jacob could entertain no farther doubts of the result. If the Lord had not been on my side, might Israel well have said, if the Lord had not been on my side, it could not have failed but that
+    
+<pb facs="hta.020.009"/>    
+    Esau, who appears to have sent no friendly answer to his former messengers, would have been wrathfully disposed against him, and come with the semblance of human justice to redemand the birthright and the blessing which he asserted to be unfairly wrested from him. At what moment it pleased God to pierce the heart of Esau with remorse, and soften it to a sense of mercy, we know not; probably, at a very late one: for he came without any previous intimation of amity, and with four hundred men.&#8212;Jacob, like David afterwards, went our to meet him in the power of the Lord of Hosts, with neither sword nor spear in his hand, nor even five pebbles from the brook in his sling. He bowed himself seven times to the ground (a beautiful intimation of what Christ afterwards enjoined to be done not seven, but seventy times seven times), and came near to his brother. Thus was he more than conqueror; for <quote type="biblical" xml:id="hta.020.q10" source="kjv">"Esau ran to meet him, and embraced him, and fell on his neck, and kissed him, and they wept."</quote><bibl corresp="#hta.020.q010" resp="#eds">Genesis 32:4</bibl></p>
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.016" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.016</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.016.001"/>
+    
+    <head>LECTURE XII.</head>
+    <head type="sub"><bibl>GENESIS, XXIV. 4.</bibl><lb/>
+        <hi rend="italic"></hi>But thou shalt go unto my own country and to my kindred, and take a wife unto my son Isaac.</head>
+    
+    <p>It is characteristic of the Holy Scriptures, and the observation applies as closely and correctly as the Old as to the New Testament, that its most ordinary narratives, those parts which do not seem to be immediately connected with any important precept or sublime doctrine, excite an attention, and fill the mind with an interest, superior to that which any other hsitory, ancient or modern, can produce. Need we seek wide for the solution of this problem? There can be but one. The Holy Spirit of God has, in all things, ruled and directed those who have been appointed to record the seperate history of God's chosen people. Moses, and those who after him discharaged the office of national historians, did not write as all Gentile historians have written, in the vanity of their mind, supplying the chasms of their ignorance by presumptuous <choice><reg>assertion</reg><orig>as-
+        
+<pb facs="hta.016.002"/>
+    sertion</orig></choice> or incautious conjecture, often avowedly with a design to illustrate individuals, and almost always influenced by an unjust preference of their own family, tribe, or kingdom. But those who we call sacred historians could not write otherwise than the truth. Hence is diffused that charm over every page which recounts even the domestic occurences of the patriarchs. Nor can there be any stronger internal evidence of the truth of the Scriptures required or offered, than the zeal with which they are perused, the facility with which our memory recalls their principal contents, and the clearness with which every description strikes our sense. Those who can read nothing else with taste, can always read the Bible; and some, after passing a long life of erudition, after a high cultivation of their taste, by culling the choicest productions of human literature, have finally abandoned all other books, and found in their Bible the one thing delightful, as well as needful. The hearts of those who are happily conversant with the holy volume, bear testimony to the truth of what I say; and those who have not yet only a partial acquaintance with it, may learn, with confidence in such testimony, that their highest mental delight is yet reserved for them in the knowledge of God's holy word, and his ways of old, What, indeed, can be so fit for our perusal, as the history of the human heart,
+    
+<pb facs="hta.016.003"/>    
+    developed by the prophets of Him unto whom all hearts are open? Whatever, therefore, has been revealed to us at all connected with God's promises to Abraham, let us by no means call unimportant; rather consider all things profitable unto godliness, whatever the Scriptures have set before us, lest in the pride of worldly wisdom we quency the Holy Spirit.</p>
+    <p>The general purport of the chapter from which I have taken my text, is to mark the vigilance of Abraham, in conforming his own conduct to the will of God, and his zeal in saving his son Isaac from all those temptations which were most likely to draw him from his duty, and occasion thereby a forfeiture of God's promises.</p>
+    <p>Abraham having lost his wife Sarah, and being much advanced in eyars, at the age of one hundred and forty, grateful to God for the favours showered down on him during his life, turned his thoughts, like an obedient servant, to the fulfilment of his final duties on earth, namely, of providing for the moral and religious conduct of his posterity. Abraham is, in this respect, a model for the observance and imitation of parents to the latest times. Though they may be very easily too anxious about the worldly prosperity of their children, yet they can never labour too much to set up the law of <choice><reg>righteousness</reg><orig>righteous-
+        
+<pb facs="hta.016.004"/>
+    ness</orig></choice> in the hearts of those who come after: they cannot make too ample provision of that meat which perishes not. Neither did Abraham defer this truly parental and pious work until too late an hour. He suffered not the decrepitude of age, nor the pains of final disease, to render his faculties imperfect. He set his house in order, while it was yet day; and he provided for the contingencies of the future, while the present was in his power. This i salso a lesson of no small import, as the too frequent neglect of such duties proves almost at every moment. It is very criminal, as well as weak, to suppose that we have a right to leave the settlement of our worldly affairs for the occupation of our last moments: we can never know what moments will be our last; and if we did, we should never spare one of them for that strict communion with God, that intense meditation on approaching judgment, which casts a veil over every earthly thought. He who is faithful over a few things, gives the most confident assurance, that he will be faithful over many things. The deliberate and rational settlement of our worldly affairs, whilst we are in full possession of health and strength, besides other recommendations, has this: it leads our thoughts in good time to a settlement of a much more awful account; it is an operation which must check the <choice><reg>presumption</reg><orig>presump-
+            
+<pb facs="hta.016.005"/>
+    tion</orig></choice> of youth and vigour, which are apt to whisper that we shall live long and not see the grave.</p>
+    <p>Abraham's chief anxiety concerning Isaac was, that he should not take a wife unto him from the daughters of the land; from the Canaanites, the descendants of Noah's second son whose conduct had drawn down on him a severer curse than any which had been previously pronounced by God, except on Cain. The Canaanites were at the time, in general, idolaters, and given over to all those brutual, gross, and revolting vices, which have ever been msyteriously connected with false religion. The Canaanites were even then marked our for destruction; their fruitful territories were even then promised inheritance of Abraham's posterity; nothing, therefore, on his part, could have been so absurd, nothing so contradictory to the avowed intentions of Providence, as to have engrafted his own family on that of any other, which was destined to be swept away by the sword of the Lord. Where was it prudent, where natural, where pious for him to seek her who was to be the mother of Israel? In the land of his own ancestry, in a country where he himself had been brought up in the knowledge of the true God.</p>
+    
+<pb facs="hta.016.006"/>
+    <p><quote type="biblical" xml:id="hta.016.q001" source="kjv">"And Abraham said unto his eldest servant of his house, that ruled over all he had."</quote><bibl corresp="#hta.016.q001" resp="#eds">Genesis 24:2</bibl>&#8212;This servant was the same of whom mention is made in the <bibl>15th chapter of Genesis.</bibl> He is there called Eliezer of Damascus; and according to the customs of those times, if Abraham had died childless, would have been heir to all his master's substance, having been born in his house, and consequently having the reasonable claim of a faithful service during the whole of his life. So important a matter could not be confided to any but the most faithful; and even to his fidelity did Abraham annex the added obligation of a solemn oath: <quote type="biblical" xml:id="hta.016.q002" source="kjv">"Put, I pray thee,"</quote><bibl corresp="#hta.016.q002" resp="#eds">Genesis 24:2</bibl> said the patriarch to his approved domestic, <quote type="biblical" xml:id="hta.016.q003" source="kjv">"put thy hand under my thigh, and I will make thee swear by the Lord, the God of heaven and the God of earth, that thou wilt not take a wife unto my son of the daughters of the Canaanites among whom I dwell, but thou shalt go unto my own country and to my kindred and take a wife unto my son Isaac."</quote><bibl corresp="#hta.016.q003" resp="#eds">Genesis 24:2-4</bibl> It was customary among the ancients, when any solemn promise was either extorted from another, or even voluntarily tendered, to touch the thigh. Thus we read in the 47th chapter of Genesis, that Jacob made his beloved son Joseph place his hand under his thigh, when he conjured him not bury him in
+        
+<pb facs="hta.016.007"/>        
+    Egypt, but in the sepulchre of Abraham and Isaac. Nor can we fail to be reminded by this, of that blessing which was confirmed to Jacob in the 25th verse of the 32d chapter, when the hand of the divine power was placed uner the hollow of his thigh.</p>
+    <p>In the course of this most interesting discourse with his servant, the firm faith of Abraham in all the promises of God breaks forth, unshaken by the suggestions of his more timid domestic, and shows itself to have been predominant in the hours of his declining life. The words are very, very remarkable, and it is quite impossible to hear them without entertaining the idea that Abraham must have spoken them under divine inspiration; that he must have felt a prophetic assurance that he was, under Providence, arranging that genealogy in which all the families of the earth were to be blessed. <quote type="biblical" xml:id="hta.016.q004" source="kjv">"The Lord of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, saying, Unto thy seed will I give this; he shall send his angel before thee, and thou shalt take a wife unto my son from thence."</quote><bibl corresp="#hta.016.q004" resp="#eds">Genesis 24:7</bibl> The sequel of the narrative proves, that Abraham's confidence was well founded. His servant journeyed eastward to the city of Nahor, the brother of <choice><reg>Abraham</reg><orig>Abra-
+        
+<pb facs="hta.016.008"/>       
+    ham</orig></choice>, but with whom there is no reason to suppose that any intercourse had been kept up since the departure of the latter from Ur of the Chaldees, to go into the land of Canaan.</p>
+    <p>The circumstances which led to the interview between Eliezer and Rebekah the granddaughter of Nahor, together with the hospitalities of her father Bethuel and her brother Laban, cannot be done justice by any comment or abridgment; let them be read at large as they are related. But it may not be quite unprofitable to remark, that as soon as Abraham's servant arrived at the vicinity of Nahor's city, whilst he was yet refreshing his camels at a well of water; before he presumed to seek rest or refreshment for himself, he poured forth his soul in prayer, and endeavoured to win a successful issue to his undertaking, by committing it to God's special protection. He said, <quote type="biblical" xml:id="hta.016.q005" source="kjv">"O Lord God of my master Abraham, I pray thee, send me good speed this day, and show kindness unto my master Abraham."</quote><bibl corresp="#hta.016.q005" resp="#eds">Genesis 24:12</bibl> Now, is not this exactly what a good and faithful servant ought to do, when intrusted with the arduous concerns of a kind and just master? And are we not always, all of us, in Eliezer's place? Are we not all the servants of a merciful and just God? Have we not always in hand the
+    
+<pb facs="hta.016.009"/>    
+    most important duty, the salvation of our own souls by the discharge of our baptismal vow? May we not, then, ought we not to extract the lesson of obedience from every part of the holy volume?</p>
+    <p>That fervant prayer is, and ever was, acceptable to god, we have thus the assurance of that Old as well as the New Testament, of Moses as well as of the Apostle. Nor can I close my remarks on this cahpter without reminding you, that it makes particular mention of Isaac as being in the habit, we must suppose the daily habit of prayer; the words are these (ver. 63): <quote type="biblical" xml:id="hta.016.q006" source="kjv">"And Isaac went out to meditate in the field at the eventide."</quote><bibl corresp="#hta.016.q006" resp="#eds">Genesis 24:63</bibl> This implies, that he was accustomed to withdraw himself at such hour from the calls of worldly occupation and the intrusion of society, that he might commune with his own heart, and offer up his prayers and thanks in secret to that God who rewardeth openly. If Isaac had much whereon to meditate, we have more: if he was bound to look with the eye of hope and faith towards the promises of God, we are still bound to bend before the Almighty with unspeakable gratitude for the fulfilment of these promises. In the advent of our Lord and Saviour Christ, with the Bible before our eyes, let not the patriarchs rise up against
+    
+<pb facs="hta.016.010"/>    
+    us in the day of judgment. But whilst we read those narratives which display the dealings of God towards them, let us remember that these things are faithful and true, and that they are contained in that book, out of which all men shall be judged.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+

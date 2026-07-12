@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.016" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.016</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.017.001"/>
+
+    <head>LECTURE XIII.</head>
+    <head type="sub"><bibl>GENESIS, XXV. PART OF VER. 34.</bibl><lb/>
+        <hi rend="italic"></hi>Thus Esau despised his birthright.</head>
+
+    <p>The principal events which occured in the family of Abraham, between the period alluded to in our preceeding Lecture, and the circumstance which supplies us with our text on the present occassion, ought to be stated, however briefly, that we may more fully understand the conduct of Esau, both as conveying  a moral rule, and as full of prophetic import.</p>
+    <p>After the appointed union of Isaac with Rebekah, Abraham married again, and became the father of several children. His conduct to this offspring of a second marraige is worthy our notice. It shows the tenderness of a parent, the foresight of a sage, and his religious deference to the councils of God, under whose particular favour he had fulfilled an unusual term of days with uninterrupted propserity. He gave them gifts, and sent them away from his son Isaac, while he yet lived, eastward, into the east country. He gave them gifts; he gave freely, and places in their immediate <choice><reg>possession</reg><orig>posses-
+        
+<pb facs="hta.017.002"/>
+    sion</orig></choice>, and their absolute control, sufficient for the well-doing with due care and industry. How much more kind both to them and to Isaac was this proceeding, than if he had retained them about his own person, to sooth the latter hours of a selfish old age, and left them either dependent on the bounty of a half-brother, or invested with a doubtful claim over his whole property! He sent them away from his son Isaac. This was to signify, that whilst he provided for them as his children, they were not included in that covenant which gave the land of Canaan to the child of promise. Isaac alone was retained there by Abrahama's own direction, that it might be understood how distinct, definite, and clear, the genealogy of the future Messiah was to be kept. There were to be no competitors in the region round about, who could render it doubtful in what line the predictions of God were to be verified.</p>
+    <p>But, also, he sent them eastward, unto the east country. This showed his wise predilection for the country of his forefathers, where he knew that the ture God had been worshipped, when he was called out for special purposes. Sending, therefore, such of his offspring as were at his own disposal, out of an idolatrous region, into one where the pure worship of <choice><reg>Jehovah</reg><orig>Je-
+        
+<pb facs="hta.017.003"/>
+    hovah</orig></choice> had been preserved, was indeed the best legacy he could bequeth. They would also carry back with them to the land of their forefather Shem a stronger faith and an increased spirit of adoration, in consequence of the instruction which they would not fail of having received from their father Abraham. Thus was Providence keeping up and strengthening a line of faithful worshippers far to the east of Canaan, which should supply the void about to be made during the captivity of Israel in Egypt, until it suited the plan of the Almighty to establish a peculiar and national priesthood in the descendants of Levi. And this naturally leads us to remark, that amongst the sons of Abraham thus sent into the east country (that they might be safe under a true worship, and escape the ruin which befell the Canaanites) is mentioned Midian, who founded the nation of the Midianites. Now we read, that, in after-times, Moses the prophet of the Lord, who of course would have abhorred all idolatrous connexion, found shelter for forty years with the high priest of this nation; that he espoused his daughter, and afterwards followed his counsels in the government of the Israelites, whom God had appointed him to lead through the wilderness.</p>
+    <p>Abraham having thus provided, under Providence, for the continuance of the true religion
+    
+<pb facs="hta.017.004"/>    
+    in remote regions, as well as confirmed in its his immediate representative Isaac, gave up the ghost after a sojournment on earth of an hundred threescore and fifteen years. The scriptures adds, with great minuteness, that he died in a good old age, an old man, and full of years. We are to understand from this, that the fidelity of Abraham to God, under such great and so many trials, was rewarded, even in this world, by a larger gift of life, of happy life. This was no unimportant lesson to his own descendants, but, on the contrary, ought to have made a great impression on them; for, under the Mosaic law, obedience to God's ordinances did hold out a remuneration even in this world. And as Abraham was constantly set forth to them as the most perfect instance of human righteousness and divine favour; it is with very great propriety that the sacred historian does thus record the whole of his fortunate and protracted life, as a memorial to his posterity, that, so long as they imitated his fidelity, their godliness should have and hold the promise of this world. We Christians, indeed, being under another covenant, know that our godliness is not to be impatient, if in this world we have tribulation, being assured that we have a clearer promise of the world to come. But we may draw from God's uniform kindness to Abraham, a comfortable proof of his unimpeachable consistency.
+    
+<pb facs="hta.017.005"/>    
+    As he gave to the patriarch more than he desired, so will he give to us more, much more than we deserve, if we hold fast the faith without wavering.</p>
+    <p>Abraham gave all that he had unto Isaac; i.e. all his remaining substance, after he had reasonably endowed those who were sent eastward. As the blessing of God had been uniformly on Abraham during a long life, this substance must have been considerable; and in such an inheritance Isaac must have received no mean proof of God's goodness to all who loved him and kept his commandments. But above all other riches, to him was given by inheritance the birthright&#8212;the assurance that from him should descend the Messiah. This was well understood by Abraham and by his son. On such a birthright too great a value could not be placed: yet this was what Esau despised; this was what he sold, as far as he could sell it, to his brother Jacob.</p>
+    <p>As God had been pleased to try the patience and fidelity of Abraham and Sarah, so did he for a time try that of Isaac and Rebekah. We read, that Isaac entreated the Lord for his wife, because she was barren; and we read, that the Lord was entreated. Rebekah, conscious of her situation, and impressed with a great <choice><reg>anticipation</reg><orig>antici-
+        
+<pb facs="hta.017.006"/>
+    pation</orig></choice> of having twins, inquired of the Lord as to the result. She made this inquiry through some holy man, a prophet; for we read in Samuel, that ever in old times there had been such construers of God's word. The answer to her inquiry was a prophecy, which regarded not only the family of Isaac, but the church of Christ. The substance of it was, that she should have twins, that the one should be stronger than the other, and that the elder should serve the younger. This, we know, was strictly fulfilled, first of all by Jacob's obtaining the blessing and birthright of Esau: and it has been subsequently much more wonderfully fulfilled by the Christian being adopted into the heirship of the Israelite, who in his turn despised his birthright when he rejected salvation through Jesus Christ&#8212;salvation, as the Apostle says, offered first to the Jew and afterwards to the Gentile. Esau, as the Scripture informs us, sold his birthright to his younger brother: thus did he fulfil the prophecy as far as in him lay. He does not seem to have had the excuse of not knowing its value: his own confession is to the contrary. He returned faint from the exercise of the chase; from mere amusement, not from the necessary labours of agriculture. Under the impulse of sensual appetite he bartered away his highest distinction; for his words, <quote type="biblical" xml:id="hta.017.q001" source="kjv">"Behold, I am at the point to die, and
+    
+<pb facs="hta.017.007"/>    
+    what profit shall this birthright do me?"</quote><bibl corresp="#hta.017.q001" resp="#eds">Genesis 25:32</bibl> plainly prove that the birthright conveyed with it the privilege of transmitting a blessing to posterity. Therefore, for a mess of pottage, the first opportunity which presented itself of appeasing hunger, did Esau, not thoughtlessly but deliberately, assign to another all his natural precedence, in claiming to his children for ever the promises of God. The importance of the surrender could not escape him; for Jacob, who obtained it, reminded him of its value by demanding the solemn pledge of an oath, that it might be as a covenant; for, as the Apostle says, <quote type="biblical" xml:id="hta.017.q002" source="kjv">"An oath is for the termination of all strife."</quote><bibl corresp="#hta.017.q002" resp="#eds">Hebrews 6:16</bibl>&#8212;<quote type="biblical" xml:id="hta.017.q003" source="kjv">"Swear to me this day; and he sware to him, and he sold his birthright unto Jacob."</quote><bibl corresp="#hta.017.q003" resp="#eds">Genesis 25:33</bibl> To mark the feelings of Esau still more strongly, as a proof that he felt no returns of remorse or repentence with returning strength, it is added, <quote type="biblical" xml:id="hta.017.q004" source="kjv">"He did eat and drink, and rose up and went his way."</quote><bibl corresp="#hta.017.q004" resp="#eds">Genesis 25:34</bibl> Thus Esau despised his birthright.</p>
+    <p>The abominable, the unpardonable crime of Esau was evidently a want of faith in God's promises. If this crime was so foul in him, can it be more pardonable in Christians? Let us set the example and the punishment of Esau, who was Edom, before our eyes. Let us remember the value of our birthright; that we
+    
+<pb facs="hta.017.008"/>    
+    are regenerate by baptism; that we are adopted by God. Let us not sell this birthright for any thing which the world can offer. What if we be faint! we know that he who endureth unto the end shall be saved. What if we meet with tribulation! doth not our Saviour say, <quote type="biblical" xml:id="hta.015.q005" source="kjv">"Come unto me all ye that are heavy laden, and I will refresh you?"</quote><bibl corresp="#hta.017.q005" resp="#eds">Matthew 11:28</bibl> What if we die! our birthright is to be born again. Beware therefore of temptations, whether they assail the body or the mind. Endeavour to redeem the imperfection of your deeds by the steadfastness of your faith; remembering, that to love eternity for the sake of temporal indulgence is making yourselves Esau, and selling your birthright for a mess of pottage.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+

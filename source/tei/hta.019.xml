@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.019" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.019</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.019.001"/>
+    
+    <head>LECTURE XV.</head>
+    <head type="sub"><bibl>GENESIS, XXVIII. 1.</bibl><lb/>
+        <hi rend="italic"></hi>And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.</head>
+
+    <p>We cannot read the history of Abraham and his descendants, as related in this, the preceding, and some subsequent chapters of the book of Genesis, without being struck with the consistency and uniformity of advice, design, and conduct, on which the principal events seem to depend. It is in itself a very strong argument in favour of these Scriptures, as being genuine, and written under the direction of God. One plan evidently prevails through several generations and for many centuries. This is not the characteristic of human counsels; but of course must be the characteristic of divine decrees.</p>
+    <p>It is mentioned with great precision, as a circumstance of much consequence, that Abraham, Isaac, and Jacob, connected themselves in marriage with those of thie rown family.
+    
+<pb facs="hta.019/002"/>    
+    The consanguinity of Sarah, Rebekah, Leah, and Rachel, is detailed and dwelt on with a minuteness that could not fail of exciting our attention, even if no other peculiar circumstances had occured as tending to these several marraiges, or resulting from the. But in truth it is evident, that God did not disdain to lead by a special providence those whom he had chosen, through every stage of life. Both Isaac and Jacob were forbidden respectively by their parents, to take unto them wives from the surrounding nation: this interdiciton had the command of God united to that of a father; and the reason is plain&#8212;the surrounding nation in both instances were Canaanites. Now God had repeatedly declared that the Canaanite should be destroyed. It would, therefore, have been running counter to the declared will of God, had Abraham or had Isaac permitted their posterity to intermarry with an excommunicated tribe. It would have rendered the children of Israel very unwilling instruments of divine wrath, against those who had been so recently connected with them by the closest of human ties. On the contrary, so long as the Jews were confined to intermarriages among themselves, they were exactly adapted for all the great purposes which God had determined to effect by them as secondary agents. Therefore it was not unworthy of Moses to tell us,
+    
+<pb facs="hta.019.003"/>    
+    that Isaac gave unto Jacob directions very similar to those which Abraham had given to his servant Eliezer, when he went to seek Rebekah for Isaac's future wife. Let us compare the two passages. Abraham spake to Eliezer thus: <quote type="biblical" xml:id="hta.019.q001" source="kjv">"I will make thee swear by the Lord the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, amongst whom I dwell; but thou shalt go unto my country and to my kindred, and take a wife unto my son Isaac."</quote><bibl corresp="#hta.019.q001" resp="#eds">Genesis 24:3</bibl> Here are two distinct but equally positive injunctions. Isaac is on no account to marry a daughter of Canaan, where he knew the true God was not known; and Abraham's most earnest desire is, that he should marry into his own family, where he felt sure the worship of the true God was yet preserved.</p>
+    <p>The extreme positiveness with which Abraham, at all events, forbids any marriage with a Canaanitess, even should his servant fail in the other part of his embassy, namely, that of prevailing with Rebekah, must not be passed over. It must be considered as a proof that Abraham felt assured of God's future vengeance on idolaters; to mix, therefore, with them, was not in his contemplation a possible alternative: yet at the same time he mentions his unalterable determination, that Isaac must remain in the land
+    
+<pb facs="hta.019.004"/>    
+    of Canaan, for the Lord had sworn unto him, saying, <quote type="biblical" xml:id="hta.019.q002" source="kjv">"Unto thy seed will I give this land."</quote><bibl corresp="#hta.019.q002" resp="#eds">Genesis 12:7</bibl> Now, what are the precise words of Isaac to Jacob, about a hundred years afterwards? <quote type="biblical" xml:id="hta.019.q003" source="kjv">"And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan: arise, go to Padan-aram, to the house of Bethuel, thy mother's father, and take thee a wife from thence of the daughters of Laban, thy mother's brother."</quote><bibl corresp="#hta.019.q003" resp="#eds">Genesis 28:1-2</bibl> Here, again, we must remark, that Isaac's admonition, like that of old given by Abraham to Eliezer, contains two similar distinct, but equally positive directions. On no account is Jacob to marry a Canaanitess; but he is to marry one who stood to him in the same degree of relationship as existed between Isaac and Rebekah. So, then, after the lapse of a hundred years Isaac seems to have recognized the same rule of conduct as his father Abraham. At this distance of time we can receive no better historical evidence, that both considered themselves as acting in obedience to God, and in furtherance of his ulterior designs.</p>
+    <p>But the remainder of Isaac's address to his departing son, is very important. It unites the accuracy of a prophet with the fondness of a father. He proceeds to say, <quote type="biblical" xml:id="hta.019.q004" source="kjv">"And God Almighty bless thee, and make thee fruitful, and 
+    
+<pb facs="hta.019.005"/>    
+    multiply thee, that thou mayest be a multitude of people, and give thee the blessing of Abraham to thee and to thy seed with thee, that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham."</quote><bibl corresp="#hta.019.q004" resp="#eds">Genesis 28:3-4</bibl> How strong a proof here we, in this farewell benediction, that Isaac had a perfect faith in the precise promises of God as made to Abraham! He does not even think it necessary to mention tha these promises had been renewed to himself as they were at Gerar. No; he lays hold of the stronger stay; he falls back on a firmer rock: it was the promise made to Abraham. Thus did Isaac teach his son to lay up in his memory the real date of his birthright. Moreover, Isaac plainly predicts that Jacob should be the father of more heirs to the promise than himself or Abraham&#8212;<quote type="biblical" xml:id="hta.019.q005" source="kjv">"that thou mayest be a multitude of people."</quote><bibl corresp="#hta.019.q005" resp="#eds">Genesis 28:3</bibl> This blessing was most strikingly fulfilled by the name of Israel being conferred on Jacob by God, and afterwards becoming the distinguishing name of his posterity as a nation.</p>
+    <p>The Almighty having thus exercised the faith of two generations, namely, Abraham and Isaac, for more than a hundred and fifty years; having, both in the instance of Sarah and Rebekah, most evidently shown that their having any children was a peculiar dispensation of his
+    
+<pb facs="hta.019.006"/>    
+    mercy and favour; having, in the instance of Ishmael and Esau, manifested his right to select his personage, and having, contrary to human custom, selected the younger born; having, in these and several other ways, prepared sufficient evidence to all future generations, that he was the God of Abraham, Isaac, and Jacob, was pleased to accomplish and display, in the lifetime of the latter, a very considerable part of that dispensation which promised worldly blessings to every obedient Israelite, and now promises eternal salvation to every faithful follower of Christ.</p>
+    <p>The history of Jacob's life presents most ample matter for consideration. We may consider him, though only an individual, as selected by God for a lesson to his descendants, which they ought to have bound on the frontlets of their eyes. He was always under the special protection of God&#8212;had frequent personal communication&#8212;was ever prosperious, because acting under the fear of God&#8212;retained an uninterrupted recollection of God's promises&#8212;and, finally, was favoured with the privilege of predicting the coming of a Saviour. It will be worth our while to recall to our mind the various times and places and circumstances in which God seems to have extended a peculiar care over Jacob. In the first place, scarcely had he
+    
+<pb facs="hta.019.007"/>    
+    left his father's house, on his journey to Padan-aram, when God appeared to him in a dream: <quote type="biblical" xml:id="hta.019.q006" source="kjv">"And the Lord said unto him, The land where on thou liest, to thee will I give it, and to thy seed."</quote><bibl corresp="#hta.019.q006" resp="#eds">Genesis 28:13</bibl> The impression which this heavenly voice made on Jacob, may be collected from his instantaneous exclamation, <quote type="biblical" xml:id="hta.019.q007" source="kjv">"Surely the Lord is in this place, and I knew it not: and he took a stone, and set it up for a pillar, and poured oil upon it."</quote><bibl corresp="#hta.019.q007" resp="#eds">Genesis 28:16-18</bibl> The oil wsa meant as an offering to God; and the whole act serves to show the early disposition of Jacob to put his cause in God's hand, as well as his desire of imprinting on his own mind the whole circumstance, and handing down to posterity a permanent mark of so divine an interference.</p>
+    <p>I will not go into the particulars of Jacob's long residence with his uncle Laban. In spite of the avarice and treachery of the latter, we find that Jacob was uniformly prosperous. Laban made the same discovery; for he said, <quote type="biblical" xml:id="hta.019.q008" source="kjv">"I have learned by experience that the Lord has blessed me, for thy sake."</quote><bibl corresp="#hta.019.q008" resp="#eds">Genesis 30:27</bibl> But Laban was an avaricious man, and, as such, his eye was evil because Jacob's was good. And the Lord appeared again unto Jacob, and said unto him, <quote type="biblical" xml:id="hta.019.q009" source="kjv">"Return unto the land of thy fathers and thy kindred, and I will be with thee. I am the God of Bethel, where thou anointedst the <choice><reg>pillar."</reg><orig>pil-
+        
+<pb facs="hta.019.008"/>
+    lar."</orig></choice></quote><bibl corresp="#hta.019.q009" resp="#eds">Genesis 31:13-15</bibl> Jacob, under the guidance of Heaven, departed from Laban secretly. Laban, unincumbered, pursued him, and, of course, overtook him. But his hasty expedition was in vain; <quote type="biblical" xml:id="hta.019.q010" source="kjv">"for God came to Laban the Syrian, in a dream by night, and said unto him, Take heed that thou speak not to Jacob good nor bad."</quote><bibl corresp="#hta.019.q010" resp="#eds">Genesis 31:24</bibl> Thus did God deliver Jacob out of the hands of his exasperated father-in-law. On this occasion we must not omit mention of Jacob's offering sacrifice, and calling his brethren, Laban's sons, to eat bread:&#8212;thus uniting worship towards God with peace on earth.</p>
+    <p><quote type="biblical" xml:id="hta.019.q011" source="kjv">"And Jacob went on his way, and the angels of God met him."</quote><bibl corresp="#hta.019.q011" resp="#eds">Genesis 32:1</bibl>&#8212;Reserving till next Sunday the further consideration of God's continual kindness to Jacob, I cannot but bessech you to draw the obvious inference from the above words. After a reconciliation, in which Jacob, though the ill-used, injured, and persecuted party, was the first to extend the right hand of fellowship, and to refer the whole of his conduct to the judgment of God, he went his way; and what ensued?&#8212;The angels of God met him on the way. The angels of God do not now visibly descend to succour us in trial, nor to salute us on success. But the grace of God is ever ready to assist us in all our trials; and, if we can but have God on our side&#8212;if our<choice><reg>conscience</reg><orig>con-
+        
+<pb facs="hta.019.009"/>
+    science</orig></choice> tells us that we are right&#8212;and if we are, at the same time, patient under wrong;&#8212;we shall seldom fail to subdue every opposition, to convert an enemy into a friend, and, when we turn from him to go on our way, the peace of God will meet us, and remain amongst us.</p>
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+

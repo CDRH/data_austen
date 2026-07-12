@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.015" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.015</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.015.001"/>
+    
+    <head>LECTURE XI.</head>
+    <head type="sub"><bibl>GENESIS, XXII. PART OF VER 1.</bibl><lb/>
+        <hi rend="italic"></hi>And it came to pass after these things, that God did tempt Abraham.</head>
+
+    <p>Perhaps the first question which many persons may secretly propose to themselves, on hearing the above words, may be, "What! can the God of all goodness and justice tempt his frail and imperfect creature, man" Can He, who hateth iniquity, place iniquity before the eyes of one who is ignorant in discerning, or incompetent to obey? Can God place temptation before the feet of those whom he made to walk in the path of probation, and then condemn the pilgrim who stumbleth?" To all such querulous inquiries and premature conclusions we need only answer, in the very words of Abraham, as may be read in the <sic>28th verse of the 18th chapter</sic>, <quote type="biblical" xml:id="hta.015.q001" source="kjv">"Shall not the Judge of all the earth do right?"</quote><bibl corresp="#hta.015.q001" resp="#eds">Genesis 18:25</bibl> We must not suffer ourselves always to be influenced by the first and common meaning of words, as used in Scripture; but, when any phrase seems contradictory to reason, to the general <choice><reg>characteristics</reg><orig>charac-
+        
+<pb facs="hta.015.002"/>
+    teristics</orig></choice> of God, and his usual dispensations towards men, we shall do well to consult a better exposition of Scripture than our own prejudice permits us to find in ourselves.</p>
+    <p>To tempt, in ordinary acception, is to allure, and generally in a bad sense; i.e. to allure, or endeavour to allure, others to do what is wrong, what they know to be wrong, by some present or promised bribe, which we in our hearts hope and believe will be potent to lead them astray. In this sense Satan did tempt Eve in Paradise; in this sense does he secretly continue to tempt the posterity of Eve unto this hour. But, in this sense, is no man tempted of God; for, as God had rather that the wicked, yea, even, those who have already yielded to temptation, should turn from their wickedness and live; so it would be contradictory for God to allure men into the wickedness from which he wishes them to do more than restrain&#8212;to withdraw themselves. God permits us to meet with trials of our faith and virtue, that he may be glorified by our sincerity and obedience. He has also warned us by instruction, cheered us with hope, and armed us with grace, taht we may be conquerors in such combat. We are, then, to consider the words of teh text as intimating that God continued, from time to time, to exercise the allegiance and try the faith of
+    
+<pb facs="hta.015.003"/>    
+    Abraham by various tests; and, finally, by one which was to be, not only a full satisfaction to God that Abraham's heart was right before him, but which was to be a precise indication, we may say, a practical prediction, to all suceeding generations, both of Jew first, and afterwards of Gentile, of that Sacrifice which was to be a full, perfect, and entire satisfaction for the sins of the whole world. Recollecting, then, that the chief scope of Abraham's trial, as recorded to us, is to impress on our minds the original design of God to redeem man from sin, by the sacrifice of a better Victim than any son of Abraham, let us proceed in our consideration of the text, and the miraculous circumstances to which it conducts us.</p>
+    <p><quote type="biblical" xml:id="hta.015.q002" source="kjv">"God did tempt Abraham, and said unto him, Abraham! And he said, Behold, here I am. And he said, Take now they son, thine only son Isaac, whom thou lovest; and get thee into the land of Moriah, and offer him there for a burnt offering upon one of the mountains which I will tell thee of."</quote><bibl corresp="#hta.015.q002" resp="#eds">Genesis 22:1-8</bibl>&#8212;Of this most awful, most unexampled, and yet most peremptory command, from the mouth of the Almighty, every seperate part deserves our minutest observation. We may, indeed, first remark, that the very awful, peremptory, and authoratative tone in which it was uttered, implies a dependence
+    
+<pb facs="hta.015.004"/>    
+    on a dutiful and ready compliance on the part of Abraham; he had said to the first summons of the Lord, <quote type="biblical" xml:id="hta.015.q003" source="kjv">"Here I am."</quote><bibl corresp="#hta.015.q003" resp="#eds">Genesis 22:1</bibl> In Scripture, the phrase of <hi rend="italic">Here I am</hi>, always means, that he who utters it is ready to obey as well as to stand forth. It is an exlamation of the same force and nature as that which David uses in the 40th Psalm, and on a subject closely connected with the sacrifice of the Lamb of God: <quote type="biblical" xml:id="hta.015.q004" source="kjv">"Then said I, Lo! I come to do they will, O God."</quote><bibl corresp="#hta.015.q004" resp="#eds">Psalm 40:7-8</bibl> Abraham, in like manner, was there to do God's will, as well as answer to his word. Whenever we are really willing to obey God's words, my friends, we may be assured that we shall never remain in ingorance of that word, but that he will speak in terms as plain as to the patriarch, though not in terms so wonderul.</p>
+    <p><quote type="biblical" xml:id="hta.015.q005" source="kjv">"Take thy son, thine only son Isaac."</quote><bibl corresp="#hta.015.q005" resp="#eds">Genesis 22:2</bibl>&#8212;God here calls Isaac the only son of Abraham. Why does he so, when Ishmael was alive, and already had God's promise to become the father of a numerous nation? 1st, Because ISaac was the only son of Abraham, by Sarah his wife; 2dly, Because he was the child of God's promise, and therefore the only one who could claim God's covenant; for, as St.Paul says, the promise of God was unto Abraham and his seed, not unto seeds. 3dly, The term <hi rend="italic">only</hi> is also frequently used to express a particular degree of affection;
+    
+<pb facs="hta.015.005"/>    
+    as if God had said, Thy son Isaac, thy only blessing, thy only hope, the prop of thy present life, declining as it is; the pledge of living, when the grave has closed over thee, in the hearts of a numerous and grateful posterity. This is more strongly touched upon in the succeeding words, <quote type="biblical" xml:id="hta.015.q006" source="kjv">"whom thou lovest"</quote><bibl corresp="#hta.015.q006" resp="#eds">Genesis 22:2</bibl>&#8212;whom he might well indeed love as the last gift of Heaven, the reward of his faith, and hope, and charity, the very seal of a covenant so solemnly ratified by God himself. This object of almost holy, as well as natural affection, he was to lose, to lose in what appeared the most unreasonable and barbarous manner. He, the father, was to lift the knife against the innocent throat. But where was the sacrifice to take place? Here we meet with another circumstance of minute and mysterious signfication. He was, with all this load of anguish preying on his mind, without daring to seek the consolation of his wife, acting, as it were, with dissimulation towards his household and treachery towards his son; he was to journey to a considerable distance, to a spot which he knew not of&#8212;to the land of Moriah, and there be directed by God's hand to a particular mountain. Now the land of Moriah was that which was afterwarads to form the centre and citadel of David's kingdom; it was to be the site of Jerusalem, nay, of the very temple itself. We read, that Solomon began to
+    
+<pb facs="hta.015.006"/>    
+    build the house of the Lord at Jerusalem on Mount Moriah, where the Lord appeared unto David his father in the place that David had prepared in the threshing-floor of Ornan, or Araunah, the Jebusite.</p>
+    <p>You remember, of course, that the altar which David reared, was for the purpose of sacrificing to the Lord, in gratitude for his having stayed his hand, and stopped the plague which David's pride had brought on Israel. Now, see the secret analogy of God's councils. The same spot was fixed on by God for the offering up of Isaac, as was afterwards set apart, not only for David's propitiatory sacrifice, but for that final expiation, that full atonement which was perfected in the crucifixion of our Lord Jesus Christ. Can we, then, ever think too much, or speak too much, on the subject of the atonement? Does not every interesting, and curious, and awful particular contianed in the narrative of the Old Testament, irresistibly lead our thoughts to that stupendous event which placed the seal upon the New?</p>
+    <p>Abraham, who had believed in all God's promises, fell not away under the trial of the present hour. He went with cheerfulness, at least with readiness, on this most terrific commission; his heart was full of God. It is plain, that it
+    
+<pb facs="hta.015.007"/>    
+    was so, from the answer which he made to Isaac, who, beholding the fire and the wood, naturally inquired, saying, <quote type="biblical" xml:id="hta.015.q007" source="kjv">"Where is the lamb for a burnt offering?"</quote><bibl corresp="#hta.015.q007" resp="#eds">Genesis 22:7</bibl>&#8212;<quote type="biblical" xml:id="hta.015.q008" source="kjv">"My son,"</quote><bibl corresp="#hta.015.q008" resp="#eds">Genesis 22:8</bibl> said Abraham, <quote type="biblical" xml:id="hta.015.q009" source="kjv">"God will provide himself a lamb for a burnt offering."</quote><bibl corresp="#hta.015.q009" resp="#eds">Genesis 22:8</bibl> It was the  spirit of the prophecy which opened the patriarch's mouth. God did provide a victim in lieu of Isaac; but God has done much more. The prophecy of Abraham has had a twofold completion. The sacrifice offered up for our sins, and those of the whole world, has been of God's providing in the strictest sense; it was such as man and mortality could not provide. The words of Abraham remind us, then, of Christ's miraculous birth, and are to be considered by us as one of the earliest assurances that the Lamb of God should partake the divine nature.</p>
+    <p>When Abraham's obedience had been tried to the utmost, when he had showed that he did not withhold his son, his only son, the Lord, as you know, was pleased to interfere and justify his ways in the sight of his servant. It is recorded, that Abraham <quote type="biblical" xml:id="hta.015.q010" source="kjv">"lifted up his eyes and looked, and behold, behind him a ram caught in a thicket by his horns. And Abraham went  and took the ram, and offered him up for a burnt offering in the stead of his son."</quote><bibl corresp="#hta.015.q010" resp="#eds">Genesis 22:13</bibl>&#8212;Now, from this circumstance, some observations present
+    
+<pb facs="hta.015.008"/>    
+    themselves. It was intended to remind Abraham of the necessity he was under, of persevering to sacrifice to the Lord continually as aforetime. He was not to supposed, that, in restoring to him Isaac, the Lord Remitted any particle of former injunctions. As Isaac was not the real and acceptable sacrifice which could take away the sins of the world; so Abraham and all his posterity were to be reminded by God's miraculous supply of the victim on this occasion, that he attached to their fulfilment of all appointed rites, in other words, to their obedience, all those benefits which the fulness of time has more clearly revealed unto us. The lesson which we may recieve from it is that even in Abraham's day God admitted a substituted victim; and that we have thus the highest authority of cherishing a firm faith in the doctrine of atonement&#8212;of atonement for our sins by the death of another.</p>
+    <p>Finally, to Abraham, because he did not withhold his son, his only son, was made under a most solemn oath (By myself have I sworn, says the Lord), a promise, that not only his seed should be multiplied, and that they should possess the gate of their enemies; but that all the nations of the arth should be blessed. The blessing here alluded to cannot mean any thing short of redemption from sin. Where is the
+    
+<pb facs="hta.015.009"/>    
+    philospher, where is the scribe, where is the disputer of this world? Why will they not read with their minds and understandings? How can they be so blind as not to perceive that God, in praising Abraham's sacrifice, is revealing his own? Because he hath done this thing, this very same thing, because he hath not withheld his son, his only son. We know that the reign of Christ will come, that his saints shall be multiplied as the sand of the sea; that they shall possess the gates of the enemy, for the gates of hell shall not prevail against them; and that many shall come from the east and the west, from the north and the south, and shall sit down with Abraham at the feast of the Lamb.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
