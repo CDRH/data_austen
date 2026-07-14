@@ -76,7 +76,7 @@ the above.</p>
 
 </profileDesc>
 <revisionDesc>
-<change when="2026-02"><name sameAs="#jh"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+<change when="2026-07"><name sameAs="#hb"/> transcribed and encoded</change> <!-- replace with correct name and date -->
 </revisionDesc>
 </teiHeader>
 <text>
@@ -106,6 +106,17 @@ the above.</p>
     
     
     -->
+
+<pb facs="hta.021.001"/>
+    
+    <head>LECTURE XVII.</head>
+    <head type="sub"><bibl>GENESIS, XXXIII. 4.</bibl><lb/>
+        <hi rend="italic"></hi>A</head>
+
+
+
+
+
 
 
 
