@@ -29,7 +29,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-    <idno type="project">hta.00x</idno> <!-- replace "hta.020" with filename -->
+    <idno type="project">hta.020</idno> <!-- replace "hta.020" with filename -->
 <availability>
 <p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
 distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner

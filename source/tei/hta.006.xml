@@ -10,7 +10,7 @@
 <principal>White, Laura Mooneyham</principal>
 <respStmt>
 <resp>Transcription, encoding, proofreading</resp>
-<name xml:id="jh">Harper, Jordan</name>
+<name xml:id="hb">Borrell, Hannah</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -76,7 +76,7 @@ the above.</p>
 
 </profileDesc>
 <revisionDesc>
-<change when="2026-03"><name sameAs="#jh"/> transcribed and encoded</change>
+<change when="2026-06"><name sameAs="#hb"/> transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 <text>
