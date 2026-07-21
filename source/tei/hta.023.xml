@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.023" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.00x</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-07"><name sameAs="#hb"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.023.001"/>
+    
+    <head>LECTURE XIX.</head>
+    <head type="sub"><bibl>GENESIS, XXXVII. PART OF VER. 13.</bibl><lb/>
+        <hi rend="italic"></hi>And he said unto him, Here am I.</head>
+
+    <p>These were the words, the dutiful words with which Joseph replied to his father Jacob, when the latter had said unto him, <quote type="biblical" xml:id="hta.023.q001" source="kjv">"I will send thee unto them."</quote><bibl corresp="#hta.023.q001" resp="#eds">Genesis 37:13</bibl>&#8212;Unto whom? even unto his hardhearted brethren, who were then feeding their flocks at a distance in Shechem, as Jacob supposed, but who were, in fact, at a greater distance than their father iimagined, even in the land of Dothan. <quote type="biblical" xml:id="hta.023.q002" source="kjv">"Come,"</quote><bibl corresp="#hta.022.q002" resp="#eds">John 9:41</bibl> said Jacob unto his favourite son, in whom he was well pleased, and whom it seems he had kept at home, to be the solace of his age and the support of his feebleness, <quote type="biblical" xml:id="hta.023.q003" source="kjv">"come, and I will send thee unto them. And he said unto him, Here am I."</quote><bibl corresp="#hta.023.q003" resp="#eds">Genesis 37:13</bibl></p>
+    <p>It appears from a previous passage in this chapter, that the enmity which his brethren felt towards him was not unknown unto Joseph nor his father; on the contrary, we must conclude, that on some, perhaps on many former
+    
+<pb facs="hta.023.002"/>    
+    occasions, it had been displayed; for in the second verse it is said, that Joseph had been with Jacob's sons by Bilhah and Zilpah, and had brought his father their evil report, or had communicated to his father their unfriendly disposition towards him, and that they wished him evil. It is necessary to remind ourselves exactly how all parties were affected towards each other, and how far Joseph was aware of his brethren's hatred and his own danger, that we may fully apprecaite the merit of his obedience, and fully understand, what the Jews did not understand by the prophetic words, <quote type="biblical" xml:id="hta.023.q004" source="kjv">"Here am I."</quote><bibl corresp="#hta.023.q004" resp="#eds">Genesis 37:13</bibl></p>
+    <p>A beloved, a virtuous, and, comparatively, a faultless son, says unto his father, about to send him forth among his unworthy brethren, as a sheep among wolves, <quote type="biblical" xml:id="hta.023.q005" source="kjv">"Here am I."</quote><bibl corresp="#hta.023.q005" resp="#eds">Genesis 37:13</bibl> Does not this remind us, my brethren, of a much more important mission? Can we read the ready and resigned answer of Joseph, without bringing to our minds a similar expression which David poureth out in the fulness of inspiration and prophecy? Pslam xl. <sic>part of ver. 9 and 10.</sic> the whole Psalm to which I here direct your attention, is so plainly indicative of the Messiah's character and office, that our church has appointed it for the service of Good Friday. <quote type="biblical" xml:id="hta.023.q006" source="kjv">"Then said I, Lo, I come: in the
+    
+<pb facs="hta.023.003"/>    
+    volume of the book it is written of me, that I should fulfil thy will, O God! I am content to do it."</quote><bibl corresp="#hta.023.q006" resp="#eds">Psalm 40:7</bibl></p>
+    <p>In the character and in the disposal of Joseph, as well as in all the main events of his important life, we are led by this early speech of his, so obedient and so submissive, to contemplate a type and image of our blessed Lord and Saviour; and therefore to feel the propriety with which moses dwells on every the minutest circumstance, to the end that he might open the hearts and understandings of the Jews, to a just conception of a real nature of God's promises, and the mode by which he had willed to work the salvation of them and all mankind. Well might our Saviour say to the unbelievers of his day, <quote type="biblical" xml:id="hta.023.q007" source="kjv">"Search the Scriptures: they bear witness of me."</quote><bibl corresp="#hta.023.q007" resp="#eds">John 5:39</bibl> They do, indeed, bear witness of him! The volume of the Book is full of him. And those who have most attentively perused it, feel among the greatest benefits of such perusal, an unquenchable desire to drink again and again of its living waters, and an assuracne, which never yet deceived them, that so often as they open that volume, they will discover fresh evidence that Christ is the beginning and the end; and that God, at sundry times and in divers manners, in time past, revealed unto the fathers the image and type of that which he
+    
+<pb facs="hta.023.004"/>    
+    afterwards made manifest in the flesh, and of which, in these last days, we enjoy the singular advantage of comparing the promise and performance. We will, therefore, proceed to remark, and chiefly by way of quotation, on those parts of the context, which display in Joseph the character and office of a Redeemer, or the disposition and conduct of those who are to be redeemed. Christ and the Christian are both set before us.</p>
+    <p>Jacob sends Joseph to visit his brethren, feeding their flocks in Shechem. They, it seems, had wandered to a greater distance, evidently without the approbation, because without the knowledge of their father. Who does not even in this apparently unimportant circumstance, see and acknowledge a reproof attaching unto all the sons of men? God looked down from heaven on the children of men; they were all gone out of the way. We do all go out of the way; we all go as far as we can from the voice of reproof and the control of authority, and then we make the distance and remoteness of authority an excuse and a temptation. The children of Israel, had they not strayed from their father, would scarcely have given such latitude to their passions, or have proceeded to the monstrous crime of intended fratricide. It is true that the historian does not
+    
+<pb facs="hta.023.005"/>    
+    bring this as a charge against the brethren of Joseph; but we are bound to read all Scripture as written for our learning; and if we did so, there would be no occasion for one tittle of all the volumes written on morality, which have borrowed their value from Scripture, though many have concealed or denied their obligation.</p>
+    <p></p>
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
