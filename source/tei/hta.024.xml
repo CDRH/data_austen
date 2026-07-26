@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.024" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.00x</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-07"><name sameAs="#hb"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.024.001"/>
+    
+    <head>LECTURE XX.</head>
+    <head type="sub"><bibl>GENESIS, XXXIX. PART OF VER. 2.</bibl><lb/>
+        <hi rend="italic"></hi>And the Lord was with Joseph, and he was a prosperous man.</head>
+
+    <p>If the prosperity of Joseph be attentively considered, it will be found to be the result of his exemplary conduct in every trial and visitation. If we say with the holy historian, that the Lord was with Joseph, we are bound also to remember and to say, that the heart of Joseph was with the Lord. It was with the Lord, both in adversity and prosperity, when he went down into the pit, with the probable alternative of perishing by hunger or by the fury of wild beasts; and it was equally regulated by a sense of responsibility to Heaven, when Pharoah set him over all the land of Egypt. In our preceding Lecture we did consider Joseph as a type of the Saviour who was to come; we will now consider him as an illustration of those virtues which characterize the chosen people of the Messiah until he comes again. Nor is it a trifling argument in favour of Christianity, that
+    
+<pb facs="hta.024.002"/>    
+    the virtues which the Son of God most forcibly inculcated, and most extensively practised, should, two thousand years before his advent, be recorded as most acceptable in the sight of God the Father.</p>
+    <p>All ancient histories have set forth and praised their famous men. In every age and country heroes have found their panegyrists, or national vanity has invented its heroes: and all have resembled each other in the material features of their fame. Human beings have been praised and celebrated for human propensities, not for heavenly dispositions. Warriors and conquerors have been handed down as objects of admiration to posterity, which ought rather to weep over the blood that they have spilt, and labour to repair the injuries they have committed. The humble and meek have in general no record on earth&#8212;in the book of salvation. But the book we are now considering, which instructeth us in salvation, was written under the influence of the Spirit; and therefore we find, that Joseph in no respect resembled the heroes of profane history. He was humble, patient, peaceful, provident, and forgiving. Unallured and unseduced in the midst of tempation and power, he repressed every sally of intemperance, ambition, and revenge. He walked
+    
+<pb facs="hta.024.003"/>    
+    safely through every danger, because he walked humbly with his God. O that men would remember the blessings that are promised to the humble and meek, and call to mind that those who abuse earthly power intrusted to their hands, cannot oppress the bodies of their fellow-creatures without endangering their own souls!</p>
+    <p>The value which ought to be annexed to the virtues of self-government, resignation, mercy, and loving=kindness, is very evident, from the minuteness with which Moses has detailed the whole history of Joseph. It occupies no less a portion of Genesis than a tenth part of the whole book. The Midianites sold him to Potiphar, captain of Pharoah's guard. Here the strength of his character soon shone forth. As he had before resigned himself without a struggle to the cruelty of his brothers, thereby showing his readiness to drink of the cup which his heavenly Father gave him, so did he now manifest equal courage and resolution in resisting the blandishments and incurring the malice of a profligate and revengeful woman. As conscious innocence, on the former occasion, enabled him to meet his doom undaunted; so in teh latter had the alternative of endless captivity no power to corrupt his innocence. From what source did he derive his fortitude on both occasions? From a trust in God, and a love of his
+    
+ <pb facs="hta.024.004"/>   
+    law, a fear of his displeasure, when tempted to the foul but secret crime of adultery. He did not trust himself merely to a sense of honour and gratitude, because Potiphar had reposed on him unbounded confidence, but he relied upon a surer stay: <quote type="biblical" xml:id="hta.024.q001" source="kjv">"How can I do this great wickedness, and sin against god?"</quote><bibl corresp="#hta.024.q001" resp="#eds">Genesis 39:9</bibl> Let the mere moral philosopher, the champion of decorum and decency, he who asserts that a feeling of propriety, of fitness, of honour, is sufficient to produce among men conduct as pure, as the love of God&#8212;let him delcare if there be any test whereby we can try the religious spirit of nations, and the lively sense they entertain of their calling in Christ, so accurately as by the comparative odium and reproach in which they regard a breach of the seventh commandment. When communities cease to make these distinctions, they sin presumptuously, and are ready for destruction.</p>
+    <p>When Joseph was thrust into prison, under an accusation as false as it was foul, we have ample proof of the patience and equanimity of his character. Here he gained the entire good-will of the keeper of the prison; yet having so gained it, he made no effort to effect his own enlargement, by stating to him the falsehood of the things laid to his charge,&#8212;a statement which, conveyed through such a
+    
+ <pb facs="hta.024.005"/>   
+    channel, could scarcely have failed to bring Potiphar to a knowledge of the truth, and the woman to severe punishment. Joseph was truly great of soul; he avoided revenge on this as on every other occasion; he knew, before the Pslamist said it, that <quote type="biblical" xml:id="hta.024.q002" source="kjv">"vengeance belonged to the Lord."</quote><bibl corresp="#hta.024.q002" resp="#eds">Psalm 94:1</bibl> The Lord did not fail, in due time, to heap coals of fire on the heads of adversaries.</p>
+    <p>Joseph, by the spirit of God working within him, was enabled to predict to his fellow-prisoner, the chief butler of Pharoah, a speedy release, and a restoration to his master's forfetied favour. To this predition he added teh following very natural and very pathetic appeal: <quote type="biblical" xml:id="hta.024.q003" source="kjv">"Think on me when it shall be well with thee, and show kindness, I pray thee, unto me, and make mention of me unto Pharoah, and bring me out of this house."</quote><bibl corresp="#hta.024.q003" resp="#eds">Genesis 40:14</bibl> We are not, then, to attribute Joseph's resignation to any want of sensibility. Great as were the comforts of his situation, still his heart, compared with that of his fellow captives, yearned for liberty, that natural right of the innocent. Still the iron entered into his soul, though religion laid her finger on his lips, and checked the voice of complaint. This constitutes the beautiful, the instructive part of Joseph's character&#8212;deeply to feel, and strictly to command his feelings. He
+    
+<pb facs="hta.024.006"/>    
+    endeavoured to impress on the heart of his fellow-prisoner an accurate idea of the wrongs he had sustained, without betraying one syllable which could fasten reproach on the character of his brethren. This was, indeed, the spirit of God&#8212;this is what Christians only can understand, for they are to love their enemies.</p>
+    <p><quote type="biblical" xml:id="hta.024.q004" source="kjv">"Indeed I was stolen away out of the land of the Hebrews, and here also have I done nothing that they should put me into a dungeon."</quote><bibl corresp="#hta.024.q004" resp="#eds">Genesis 40:15</bibl>&#8212;Can any words be more touching or more considerate? In whose bosom do they not provoke a solemn hatred of all customs which tolerate human slavery? In whom, that they have ever been consenting thereto, unless their conscience be seared with a hot iron, do they not awake a horrible dread and fear of the time when the Lord shall rise up in judgment to smit the sinners on earth, even the Lord who heareth the captive in the dungeon, though men have stopped their ears like the deaf adder?</p>
+    <p>Joseph in prison avowing his wrongs, proclaiming his innocence, not publishing the guilt of the Egyptian woman, and concealing the offence of his brethren, is a lesson to all who are or may be chastened by adversity. It says to all of us, <quote type="biblical" xml:id="hta.024.q005" source="kjv">"Go, and do thou likewise."</quote><bibl corresp="#hta.024.q005" resp="#eds">Luke 10:37</bibl> If
+    
+<pb facs="hta.024.007"/>    
+    we can but do the least things, we shall not lose our reward.</p>
+    <p>Another trial of Joseph's resignation and patience yet awaited him. The chief butler resembled too many of the sons of men. He received his liberty and his occupation in the manner and at the time by Joseph predicted: yet the misfortunes of the Hebrew lad touched him not in the moment of his own exaltation&#8212;<quote type="biblical" xml:id="hta.024.q006" source="kjv">"yet did not the chief butler remember Joseph, but forgat him."</quote><bibl corresp="#hta.024.q006" resp="#eds">Genesis 40:23</bibl> If any thing be more likely than another to provoke soreness, and impatience, and misanthropy, surely it is the sudden forgetfulness of those whom we comforted and consoled in common misfortunes. I fear that very few could be found who would not in their day of power have retaliated in some degree upon this ungrateful man, and clothed their revenge with the pretext of just retribution. Let us, therefore, give Joseph the praise he deserved, if, when Pharoah invested him with the ring of sovereign power, he exercised it not against this man, but left him to the punishment of remembering his irremediable ingratitude.</p>
+    <p>Joseph having been so faithful over a few things, was thus made ruler over many things, by the providence of that God who in his Gospel assures us, that all who sow such seed shall
+    
+<pb facs="hta.024.008"/>    
+    reap a corresponding blessing. Was Joseph's character changed by prosperity? No! had it been, we may be sure his fortunes would have changed also, and his bow would not have abided in strength. The brightness of his situation served but to illustrate more clearly the consistency and rectitude of his principles. The feelings of the son and the brother not only survived, but flourished in his heart, whilst all Egypt bowed the knee.</p>
+    <p>It is not within the scope of our plan to enter into details on a narrative which cannot be read too often. But surely never did the pen of history describe in the most accomplished character any thing superior, if equal, to the combination of prudence, delicacy, and disinterestedness, with which Joseph probed the conscience, ascertained the contrition, quieted the fears, and sought the embraces of his brethren. Whilst we contemplate the ecstatcies of such a reconciliation, let us not forget that even at such a moment the religious spirit of Joseph's mind displayed its usual predominance. He closed his affectionate address to his self-reproaching brethren with these remarkable words: <quote type="biblical" xml:id="hta.024.q007" source="kjv">"It was not you that me hither, but God."</quote><bibl corresp="#hta.024.q007" resp="#eds">Genesis 45:8</bibl> In our sorrow and in our joy, let us remember that we are pilgrims and sojourners, that we cannot cast the lot of our own inheritance, and that it must be
+    
+<pb facs="hta.024.009"/>  
+    good for us to be in that state of life to which God has been pleased to call us.</p>
+    <p>The last test of Joseph's conduct, as acceptable with God, on which I purpose to remark, is certainly not the least glorious to hiim&#8212;I mean, his conduct as a son. <quote type="biblical" xml:id="hta.024.q008" source="kjv">"Honour thy father and thy mother, that thy days may be long in the land which the Lord thy God giveth thee."</quote><bibl corresp="#hta.024.q008" resp="#eds">Exodus 20:12</bibl>&#8212;Such was the command given by God through is prophet Moses, to the descendants of Joseph. It is, as the Apostle remarks, the first command with promise, the first to which, if obeyed, a blessing is promised; so consequential is it, that to its performance God added no less a reward than long and tranquil life, abounding with good things. But Joseph anticipated the commandment; the Spirit of God enabled him to be a voluntary observer of the commandment or ever it had been uttered from Mount Sinai. And we must not the faithfulness of God in showering down largely upon him all the rewards inherent on filial affection. As his interview with his brethren, when they first came down to buy corn in Egypt, he ascertained, without their perceiving the drift of his conversation, that his father was alive: that the knowledge of this fact was ever nearest to his heart, is also plain, because, on their second visit, whilst they were humbly bringing presents, he said, <quote type="biblical" xml:id="hta.024.q009" source="kjv">"Is your
+    
+<pb facs="hta.024.010"/>    
+    father well; the old man of whom ye spake? Is he yet alive?"</quote><bibl corresp="#hta.024.q009" resp="#eds">Genesis 43:27</bibl>&#8212;The joy which he felt on being assured of his father's welfare, rendered still more exquisite by the sight of his own brother Benjamin, his mother's son, was so great, that he could only command himself sufficiently to say, <quote type="biblical" xml:id="hta.024.q010" source="kjv">"God be gracious to thee, my son: then sought he where to weep."</quote><bibl corresp="#hta.024.q010" resp="#eds">Genesis 43:29</bibl> After he had made himself known unto his brethren, his thoughts immediately turn to the land of Canaan, and his absent father: <quote type="biblical" xml:id="hta.024.q011" source="kjv">"Haste yet and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not. And ye shall tell my father of all my glory in Egypt, and of all that ye have seen, and ye shall haste and bring down my father hither."</quote><bibl corresp="#hta.024.q011" resp="#eds">Genesis 45:9-13</bibl></p>
+    <p>It was my intention, when I commenced this discourse, to have comprised in it all that it was necessary to remark on the history of Joseph and his brethren. But the subject enlarges as we advance. I must, therefore, reserve till the ensuing Sunday what yet remains; I shall then conclude my expositions on the book of Genesis; and will now, therefore, draw only two inferences, in which I trust all will concur, from the conduct of Joseph, as above briefly set forth.</p>
+
+<pb facs="hta.024.011"/>
+    <p>1. That he will be miserably deceived who expected by pomp, precedence, and parade, to fill that void in his heart, which has been made by the suspension of domestic endearments and the sacrifice of natural affection.</p>
+    <p>2. That power is only desirable, as enabling us to do good unto others, specially to hose who are of the household of faith.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
