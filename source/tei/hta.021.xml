@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.021" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.021</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-07"><name sameAs="#hb"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.021.001"/>
+    
+    <head>LECTURE XVII.</head>
+    <head type="sub"><bibl>GENESIS, XXXVII. PART OF VER 1.</bibl><lb/>
+        <hi rend="italic"></hi>And Jacob dwelt in the land wherin his father was a stranger.</head>
+
+    <p>I concluded my last observations on the conduct and history of Jacob, with mentioning the amicable meeting between him and his brother Esau, not only after a seperation of twenty years which had been caused by the deadly anger and revengeful menaces of the elder against his younger brother. The joy which is felt in heaven over one sinner who repenteth, is most strongly dwelt on in the New Testament. The language of our Saviour was, on all occasions, the language of reconciliation. It was in perfect unison with the mighty purposes of Him who descended upon earth, that he might reconcile man to God. There cannot, therefore, be a stronger evidence adduced of the analogy and connexion subsisting between the Old and New Testament, than the similarity of sentiment pervading them.</p>
+    
+<pb facs="hta.021.002"/>    
+    <p>Moses, who was the temporal saviour of the Jews, gives striking proof of his being the type of Christ on sundry occasions, but on none more strikingly than when he dwells with persuasiave and pathetic minuteness on all the circumstances of fraternal reconciliation. It was a very necessary lesson to the Jews in his day; and had they learnt from it to think somewhat less highly of themselves nationally, had they called to mind that they were orignally seperated from other nations, merely to do the will of God, and not to possess his favour by any right of their own, they might upon such becoming humility have engrafted a teachableness which would have prevented Jerusalem from becoming a heap of stones. For the pride which was their ruin, the Jews had no excuse nor model in the conduct of either Abraham, Isaac, or Jacob, favoured as these patriarchs were by sundry direct communications with God. The humility, forbearance, and conciliatory disposition of Jacob shine forth on every occasion, showing that the moral law of Christ was ever written in the heart of the faithful, and that they wlaked in the promise of a better law.</p>
+    <p>ALthough Jacob had so lately received miraculous proof of God's being about his path, yet he in no degree departed from that soothing and
+    
+<pb facs="hta.021.003"/>    
+    pacific line of conduct on which he had resolved before the vision at Peniel. He took of that which came to his hand, a present for Esau his brother. By the expression of taking <quote type="biblical" xml:id="hta.021.q002" source="kjv">"that which came to his hand,"</quote><bibl corresp="#hta.021.q001" resp="#eds">Genesis 32:13</bibl> we are to understand that he made no reserve for himself of that which might be superior in quality: he did as became a brother. This present was, in fact, a noble one, consisting of <quote type="biblical" xml:id="hta.021.q003" source="kjv">"two hundred she goats and twenty he goats, two hundred ewes and twenty rams, thirty milch camels with their colts, forty kine and ten bulls, twenty she asses and ten foals."</quote><bibl corresp="#hta.021.q003" resp="#eds">Genesis 32:13</bibl> That Jacob, who had passed over the brook <quote type="biblical" xml:id="hta.021.q004" source="kjv">"with his staff only,"</quote><bibl corresp="#hta.021.q004" resp="#eds">Genesis 13:10</bibl> when he fled from Esau's anger, should he be able to set apart so magnificent a present without material prejudice to himself, and already numberous family, is an undeniable evidence that the hand of God had been with him, and converted his servitude under Laban into an ample inheritance. That the present was such as exceeded all expectation, we find from Esau's inquiry; for he said, <quote type="biblical" xml:id="hta.021.q005" source="kjv">"What meanest thou by all this drove which I met?"</quote><bibl corresp="#hta.021.q005" resp="#eds">Genesis 33:8</bibl> Jacob's reply was so simple, so ready, so warm, and so submissive, that it was accounted by his brother as more valuable than all the drove which he had met: <quote type="biblical" xml:id="hta.021.q006" source="kjv">"These are to find grace in the sight of my lord."</quote><bibl corresp="#hta.021.q006" resp="#eds">Genesis 33:8</bibl>&#8212;The expression of finding grace in the sight of Esau was of itself an acknowledgement
+    
+<pb facs="hta.021.004"/>    
+    of his own personal inferiority, and the appellation of lord was conclusive on the matter. He was ready to pay that duty, which, in the patriarchal times, was due from a younger to an elder brother. Here was no assumption of his birthright in the eyes of men, from which we must understand that it related not to any heirship on earth as regarding Isaac's wealth, but referred to the promises of God, and the genealogy of the Messiah. Jacob, in this instance, affords an excellent lesson to those who give way to spiritual pride&#8212;of all pride most incurable, and most irrational; for, if any one giveth himself out to be great in the eyes of the Lord, he cometh directly under that sentence of our Lord Jesus Christ, which says, <quote type="biblical" xml:id="hta.021.q007" source="kjv">"Whosoever receiveth not the kingdom of heaven as a little cild, shall by no means enter therein."</quote><bibl corresp="#hta.021.q007" resp="#eds">Mark 10:15</bibl></p>
+    <p>No doubt the whole meeting between Esau and Jacob was intended as a trial of the latter's humility. He humbled himself, and was, therfore, exalted. Modesty and resignation unlock the closest heart, and liberality is the most certain mode of eliciting a liberal return. Esau said, <quote type="biblical" xml:id="hta.021.q008" source="kjv">"I have enough, my brother; keep hat thou hast unto thyself."</quote><bibl corresp="#hta.021.q008" resp="#eds">Genesis 33:9</bibl>&#8212;The termination of this generous contest is worthy our notice and recollection. A renewed remonstrance on Jacob's part that his present might be received, 
+        
+<pb facs="hta.021.005"/>       
+    was decisive, to the credit of both parties, and the instruction of all who have ears to hear. <quote type="biblical" xml:id="hta.021.q009" source="kjv">"Take, I pray thee, my blessing, that is brought, because God hath dealt graciously with me, and because I have enough."</quote><bibl corresp="#hta.021.q009" resp="#eds">Genesis 33:11</bibl>&#8212;As it now assumed a more solemn character, and became, as it were, an offering of thankfulness to that Providence which had so wonderfully preserved and enriched the one, converted the heart of the other, and brought both face to face, Esau no longer declines setting this seal upon the compact of friendly intercourse and renewed affection; the more so, asa by the latter words he fully understood that Jacob would suffer no inconvenience; for the words, <quote type="biblical" xml:id="hta.021.q010" source="kjv">"I have enough,"</quote><bibl corresp="#hta.021.q010" resp="#eds">Genesis 33:9</bibl> mean, in the original, I have all things, or <hi rend="italic">abundance.</hi> Therefore Esau accepted the present.</p>
+    <p>I have dwelt on the above circumstance, because not only it is a faithful and interesting picture of the human heart and manners more than four thousand years ago, a delineation as much more authentic, as it is more ancient, than any similar narrative of the remotest heathen history, but because it appears to me to carry with it also a typical sense. Moses assuredly intended to signify to the Jews, that as Esau and Jacob were thus united in harmony, <quote type="biblical" xml:id="hta.021.q011" source="kjv">"after the latter had been selected by God,"</quote><bibl corresp="#hta.021.q011" resp="#eds"></bibl> so should there hereafter be a comprehensive union <choice><reg>between</reg><orig>be-
+        
+<pb facs="hta.021.006"/>
+    tween</orig></choice> Jew and Gentile, when all should form one flock under one shepherd. To assure us, that this reconciliation between the brethren was radical and permanent, we read, that when their father Isaac was gathered unto his people, being old and full of days, his sons Esau and Jacob buried him. At such a solemn moment how much must it have lessened the poignancy of their affliction, that whilst they were thus paying the last honours to their earthly father, they were entitling themselves to the protection and favour of an heavenly Father, by living in unity and godly love!</p>
+    <p>When the brothers parted at the brook of Jabook, Esau returned to his former habitation in Mount Seir; Jacob pursued his journey in the direction pointed out by the Lord, namely, to the land of Canaan; he came to Shalem, a city of Shechem, and he pitched a tent <hi rend="italic">before the city.</hi> These words have their peculiar import, and we are bound to remark it. Jacob did not mix, more than absolutely necessary, with the inhabitants of the land. Abraham had pursued the same line of conduct, for he had lived in a tent on the plains of Mamre, when Lot, less cautious, had entered into the cities of the plain. Jacob kept himself apart from the Canaanites, because he bore in mind the promise of God. He felt certain, that their land was to be given
+    
+<pb facs="hta.021.007"/>    
+    to him, or his posterity. Therefore he dwelt as a stranger in the land of Ham. And to mark his conduct as strongly as possible, whilst the other inhabitants were worshipping idols, the gods of Canaan, he bought a piece of ground, where he spread his tent, and where he erected an altar to Jehovah, the God of Israel. This part of Jacob's conduct is worthy the consideration of all, who doing their duty in that state of life in which Providence has placed them, find themselves in conscience bound to stricter forms and higher exercises of religion than are observed by the multitude by whom they are surrounded. Let them obey their conscience, disregarding the comments of those who sit in darkness. To their own master they stand or fall.</p>
+    <p>That Jacob did no more than his duty, in thus keeping himself seperate from the Canaanites, is made clear by the whole tenour of the thrity-fourth chapter. It is not necessary to enter into a detail of Dinah's levity or Shechem's unbridled passion; but lest any inconsiderate sceptic should affect to wonder why such circumstances obtained a place in so sacred and solemn a history (and such malicious observations pass current with some for the result of deep inquiry), it is my duty to furnish you with a comprehensive solution of it. It was the will
+    
+<pb facs="hta.021.008"/>    
+    of God that the children of Israel should be kept distinct from the inhabitants of the country. It is not necessary nor becoming in us to inquire why such was God's will. The preceding chapters, from the first mention of Abraham down to Jacob's finding his wives in the household of Laban, under divine guidance, prove the fact. To impress the importance of this ordinance on the minds of posterity, God made Moses place on record, that his will was not to be changed by any secondary motives, however plausible. 1. Shechem's brutality rendered him a proper object of punishment: to have permitted him, therefore, to have espoused Dinah, would have been commending violence, and rewarding iniquity. 2. As neither Hamor, his father, seems to have reprimanded, nor his fellow-countrymen to have had any intention of punishing such offence, they were quite ripe for the vengeance which befall them. 3. The treachery and bloodthirstiness of Simeon and Levi is not to be judged of by our present ideas of regular justice. There was no power on the side of Israel to bring Shechem or his tribe to punishment. God raises up extraordinary means on extraordinary occasions; and on the occasion in question, it is very observable, that God chose one wicked spirit of man to chastise another wicked spirit.</p>
+    
+<pb facs="hta.021.009"/>
+    <p>We know, that previous to the coming of our Saviour, the demons of hell did occupy an agency on earath which they have now lost. There were doubtless, many occasions on which Lucifer endeavoured to raise his banner against Jehovah, by secret machinations, if not by open force. This probably was one: he had plotted the defeat of God's design, the corruption of Jacob's family, and therefore of Jacob's worhsip, by an intermarriage with the Shechemites, and the consequently unavoidable introduction of idolatry. In furtherance of these designs, the enemy of all good has inspired Shechem with inordinate desires, ending in rape. But God, who is never mocked, abundantly repaid, and taking the ungodly in his own pit, let loose the spirit of murder for a while. Let us remember, therefore, that the history of Israel is the history of a people under God's direct guidance for an especial end (though not always possessing his favour), and that we are not to decide by the light of reason on any particular circumstances. Jacob, his children, Shechem, Hamor, and Joseph, important as we may fancy them, were all creatures in the hand of the Almighty. Shall not the Judge of all the earth do what is right? Can he do wrong? Had it not been consonant to God's mercy and justice, that the Israelites should be kept distinct from all other nations, as preparatory to the coming of the
+    
+<pb facs="hta.021.010"/>    
+    Messiah, God would not have laid such stress upon it, nor so uniformly prescribed those who violated this exclusive ordinance; and if it were so consonant, of what import in the scale is it tha the Shechemites, and not only the Shechemites then, but all the nations of Canaan afterwards, should fall by the edge of the sword, if thereby was opened a highway for the Prince of peace, and the establishment of God's kingdom in heaven? Therefore did Jacob dwell as a stranger in the land wherein his father was a stranger.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.023" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.00x</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-07"><name sameAs="#hb"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.023.001"/>
+    
+    <head>LECTURE XIX.</head>
+    <head type="sub"><bibl>GENESIS, XXXVII. PART OF VER. 13.</bibl><lb/>
+        <hi rend="italic"></hi>And he said unto him, Here am I.</head>
+
+    <p>These were the words, the dutiful words with which Joseph replied to his father Jacob, when the latter had said unto him, <quote type="biblical" xml:id="hta.023.q001" source="kjv">"I will send thee unto them."</quote><bibl corresp="#hta.023.q001" resp="#eds">Genesis 37:13</bibl>&#8212;Unto whom? even unto his hardhearted brethren, who were then feeding their flocks at a distance in Shechem, as Jacob supposed, but who were, in fact, at a greater distance than their father iimagined, even in the land of Dothan. <quote type="biblical" xml:id="hta.023.q002" source="kjv">"Come,"</quote><bibl corresp="#hta.022.q002" resp="#eds">John 9:41</bibl> said Jacob unto his favourite son, in whom he was well pleased, and whom it seems he had kept at home, to be the solace of his age and the support of his feebleness, <quote type="biblical" xml:id="hta.023.q003" source="kjv">"come, and I will send thee unto them. And he said unto him, Here am I."</quote><bibl corresp="#hta.023.q003" resp="#eds">Genesis 37:13</bibl></p>
+    <p>It appears from a previous passage in this chapter, that the enmity which his brethren felt towards him was not unknown unto Joseph nor his father; on the contrary, we must conclude, that on some, perhaps on many former
+    
+<pb facs="hta.023.002"/>    
+    occasions, it had been displayed; for in the second verse it is said, that Joseph had been with Jacob's sons by Bilhah and Zilpah, and had brought his father their evil report, or had communicated to his father their unfriendly disposition towards him, and that they wished him evil. It is necessary to remind ourselves exactly how all parties were affected towards each other, and how far Joseph was aware of his brethren's hatred and his own danger, that we may fully apprecaite the merit of his obedience, and fully understand, what the Jews did not understand by the prophetic words, <quote type="biblical" xml:id="hta.023.q004" source="kjv">"Here am I."</quote><bibl corresp="#hta.023.q004" resp="#eds">Genesis 37:13</bibl></p>
+    <p>A beloved, a virtuous, and, comparatively, a faultless son, says unto his father, about to send him forth among his unworthy brethren, as a sheep among wolves, <quote type="biblical" xml:id="hta.023.q005" source="kjv">"Here am I."</quote><bibl corresp="#hta.023.q005" resp="#eds">Genesis 37:13</bibl> Does not this remind us, my brethren, of a much more important mission? Can we read the ready and resigned answer of Joseph, without bringing to our minds a similar expression which David poureth out in the fulness of inspiration and prophecy? Pslam xl. <sic>part of ver. 9 and 10.</sic> the whole Psalm to which I here direct your attention, is so plainly indicative of the Messiah's character and office, that our church has appointed it for the service of Good Friday. <quote type="biblical" xml:id="hta.023.q006" source="kjv">"Then said I, Lo, I come: in the
+    
+<pb facs="hta.023.003"/>    
+    volume of the book it is written of me, that I should fulfil thy will, O God! I am content to do it."</quote><bibl corresp="#hta.023.q006" resp="#eds">Psalm 40:7</bibl></p>
+    <p>In the character and in the disposal of Joseph, as well as in all the main events of his important life, we are led by this early speech of his, so obedient and so submissive, to contemplate a type and image of our blessed Lord and Saviour; and therefore to feel the propriety with which moses dwells on every the minutest circumstance, to the end that he might open the hearts and understandings of the Jews, to a just conception of a real nature of God's promises, and the mode by which he had willed to work the salvation of them and all mankind. Well might our Saviour say to the unbelievers of his day, <quote type="biblical" xml:id="hta.023.q007" source="kjv">"Search the Scriptures: they bear witness of me."</quote><bibl corresp="#hta.023.q007" resp="#eds">John 5:39</bibl> They do, indeed, bear witness of him! The volume of the Book is full of him. And those who have most attentively perused it, feel among the greatest benefits of such perusal, an unquenchable desire to drink again and again of its living waters, and an assuracne, which never yet deceived them, that so often as they open that volume, they will discover fresh evidence that Christ is the beginning and the end; and that God, at sundry times and in divers manners, in time past, revealed unto the fathers the image and type of that which he
+    
+<pb facs="hta.023.004"/>    
+    afterwards made manifest in the flesh, and of which, in these last days, we enjoy the singular advantage of comparing the promise and performance. We will, therefore, proceed to remark, and chiefly by way of quotation, on those parts of the context, which display in Joseph the character and office of a Redeemer, or the disposition and conduct of those who are to be redeemed. Christ and the Christian are both set before us.</p>
+    <p>Jacob sends Joseph to visit his brethren, feeding their flocks in Shechem. They, it seems, had wandered to a greater distance, evidently without the approbation, because without the knowledge of their father. Who does not even in this apparently unimportant circumstance, see and acknowledge a reproof attaching unto all the sons of men? God looked down from heaven on the children of men; they were all gone out of the way. We do all go out of the way; we all go as far as we can from the voice of reproof and the control of authority, and then we make the distance and remoteness of authority an excuse and a temptation. The children of Israel, had they not strayed from their father, would scarcely have given such latitude to their passions, or have proceeded to the monstrous crime of intended fratricide. It is true that the historian does not
+    
+<pb facs="hta.023.005"/>    
+    bring this as a charge against the brethren of Joseph; but we are bound to read all Scripture as written for our learning; and if we did so, there would be no occasion for one tittle of all the volumes written on morality, which have borrowed their value from Scripture, though many have concealed or denied their obligation.</p>
+    <p>(Ver. 18.) <quote type="biblical" xml:id="hta.023.q008" source="kjv">"And when they saw him afar off, even before he came near unto them, they conspired against him to slay him."</quote><bibl corresp="#hta.023.q008" resp="#eds">Genesis 37:18</bibl>&#8212;What says our Saviour, describing the very thoughts of wicked husbandmen against the son? <quote type="biblical" xml:id="hta.023.q009" source="kjv">"But when they saw the son, they said amongst themselves, This is the heir; come, let us kill him, and seize on his inheritance."</quote><bibl corresp="#hta.023.q009" resp="#eds">Matthew 21:38</bibl> It is scarcely neeful to remark, that by the inheritance of Joseph, we may understand that share of his father's favour, which, on his death, his brethren calculated would be restored to them. In the 26th chapter of St. Matthew, at the 3d verse, this sentiment is again expressed: <quote type="biblical" xml:id="hta.023.q010" source="kjv">"And they consulted together how they might take Jesus and kill him."</quote><bibl corresp="#hta.023.q010" resp="#eds">Matthew 26:4</bibl> In this part of the narrative we cannot overlook the comparative humanity of Reuben; he said to them, <quote type="biblical" xml:id="hta.023.q011" source="kjv">"Shed no blood, but cast him into the pit that is in the wilderness, and lay no hand upon him."</quote><bibl corresp="#hta.023.q011" resp="#eds">Genesis 37:22</bibl> The intention of Reuben is stated to have been, that he might rid out of their hands, and deliver
+    
+<pb facs="hta.023.006"/>    
+        him to his father again. Was not this most singularly prophetic of Pilate's conduct, who had too clear a perception of what was right, to condemn, and too little regard for it, to deliver Jesus? What a lesson for all timeservers, all temporizers with their God and their conscience! Reuben, as his dying father well described him, was unstable as water: he knew the better part, and chose the worse; like Pilate, he would fain have washed his hands of innocent blood; yet he knew the hardness of his brethren's hearts, and seemed to be partaker with them. What says our Saviour of such characters? <quote type="biblical" xml:id="hta.023.q012" source="kjv">If ye know these things, happy are ye if ye do them"</quote><bibl corresp="#hta.023.q012" resp="#eds">John 13:17</bibl>&#8212;<quote type="biblical" xml:id="hta.023.q013" source="kjv">"whatsoever laying his hand on the plough, looketh back, is not fit for the kingdom of heaven."</quote><bibl corresp="#hta.023.q013" resp="#eds">Luke 9:62</bibl></p>   <p>Joseph came unto his brethren, and they stripped him of his coat of many colours. Why should this have been particularized, but as being predictive of a similar circumstance which the Evangelists have thought worthy to record? I mean the plunder and the disposal of our blessed Saviour's raiment. The outward vesture both of Joseph and of Christ were taken from them, previous to their being sacrificed; both were preserved whole, and the former only was dipped in the blood of a kid. Thus was their resemblance and their distinction equally <choice><reg>marked</reg><orig>mark-
+            
+<pb facs="hta.023.007"/>
+    ed</orig></choice>: when the latter became the prey of the Roman soldiers, the blood of kids or goats could no more be offered for sin.</p>
+    <p>We must not pass over the conduct and the counsel of Judah. After they had made Joseph go down alive into the pit, there came by some mercahnts of Arabia, who were going down to Egypt with spicery, and balm, and myrrh, the natural productions of their country. Hereon Judah, as much in the spirit of avarice as of affection, said to his brethren, <quote type="biblical" xml:id="hta.023.q014" source="kjv">"What profit is it if we slay our brother and conceal his blood? Come, let us sell him to the Ishmaelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content."</quote><bibl corresp="#hta.023.q014" resp="#eds">Genesis 37:26-27</bibl>&#8212;Judah was here a most unconscious prophet. To the Messiah, of whom Joseph was a type, was, indeed, to be most particularly applied the expression of our BROTHER AND OUR FLESH as proceeding out of Judah's mouth. He was to be born of a virgin, of the tribe of Judah, in Bethlehem of Judea; to be born, when, of all the original Israelites, none had a resting-place, none had a record of their descent, except the tribe of Judah. In consequence of Judah's suggestion, they drew Joseph out of the pit, and sold him to these Ishmaelites for twenty pieces of silver. It was the children of Judah who bought our blessed Lord from the hands of the
+    
+<pb facs="hta.023.008"/>    
+    son of perdition, for thirty pieces of silver. Joseph was betrayed by his brethren into the hands of strangers, of which the result was the preservation and aggrandizement of all his family. Christ was betrayed and given up by his own countrymen into the hands of the Romans, that he might be put to death, which it was not lawaful for the Jews themselves to do; and what was the result? The remission of sins to all who repent and believe in him, whether Jew or Gentile.</p>
+    <p>In the part of the above narrative which relates to the cruel and unjustifiable sale of Joseph by his brethren, we find his purchasers are sometimes stated to the Ishmaelites and sometimes Midianites. There is nothing necessarily erroneous or unaccountable in this. 1st, Ishmaelite is the more comprehensive term for every descendant of Abraham who was not an Israelite. 2dly, There was a close affinity between the Ishmaelites, properly so called, and the Midianites, because the latter were descended from Midian, the brother of Ishmael, and son of Abraham. Thus did Providence select for the purchasers of Joseph, merchants of that very nation, amongst which, in after-time, Moses himself took refuge, when he fled from Egypt, and where he resided forty years. As this occured only in the second generation, Moses, during so long a residence, could scarcely fail to have met with some
+    
+<pb facs="hta.023.009"/>    
+    surviving evidence among the Midianites themselves, of so singular an event as the sale of a Hebrew lad, who afterwards governed the mighty kingdom of Egypt with unexampled wisdom and prosperity. It is indeed most probable, that the whole book of Genesis was written by Moses, during his sojournment in the land of Midian.</p>
+    <p>Having thus far considered in what degree the character and destiny of Joseph may be regarded as typical and prophetic of the Messiha, we will, in our succeeding Lecture, conclude the subject by considering him as chosen of God to exhibit a beautiful model of those virtues which ought to be the distinguishing mark of every Christian.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
