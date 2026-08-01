@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="hta.002" xmlns="http://www.tei-c.org/ns/1.0"> <!-- replace "hta.00x" with filename -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> <!-- if you are not Jordan Harper, change to your initials and name -->
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">hta.002</idno> <!-- replace "hta.00x" with filename -->
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-08"><name sameAs="#hb"/> transcribed and encoded</change> <!-- replace with correct name and date -->
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="hta.002.001"/>
+    
+    <head>TO<lb/>
+        THE RIGHT HONORABLE</head>
+    <head type="sub">GEORGE HENRY ROSE, M.P.<lb/>
+        <hi rend="italic"></hi>&amp;c. &amp;c.</head>
+    
+    <p>Sir,<lb/>
+    The language of dedication is so frequently that of flattery, and falttery is so contemptible in your eyes, that I prefer the risk of appearing ungrateful, to the chance of being deemed in the smallest degree sycophantic.</p>
+    <p>Therefore I avoid all the usual expressions of praise of thankfulness, and merely state, that during my residence in your family, great and uniform as was your personal kindness, my highest gratification consisted in remarkiing the preference which you gave to the discharge of religious duties above all others, and in
+    
+<pb facs="hta.002.002"/>    
+    witnessing your efforts in teaching the ignorant and converting the sceptical. It was not more delightful to me than beneficial, that I should be permitted to participate with you in such employments; and I shall ever consider the period of my Chaplaincy to the British Embassy at Berlin, as fraught with great improvement to myself in all that regards my office.</p>
+    <p>During the remainder of a life, which must be devoted to unremitting labour, and therefore cannot pass without a large portion of anxiety, I shall never cease to derive comfort from the recollection of my having lived on terms of amity and intimacy with one, who regards as nothing the distinctions of rank, the applause of man, and the favour of princes, when compared with the testimony of his own conscience, in a diligent search into the hid treasures of the Gosepl.</p>
+    <p>Such being the sentiments, Sir, you will not doubt that I duly value your permission of dedicating the following Discourses to you; and that, in so doing, I do <hi rend="italic">not</hi> inscribe them to the Senator, the Privy Counsellor, nor to the
+    
+<pb facs="hta.002.003"/>    
+    Minister, but to the enlightened and strenuous chamption of our Church&#8212;to one who is in truth, and in deed, a Christian.</p>
+    <p>I have the honour to be,<lb/>
+    SIR,<lb/>
+    With the greatest respect,<lb/>
+    Your most obedient,<lb/>
+    And very humble Servant,<lb/>
+    HENRY THOMAS AUSTEN.</p>
+    <p>CHAWTON,<lb/>
+    Dec. 1819.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
