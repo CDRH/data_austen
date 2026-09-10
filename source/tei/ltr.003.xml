@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.003" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.003</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-09"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.003.001"/>
+    
+    
+    <!-- Loiterer #2 begins on the same page as the end page of Loiterer #1-->
+    <p>No. II.&#8212;&#8212;Saturday, Feb. 7, 1789.<lb/>
+        Quippe Domum timet ambiguam, Tyriosque bilingues.<lb/>
+        Virg. Aen.</p>
+    <p>Language has been commonly defined by Grammarians to be the art of expressing out ideas. Nor was the definition a bad one, during those times when our rude ancestors were sufficiently uninformed in the <hi rend="italic">Ars Rhetorica</hi>, to speak always what they really thought. But since we have wisely banished that absurd custom, I should humbly presume that the aforesaid definition might also be altered, and that from henceforth language be entitled the art of concealing our ideas; and I will venture to assert it is used infinitely oftender for the latter purpose than the former, by all ranks and ages, and at all times and in all places. So totally indeed is a regard to veracity excluded from the system of modern ethics, that were it not for diseases, duns, and wives, who sometimes tell one disagreeable truths, one would imagine that truth as well as justice had left this degenerate world at the expiration of the golden age. And that I may not take an unfair advantage, I shall say nothing of the numerous tribes, whose situation authorises and in some measure obliges them to a <lb/>  continual
+        
+<pb facs="ltr.003.002"/>    
+    continual breach of veracity ; (such as foreign ministers, ladies' maids, lawyers, and physicians; to which lift I may also add lvoers and their mistresses, who can claim so many precedents in favour of this practice, that they may be said to lie by prescriptive right) and only consider how little attention we all of us pay to truth in the common intercourse of life.</p>
+    <p>When my friend Jack Saunter enters my room on a fine day, and catches me with my hat in my hand, and one glove on, just ready to enjoy my morning's walk; he would have a strange opinion of my politeness, did I not meet him with a smile, entreat him to sit down, and express myself so wonderfully happy in his company, that one would imagine I thought myself obliged to him for depriving me of my favourite amusement; and my old acquaintance Capt. Prolix would think me a brute, did I not express myself highly delighted with the account of the battle of Bunker's-hill, though he well knows I have not heard it, on the most moderate computation, less than two hundred times&#8212;Nay, even my old paralytic uncle at 90, would take it very ill if I did not seem exceedingly alarmed whenever he coughs, though he knows I am to inherit all his fortune, and that he has plagued our whole family these twenty years upon the strenght of it! Nay, so utter an aversion have we to truth, that, not satisfied with breaking her laws ourselves, we daily instruct and oblige our servants to do the same; and, if we can afford such a piece of luxury, even hire a stout fellow to stand at our door and lie by the year. Nor has poor Truth been much better treated in books than in conversation; since, not to mention Poets, who have always claimed exemption from her rules; even plain scribblers of prose pay so little regard to her laws, that they commonly bid her boldly definance in the very preface, scarce any of these ingenious gentlemen forgetting to assure us, that he was not induced to publish his work by love of fame or money, and had no other object in submitting his performance to the public than a desire of instructing<lb/>
+    and
+    
+<pb facs="ltr.003.002"/>
+    and amending his fellow creatures; and this often too, when the first six pages of his work give the lie to his assertion. But, of all publications, none are perhaps so deficient in an adherence to truth, as those well known compositions which are daily served up with their tea to the inhabitants of this country, and which (perahps for that very reason) are more studied by all orders of men than any other work of genius whatever. I need not after this add, that I allude to those numberous miscellanies which under the titles of Gazetteers, Heralds, Chronicles, and Advertisers, make their appearance to gratify the curiosity, and increase <!--obselete spelling encrease changed to increase --> the knowledge of all those whose circumstances are not too narrow to allow them so innocent and cheap a mode of gaining information; and in many of which, it may fairly be said that there are not four <hi rend="italic">exact truths</hi> in the whole four pages.</p>
+    <p></p>
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
