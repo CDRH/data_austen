@@ -14,6 +14,7 @@ GEM
     Ascii85 (2.0.1)
     afm (0.2.2)
     bigdecimal (3.3.1)
+    byebug (12.0.0)
     colorize (1.1.0)
     hashery (2.1.2)
     mini_portile2 (2.8.9)
@@ -33,7 +34,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  byebug
   datura!
+  pdf-reader
 
 BUNDLED WITH
    2.6.9
