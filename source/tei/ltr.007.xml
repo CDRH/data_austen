@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.007" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.007</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-10"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.007.001"/>
+    <head>No. VI.&#8212;&#8212;Saturday, March 7, 1789.</head>
+    <head type="sub"><hi rend="italic">Digito monstrari et dicier, hic est.</hi></head>
+    <p>Per.</p>
+    <p>No one, unless he has himself been in the same situation, can form a just idea of the feelings of an Author, when first he commits his work to the perusal of the public. How many doubts and fears, how many distressing apprehensions conspire to perplex him!</p>
+    <p>Such at least were my sensations on that morning, in which the Loiterer made its first appearance in this University. I had hitherto regarded the publication with composure, I had even expected it with pleasure; but when the appointed period arrived, the thoughts, that it was now impossible to retract, occasioned me, I must confess, great uneasiness, and made me almost repent of my undertaking. How ever blinded I had before been with the consciousness of my own merit, I now (for the first time) began to consider, that the world might not view it with the same partiality. I reflected on the many indignities to which I had exposed my reputation; already I experienced the horrors of a huckster's shop, and saw myself the embryo lining to a trunk.</p>
+    <p>These melancholy <choice><orig>reflexions</orig><reg>reflections</reg></choice>, however, were soon removed by a more afflicting consideration; which, through the medium of perspective, indeed, had appeared light and trivial; but now affected me with the most serious concern. I began to reflect, that it was not impossible I might be suspected as the author, and in spite of all my precautions become exposed to public notice. If the former ideas had been distressing, these were alarming: and it was in vain that I endeavoured to console myself with the improbability of such a discovery. I devised new schemes, and projected a thousand different plans for concealing myself. But the more I thought, the more tremendous my situation appeared: till at <lb/>
+    <catchwords>length
+    
+<pb facs="ltr.007.002"/>    
+    length</catchwords> I was so terrified with this imaginary evil, that, fearful of betraying my own secret, I shut myself up for three whole days.</p>   
+    <p>Weary however of solitude, at the expiration of this time I ventured to steal into the street; but whether or <choice><orig>no</orig><reg>not</reg></choice> I that day looked more <hi rend="italic">quizical</hi> than usual, I fancied every eye I met was directed to me, and really believed that Author was <choice><orig>writ</orig><reg>written</reg></choice> upon my face. By repeating my walks, however, and carefully avoiding my publisher's door, in a few days I became perfectly easy on the subject of a discovery. But now another difficulty arose: for my apprehensions having subsided, curiosity began to demand its share of satisfaction; and I longed to hear the opinion, which the world entertained of me. The difficulty, indeed, of accomplishing this, at first appeared insurmountable; for though I had been in company two or three times, I had not been able to summon resolution sufficient for starting the subject myself; and no one (to my great mortification, as the Author) seemed. disposed to know any thing of the matter.</p>
+    <p>In a little time, however, my curiosity (which was now arrived at the highest pitch) overcame all my scruples; and I determined on the following method, as the most certain one, of gratifying it.</p>
+    <p>I remembered having read in the Arabian Nights Entertainments (and I dare say most of my readers do the same) that Caliph Haroun Alraschid used frequently to go about in disguiſe, that he might learn what the people thought of his administration. It struck me, that the same artiſice might be employed in discovering the reception, which the Loiterer had met with. As to disguiſe, the ignorance of the world with respect to the Author, rendered such a precaution unnecessary: and thus elated with the prospect of success, I sallied out one morning like another Caliph, not indeed attended by the faithful, trusty Giafar <!-- normally anglicized to Jafar in modern times -->, but accompanied with no inconsideradle share of vanity.</p>
+    <p><catchwords>The
+        
+<pb facs="ltr.007.003"/>
+    The</catchwords></p>
+
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
