@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.008" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.008</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-10"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.008.001"/>
+   <head>No. VII.&#8212;Saturday, March 14, 1789.</head> 
+   <head type="sub">Historic munus est, rerum gestaru  famam posteris tradere, e quarum cognitione quid agendum sit &amp; quid fugiendum ediscatur. Stradae Prolus</head>
+    <p>If  the respective merits of our different studies are to be settled by the pleasure which arises from their pursuit, or the utility which results from their attainment, historic knowledge will justly claim the highest rank amongst our literary acquirements. To review with one glance the various accidents, and mark the latent causes, which have given birth to states, or destroyed empires, to place before us the exploits of the daring, the discoveries of the adventurous, and the systems of the wise, confers the greatest superiority which an enlightened age and a polished nation can enjoy, over an era of darkness and a clan of barbarians. And though history were always what it too often is, only an enumeration of the madness, folly, and crimes of mankind, it is yet some advantage to know what we would wish to avoid; and if mankind make a proper use of this knowledge, they may derive some benefit even from the crimes, and some wisdom from the follies of their ancestors. But history has surely something better to offer, has other claims upon our attention, other motives to excite our industry, and other sweets to reward our labours.</p>
+    <p>It relates indeed the vices of tyrants, the meanness of their flatterers, and the miseries of their people; but it relates also the virtues of their deſsroyers, the public spirit of a party struggling for liberty, and the happiness of a nation which enjoys it. And if the unhardened sensibility of youth, and the unpolluted bosom of innocence, will turn in disgust from the short-lived frenzies of a Caligula or a Claudius, they will dwell with repeated rapture on the glorious annals of a Trajan or an Antonine.&#8212;Since history can boast examples at once so powerfu; <lb/>
+    <catchwords>to
+    
+<pb facs="ltr.008.002"/>    
+    to</catchwords> deter from vicious extravagance, and incite to virtuous undertakings, no wonder it has been ever the favourite study of the wise and great: that it has stimulated the one to new discoveries, and the other to difficult atchievements. How much the world stands indebted to the former, the world is ready enough to own; and (however partial instances among the latter may contradict my assertion, and derange my system) I think the best and wisest of our modern princes have owed much of their merit to their historic information, and from pursuing the actions of the wise have become wise themselves. It cannot indeed be denied that an unfortunate choice of examples, or an imperfect imitation of them, has occasioned much misconduct in princes, and many evils to their unhappy subjects. But this is a misfortune arising from the vanity and perverseness of human nature, both in the historian and the reader; in the former from having drawn his heroes in colours that will not bear a close examination, and in the latter for admiring them without any examination at all. Thus an heroic frenzy seems to have <choice><orig>decended</orig><reg>descended</reg></choice> (in a kind of entail) from Achilles to Alexander, from Alexander to Lewis the fourteenth, and from Lewis to the late <sic>Kind</sic> of Prussia; each of whom was particularly careful to imitate the other, in the very worst parts of his character; and consequently, became in regular gradation, more eminent for ambition and cruelty, and more conspicuous for the lust of fame, and the desire of power.</p>
+    <p>But however the zealous imitation of great characters may have done partial mischief, by exciting fresh desires in the breasts of the turbulent, and stimulating the ambitious to new conquests; it has, on the other hand, been of general benefit to mankind, in awakening a laudable spirit of emulation among their governors, for the encouragement of every useful and every liberal art, which can add lustre <!-- luster but in common British spelling --> to the dignity of the state, and give a higher relish to the social intercourse of individuals.&#82128;It would not,<lb/>
+    <catchwords>perhaps,
+    
+<pb facs="ltr.008.003"/>    
+    perhaps,</catchwords></p>
+
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
