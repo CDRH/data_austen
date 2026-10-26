@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.009" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.009</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-10"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.009.001"/>
+    <head>No. VIII.&#8212;Saturday, March 21, 1789.</head>
+    <head type="sub">Perlege quodcunque est&#8212;Quid epistola lecta nocebit? Te quoque, in hac aliquid quod juvat, esse patest. <lb/>
+    OVID.</head>
+    
+    <p>To the LOITERER.<lb/>
+    Sir,</p>
+    <p>As I understand that your design is, by a weekly distribution of wit and advice, to amuse and instruct the University, of which I was once a member; and as I have already perceived that you have resolution enough to expose the vices and follies, which have sprung up in a soil so friendly to each, I hope that you will not despite the communications of one,<lb/>
+    <catchwords>who
+    
+<pb facs="ltr.009.002"/>    
+    who</catchwords> in the former part of his life has been a considerable sufferer from both.</p>
+    <p>I was the only child of honest, though not wealthy parents, who discovering in me early symptoms of very extraordinary abilities (a discovery which parents frequently make) could not prevail upon themselves to deprive the literary world of so promising a genius; and therefore, instead of breeding me up to assiſt my father in the shop, they were determined to make a scholar of me. To this end, at the age of nine I was sent to the free-school of the town in which we resided, where, in the nine succeeding years, I <choice><orig>compleated</orig><reg>completed</reg></choice> my classical education; that is, I could construe Latin pretty well with an <hi rend="italic">Orde verborum</hi>, and generally knew Greek when I saw it. At this juncture I had the good fortune of being recommended by the master of our school to the head of ——— College, in Oxford, and soon after had the inexpressible pleasure of being elected to u scholarship worth at least 15l. <hi rend="italic">per annum</hi></p>
+    <p>Language is not adequate to express the joy, which spread itself through my family at the news of such an unlooked-for acquisition of fortune; and I need not say, that both my father and mother thought it an indispensible duty, to accompany their common hope to the theatre of science, that they might see me take possession of my estate, and make my first entrance on the world. Generous friends! I blush to think how much good advice, and good furniture ye enriched me with, and how little I regarded either. The pleaſing surprise which a new place, and new acquaintance always occasion in the mind of a young man, equally disposed to please, and to be pleased, had not altogether subsided, and I had scarcely convinced myself that it was not all enchantment, when on looking about me I concluded, from several reasons, that I was the happiest man alive. In the first place I was totally my own master, and might do what | pleased; that is, I might do nothing at all. Secondly, I was convinced that I <lb/>
+    <catchwords>had
+    
+<pb facs="ltr.009.003"/>    
+    had</catchwords> money enough to last for ever. And thirdly, I had already made several friends, who were willing to lay down their lives to oblige me. This latter opinion, indeed, I had very reasonably drawn from seeing with what ardour they proposed to me, and with what eagerness they joined in every species of pleasure, merely to amuse me. To be sure, it often came to my lot to be general pay-master, but this might be the effect rather of their thoughtlessness, than any intention to defraud, or an inability to <choice><orig>disburse</orig><reg>disperse</reg></choice>; and flushed, as I then was, with the enjoyment of present, and the schemes of future pleasure, I thought (if I thought at all) that the continuance of such friends was cheaply purchasod by defraying some of their extravagancies.</p>
+    <p>To convince you, Mr. Loiterer, that my daily employments left not much time for study or reflection, I shall, without sending you a journal, briefly inform you, that the morning was dissipated in doing nothing, and the evening in doing what was worse; the first part wasted in idleness, the latter drowned in intemperance. As it would be tedious to relate in what various scenes I played the fool and the rake, or to describe the many different expedients which I adopted to lessen my knowledge, my fortune, and my health; suffice it to say, that in about six years I had so far succeeded as to have very little left of any; and when took my degree, I was as ignorant as emaciated, and as much in debt as the first peer of the realm. I had lost every thing which I ought to have preserved; I had acquired nothing but habits of <choice><orig>expence</orig><reg>expense</reg></choice>, which long outlived the means of gratifying them, and a relish for indolence at a time when I had my bread to earn.</p>
+    <p>The first thing which roused me from this dream of pleasure, was the gradual departure of my college acquaintance, and the melancholy change which I saw take place in the fate of those whom common pleaſures, and common extravagancies, had made in some degree dear to me. The orators of the <catchwords><choice><reg>coffeehouse</reg><orig>coffee<lb/>
+    house,
+        
+<pb facs="ltr.009.004"/>
+    house,</orig></choice></catchwords> the jockies of Port-meadow, and the champions of the High-street, were alike forced to relinquish the sphere of their glory, and sinking into country curates, grew old on fifty pounds a year. Such is the melancholy, but certain change, which vicious extravagance may depend upon experiencing. Such are the comforts in store for their latter years! Age has ever its peculiar infirmities, but the weaknesses of declining life impart double anguish, when attended by the recollection of past pleasures, which our eagerness to enjoy cut short in the enjoyment; and whilst we see what we might, and what we ought to have been, we feel too late what we are.</p>
+    <p>I now gradually recovered from my mental intoxication, in exact proportion as the companions of it decreased; and I acquired a knowledge of my real sĩtuation, by the time that I remained the last solitary member of our once gay, and numerous party.</p>
+    <p>To render my distress more afflicting, I at this time lost a most indulgent father, to whom I had looked up for present support, and who, though he died, as I then thought, much too soon, had lived long enough to see his hopes and designs, for my future fortune and reputation, defeated by my own imprudence. But till the very last, he had been too liberal in supporting the <choice><orig>expences</orig><reg>expenses</reg></choice> of a son, whose conduct he had long since condemned; and though it required a much larger income than his had ever been, to satisfy my wishes, yet I am too well assured, that he often deprived himself of innocent pleasures, and reasonable gratifications, to supply the drain of a son's prodigality. Notwithstanding that he had been many years in trade, and had pursued his business with uninterrupted application, yet the smallmess of his original capital, and some subsequent and inevitable losses, left it in his power to die only not insolvent. My mother spent the few remaining months of a widowhood, which grief and sickness soon cut short, in a most <choice><orig>oeconomical</orig><reg>economical</reg></choice> retirement; and when she died, I found my real property to be <lb/>
+    <catchwords>rather
+    
+<pb facs="ltr.009.005"/>    
+    rather</catchwords> </p>
+
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
