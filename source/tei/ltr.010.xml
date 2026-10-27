@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.010" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.010</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-10"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.010.001"/>
+    <head>No. IX.&#8212;Saturdday, March 28, 1789.</head>
+    <head type="sub">Non venit ante suum nostra querela diem. <lb/>
+    OVID.</head>
+    <p>The following letter was brought us the last week, while we were deliberating on a proper subject for the Loiterer; and as it is the first favour of the kind we have ever received from the fair sex (I mean in our capacity of authors), we take the earliest opportunity of laying it before our readers, and hope the fair writer of it will consider our present eagerness to comply with her commands as some expiation for our past neglect, and will no longer condemn our paper as a pedantic performance, or set its authors down for old bachelors.</p>
+    <p><hi rend="italic">To the</hi> Author <hi rend="italic">of the</hi> Loiterer.</p>
+    <p>Sir,<lb/>
+    I write this to inform you that you are very much out of my good graces, and that, if you do not mend your manners, I shall soon drop your acquaintance. You must know, Sir, I am <sic>agreat</sic> <!-- I do not believe this to mean altogether in the archaic sense, hence sic -->reader, and, not to mention some hundred volumes of novels and plays, have, in the two last summers, actually got through all the entertaining papers of our most celebrated periodical writers, from the Tatler and Spectator to the Microcosm and the Olla Podrida. Indeed I love a periodical work beyond any thing, especially those in which one meets with a great many stories and where the papers are not too long. I <lb/>
+    <catchwords>assure
+    
+<pb facs="ltr.010.002"/>    
+    assure</catchwords> you my heart beat with joy when I heard of your publication, which I immediately sent for, and have taken in ever since.</p>
+    <p>I am sorry, however, to say it, but really, Sir, I think it the stupidest work of the kind I ever saw: not but that some of the papers are well written; but then your subjects are so badly chosen, that they never interest one. Only conceive, in eight papers, not one sentimental story about love and honour, and all that.&#8212;Not one Eastern Tale full of Bashas and Hermits, Pyramids and Mosques—no, not even an allegory or dream have yet made their appearance in the Loiterer. Why, my dear Sir—what do you think we care about the way in which Oxford men spend <sic>there</sic> time and money—we who have enough to do to spend our own. For my part, I never, but once, was at Oxford in my life, and I am sure I never wish to go there again&#8212;They dragged me through so many dismal chapels, dusty libraries, and greasy halls, that it gave me the vapours for two days afterwards. As for your last paper, indeed the story was good enough, but there was no love, and no lady in it, at least no young lady; and I wonder how you could be guilty of such an omission, especially when it could have been so easily avoided. Instead of retiring to Yorkshire, he might have fled into France, and there, you know, you might have made him fall in love with a French <hi rend="italic">Paysanne</hi>, who might have turned out to be some great person. Or you might have let him set fire to a convent, and carry off a nun, whom he might afterwards have converted, or any thing of that kind, just to have created a little bustle, aud made the story more interesting.</p>
+    <p>In short, you have never yet dedicated any one number to the amusement of our sex, and have taken no more notice of us, than if you thought, like the Turks, we had no fouls. From all which I do conclude, that you are neither more nor less than some old fellow of a college, who never saw any thing of the world beyond the limits of the university, and never conversed with a female, except <lb/>
+    <catchwords>your
+    
+<pb facs="ltr.010.003"/>    
+    your</catchwords> bed-maker and laundress. I therefore give you this advice, which you will follow as you value our favour, or your own reputation—Let us hear no more of your Oxford Journals, your Homelys and Cockney; but send them about their business, and get a new set of correspondents, from among the young of both sexes, but particularly ours; and let us see some nice affecing stories, relating the misfortunes of two lovers, who died suddenly, just as they were going to church. Let the lover be killed in a duel, or lost at sea, or you may make him shoot himself, just as you please; and as for his mistress, she will of course go mad; or if you will, you may kill the lady, and let the lover run mad; only remember, whatever you do, that your hero and heroine must possess a great deal of feeling, and have very pretty names. If you think fit to comply with this my injunction, you may expect to hear from me again, and perhaps I may even give you a little assistance;&#8212;but if not&#8212;may your work be condemned to the pastry-cook's shop, and you may always continue a bachelor, and be plagued with a maiden sister to keep house for you.</p>
+    <p>Your's, as you behave, <lb/>
+    SOPHIA SENTIMENT.</p>
+    <p>As we well know how much the success of a periodical work, and the reputation of its authors, depend on the opinion of the fair; it gives us no small uneasiness to be informed, that we have involuntarily offended any of our fair country-women; whose smiles, whatever my correspondent may think of us, we are not yet old enough, either as authors or men, to be indifferent to. Our alarm, however, on this account is not lessened by the consciousness that we may perhaps appear to have deserved it.</p>
+    <p>To have written eight papers indeed, without formally dedicating any one to their service, is a very serious accusation; and, if literally true, and fully proved against us, would be sufficient at once to ruin our production in the opinion of the world. <lb/>
+    <catchwords>We,
+    
+<pb facs="ltr.010.004"/>    
+    We,</catchwords> however, trust to the candour of our fair readers, and hope they will acknowledge, that if one or two of our numbers have, from the nature and place of this publication, been on subjects unintereſting or unintelligible to them, yet in general our labours have been directed as much to the amusement of their sex as ours; and that if the Loiterer has not been eminently conspicuous for wit and humour, he has at least been free from the female sententious gravity of the adviser, or the solemn <choice><orig>dulness</orig><reg>dullness</reg></choice> of the pedant. We flatter ourselves also, that our protestations will meet with their belief, when we assure them, that we have hitherto been deterred from addressing ourselves more particularly to them, and devoting our labours to their amusement, by reflecting on their own incapacity to fulfil an attempt, where to succeed would be difficult, and to fail dishonourable.—Situated indeed as we are, at this place, by various causes cut off from the <choice><orig>agremens</orig><reg>charms</reg></choice> of female society, alike removed from the enlivening mirth of public festivity, and the endearing charms of domestic comfort, it cannot be easy to find subjects worthy the attention of our fair friends. What however can be done, we shall be most happy to do; and whenever any subject occurs (either from our correspondents or ourselves) which shall appear proper to engage their notice, we shall gladly seize the opportunity of adding to their amusement, and <choice><orig>encreasing</orig><reg>encreasing</reg></choice> our own popularity.</p>
+    <p>To do this exactly in the way which my correspondent points out, we do not pledge ourselves, and (though it is always with diffidence we contradict a lady) must doubt whether the generality of our female readers would be much amused with Novels, Eastern Tales, and Dreams. The first-mentioned species of production, has of late years <choice><orig>encreased</orig><reg>increased</reg></choice> so much, as to render the necessity, or even the propriety of adding to the number rather doubtful, and which might perhaps be conſiderably lessened without any great diminution of our knowledge, wit, or taste. Eaſtern Tales indeed have had their <lb/>
+    <catchwords>admirers;
+    
+<pb facs="ltr.010.005"/>    
+    admirers;</catchwords> and our illustrious ancestor, the Adventurer, has often employed them as vehicles of instruction, and endeavoured to make the ladies of Britain wise and good from the lessons of some venerable Dervise, whose, greatest recommendations are a white beard, and a long name. The thought seems to have been a good one, for his fair readers soon found the precepts of an illiterate Turk or Persian excessively edifying, and were vastly attentive to the lectures of these turban'd teachers—nay, though sometimes taken in for a great deal more advice than they liked—even forgave the moral for the sake of the story, and could tolerate its heroes being virtuous, provided he was not a Christian. But this invitation, though at the time successful], was in a great measure indebted for its success to its novelty, and must therefore cease to please, because it has ceased to be new. For the fine ladies of the present age are much too wise to be entrapt into virtue by such underhand means, and I should fear would turn in disgust from an Eastern tale, when they know that a Dervise and a Mosque mean, in plain English, a Parson and a Church, too things that have been so long and so justly voted <hi rend="italic">bores</hi>, that one circumstance only can make the company of the former, or an entrance into the latter, desirable. Still less are we inclined to imitate some of our predecessors, and dream for the entertainment of our friends, having often observed sleeping to be infectious, and consequently extremely liable to be transferred from the author to the reader. After this it may possibly be asked, with what subjects we do intend to treat those of our fair friends, whom curiosity, or desire of amusement, may incline to read our work? To give a particular answer to this question is not in our power. In a work of this kind, the matter must of course vary with the complexion of the times, and the temper of the writers. But in general it may be said, that in the papers more particularly devoted to their service, we shall carefully select such subjects as may captivate the <catchwords><choice><reg>imagination,</reg><orig>imagina<lb/>
+    tion,
+        
+<pb facs="ltr.010.006"/>
+    tion,</orig></choice></catchwords> without offending the judgment, and interest the feelings, without misleading the heart.</p>
+    <p>S.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
