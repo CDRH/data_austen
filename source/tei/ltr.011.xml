@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.011" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.011</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-10"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.011.001"/>
+    <head>No. X.&#8212;Saturday, April 4, 1789.</head>
+    <head type="sub">Tros, Tyriusve mibi nullo discrimine agetur.<lb/>
+    VIRG.</head>
+    <p>Few difficulties have more perplexed the learned to account for, than the striking difference which every one must have observed, between the national character of the French and English. That two nations, descended from ancestors whose manners were not very dissimilar, living under the same climate, and separated by one of the narrowest seas that ever divided two rival powers, who were once partially governed by the same sovereigns, and who have at preſent a continual intercourse with each other, should still remain so totally unlike in manners and opinions, in their modes of thinking, and their modes of acting, is a parodox, which all must wonder at, but none can solve.</p>
+    <p>Many ingenious men, indeed, have endeavoured to trace these effects back to their causes, and various reasons have been brought, real or imaginary, to account for this extraordinary fact.</p>
+    <p>Both physical and moral causes have been assigned for this purpose. Some have imagined difference of atmosphere, and others difference of political government, capable of producing these effects; nor are there wanting those who affirm, that the long, and almost continual wars carried on between the two nations, from the invasion of the Norman Conqueror to the present day, have had some share in fixing the opinions of the French and English at such very distant points; and have at least widened <lb/>
+    <catchwords>the
+    
+<pb facs="ltr.011.002"/>    
+    the</catchwords> breach, by inflaming the prejudices of each party. Might the authors of this essay hazard a conjecture, they would give it as their opinion, that though all these causes may have separately some effect, and united a considerable influence, yet all their force would be insufficient for the purpose, unless there had been a constitutional difference implanted in them by nature, or at least acquired from tine immemorial, and transmitted in regular succession from father to son; and this opinion will appear more probable, when we recollect, that the difference alluded to does not <choice><orig>shew</orig><reg>show</reg></choice> itself in political opinions only, or is confined to a small circle, but extends itself to the minutest articles of private life, and pervades the whole nation.</p>
+    <p>It is true, indeed, that education and refinement have done much among the higher ranks towards abating their mutual animosity, by softening the pride of the one, and checking the vanity of the other; for which reason, the difference is less easily distinguished among them, than their inferiors. An acute observer may, however, discover continual traces even here, which, like a flame smothered, rather than extinguished, will for ever blaze out on either side whenever any new quarrel, either political or personal, shall have supplied it with fresh fuel. But amongst the middling and lower orders, which comprehends three-fourths of both nations, it rages to this moment with as much violence as ever; and two Indian chieftains, whose ancestors have for ages past alternately feasted on each other's blood, scarce hate more cordially and more mutually, than an English countryman and a French peasant: both of whom are greatly averse to allowing their adversary one virtue, and exceedingly ingenious in the accusations they bring against each other, in order to justify their mutual dislike. Thus a Frenchman entertains an opinion, that an Englishman is a rough, ferocious, and uncivilized animal, just one degree above an <choice><orig>Ouran Outang</orig><reg>orangutan</reg></choice>, and is most deplorably ignorant of the <hi rend="italic">agréments</hi> of society, as he can neither fiddle, <lb/>
+    <catchwords>dance,
+    
+<pb facs="ltr.011.003"/>    
+    dance,</catchwords> or laugh, and consequently, <hi rend="italic">qui ne vaut rien auprés des Dames</hi>. While on the other side, a British subject will tell you, the <choice><orig>Monseers</orig><reg>Monsieurs</reg></choice> are all poor, half-starved, lousy devils; that they wear wooden shoes, and ruffles without shirts; and that they have nothing to eat but soup meagre <!-- come back to -->, and <sic>fricasseed</sic> frogs ; of the truth of which heavy accusation he is in his own mind fully convinced, and to which he adds the charge of weakness and <sic>effeminacy</sic>; it being, he avers, a well-known fact, that
+        
+        , one Engliſhman can at any time lick three French. </p>
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
