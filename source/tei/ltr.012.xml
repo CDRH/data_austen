@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.012" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.012</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-11"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.012.001"/>
+    <head>No. XI.&#8212;Saturday, April 11, 1789</head>
+    <head type="sub">Principubus placuisse viris, non ultima laus est.<lb/>
+    Hor.</head>
+    <p>The English nation have been long celebrated among foreigners for their remarkable eagerness in the <choice><orig>chace</orig><reg>chase</reg></choice>, and the extraordinary pitch of perfection to which they have brought that amusement. Nor is this pre-eminence, however meritorious, in the least wonderful; since the whole arcana of sporting are now so completely laid open, in the <lb/>
+    <catchwords>poetry
+    
+<pb facs="ltr.012.002"/>    
+    poetry</catchwords> of Somerville, and the prose of Beckford, that our country squires no longer wander about in the errors of uncertain practice, but can make their <hi rend="italic">casts</hi> with regular exactness, and kill their foxes in the most systematic manner.—But there is a species of hunting, which, though little known out of the precincts of the university, is yet very much practiſed in it; and which, if it yields in point of health and exercise to fox, and even to hare-hunting, has in some respects the advantage over both; as it is in season all the year round, is interrupted neither by the frosts of December, nor the winds of March and far from being an expensive amusement, is frequently found to be extremely profitable to its pursuers.—I doubt not but the greater part of my readers are by this time convinced that I allude to the diversion of tuft-hunting; which has been so long and so successfully practised in this place, that I am rather surprised never to have met with any treatise on the subject, laying down a competent number of rules to direct and assist the young and unexperienced, in attaining a proper proficiency in this art.—But as this species of hunting seems to have escaped the observation of the above-mentioned authors, I have for some time projected a long and elaborate work on this subject; at once so copious and so close, so replete with general remarks, enforced by particular examples, that my readers must be very inattentive or very dull, if they are not in a little tiem as clever as myself.&#8212;But as the above book, from the nature of its subject, must take up a great deal of time, I have been induced, in the interim, to draw up the following short, but excellent rules, suited to the comprehension of all readers, and applicable to the demands of every emergency; and which, I flatter myself, will be as useful and as much read as Ten Minutes Advice to Horsemen, or Bob Short's Rules for Whist.&#8212;Reserving, therefore, a fuller investigation of the subject to the work alluded to, I shall here content myself with making a few general remarks, on the nature of the game <lb/>
+    <catchwords>pursued,
+    
+<pb facs="ltr.012.003"/>    
+    pursued,</catchwords> the likeliest places for finding it, and the best method of pursuing it when found.—And it is here proper to be remembered, that, though there are some points in which the hunting I speak of resembles both fox and hare-hunting; yet, in others, it is totally unlike either. To exemplify in a very principal point. An early hour is recommended by Mr. Beckford, and allowed by all fox-hunters, to be most favourable to their amusement: and yet I have been assured by very experienced hunters of tufts, that they never threw off earlier than twelve, and had often very great sport at a much later hour. With regard to the likeliest places to find in, much depends on the time of the year, and the time of day; but in general it may be observed, that Livery-stables and Billiard-rooms in the forenoon, and Port-meadow and the High-street of an evening, are usually esteemed the likeliest places (or, in the language of sportsmen, the best lodging) for game of this kind; and if you draw all those places well, I will venture to insure you from having many <hi rend="italic">blank days</hi>. If, however, the above-mentioned places should fail, it may be sometimes necessary, as a dernier resource, to try their own rooms; but it has been observed that those tufts, who take much to laying in such places, are of a cowardly nature, and seldom <choice><orig>shew</orig><reg>show</reg></choice> good sport.</p>
+    <p>The method of hunting them comes next to be considered; which requires indeed as much activity and caution, as large a quantity of resolution and perseverance, as any fox <choice><orig>chace</orig><reg>chase</reg></choice> whatever. You are not only to press them hard at first, and keep as close as possible to them afterwards, but must also be careful never to head or turn them back; for though a tuft be a very simple animal, he is at times a very obstinate one too, and any endeavour to make him go the way he does not <choice><orig>chuse</orig><reg>choose</reg></choice> to go, might be fatal to your sport; it being well known that a tuſt (when once suffered to get away from you) is scarcely ever recovered again.—Before I conclude these loose hints, I must also mention a circumstance, which it <lb/>
+    <catchwords>will
+        
+<pb facs="ltr.012.004"/>        
+    will</catchwords> perhaps require all the credit I have with my readers to make them believe, and which I assure them is nevertheless literally true. Every one has, doubtless, been informed, that the beaver {when closely pressed by the hunters, and when all escape seems impossible) has been known to leave behind him that part of his body for which he knows he is pursued; and thus, by sacrificing a little, save the rest. The creature I have been describing imitates him in this very point. For it is not only a fact, that they are often obliged to make very valuable <hi rend="italic">deposits</hi> for the benefit of their pursuers; particularly when driven into taverns and coffee-houses, from whence there would be otherwise no escape; but I am informed that (<hi rend="italic">mirabile dictu</hi>) commissions in the army, and even presentations to livings, have been dropped from tufts when properly hunted, and which have never failed to free them at once from any further persecutions.—That such may be the good fortune of all my readers, who are fond of this amusement, is my most earnest wish; that it is not the luck of every one, the following letter will prove, with which I shall conclude this number.</p>
+    <p></p>
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
