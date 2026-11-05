@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.013" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.013</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-11"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.013.010"/>
+    <head>No. XII.&#8212;Saturday, April 18, 1789.</head>
+    <head type="sub">Adnant thynni, et cetaria CRESCUNT. <lb/>
+    Hor.</head>
+    <p>As I have received, during the publication of my work, several letters, none of which, seperately, is sufficient to constitute a paper, I shall take this opportunity of introducing some of them to the world, and at the same time of procuring for myself a week's vaction.</p>
+    <p><hi rend="italic"><catchwords>To
+    
+<pb facs="ltr.013.002"/>    
+    To</catchwords> the</hi> LOITERER.<lb/>
+    Sir, <choice><abbr type="editorial">L—</abbr></choice><choice><abbr type="editorial">—<hi rend="italic">shire</hi></abbr></choice></p>
+    <p>YOU have doubtless received a learned education, and at present lead an academical life; yet I hope you will not refuse the complaints of a man, though he cannot lay any pretension to the advantages either of the one or the other.</p>
+    <p>My father was an industrious woollen-draper in this town, and as he had no child but myself, brought me up to the same business; in due time admitted me into partnership, and at his decease left me sole heir to his custom and effects. By a constant application and diligence, for the space of thirty years, I have the pleasing prospect of being able, at my death, to place my children (which are six in number) above want. My eldest son has just obtained a a scholarship at Oxford; Charles is now in the sixth year of his apprenticeship at home; and little Tommy is preparing himself for the law, at a neighbourng grammar-school.— My daughters are three discreet girls, very good-natured, and not without some pretensions to beauty. We have all the greatest love for each other, and the utmost harmony subsists among us. This, Sir, was the situation of myself and family, till a company of strolling players obtained leave to exhibit in this place.—As I had ever been an indulgent father, I could not refuse my children the pleasure of going to the play; but would I had rather sent them to a Methodist meeting! For do you know, Sir, they have been downright mad ever since. Their whole conversation turns upon nothing else but acting. In spite of my injunctions, they attend almost every performance and, not contented with hearing, are continually spouting some of their nonsensical confounded stuff: crowns, daggers, chains, pistols, and every thing of that kind are scattered up and down the rooms; and, in short, my house, which was lately the most regular, best dispoſed house in town, is turned <catchwords><choice><reg>topsy-turvy.</reg><orig>topsy-<lb/>
+    turvy.
+        
+<pb facs="ltr.013.003"/>
+    turvy.</orig></choice></catchwords> On my entering into the parlour the other morning, my three daughters came up to me with brooms in their hands, and thrice exclaiming, "All hail, Macbeth!" brushed by me out of the door, and scratched my face all over with their besoms.—Nay, it was but yesterday that Charles, instead of assisting me in raising a bale of goods which he had himself thrown down in one of his mad rants, told me in a very serious manner, he "thought it would have mounted," and concluded with talking something about "the great globe inheriting a base vision."</p>
+    <p>Nor am I, Sir, the only person who suffer from this abominable theatre. Nothing but idleness prevails throughout the town. There has been one instance of a woman who pawned her prayer book for a gallery ticket, and it was but last week, that my neighbour Felt's daughter run off with the hero of the company. This, Sir, is the circumstance which affects me most; for I expect every day to hear a similar account of one of my girls: though they tell me to be under no such apprehensions, <hi rend="italic">for the dear Romeo is gone, and they shall take up with no Mercutio.</hi> What they mean, Heaven knows! I hope, however, we shall soon get rid of this nest of thieves; and, in the mean time, be so kind, Mr. Loiterer, as to insert this letter in your work, that it may be a warning to other towns not to admit a company of strolling players; and by so doing you will confer a kindneſs on them, and favour on <lb/>
+    Your's,<lb/>
+    ABRAHAM STEADY.</p>
+    <p><hi rend="italic">To the</hi> LOITERER.</p>
+    <p>Sir,<lb/>
+    I shall not trouble with you with any account of my birth, parentage, or education; suffice it to say, Ihave long been, and still continue to be a member of this university; and thus, without any further <catchwords><choice><reg>preface</reg><orig>pre<lb/>
+    face
+            
+<pb facs="ltr.013.004"/>
+    face</orig></choice></catchwords> I shall beg leave to offer some few thoughts on a subject, which I do not recollect to have before seen represented in the same manner.</p>
+    <p>Books are my chief study and amusement; but though I pride myself on possessing one of the oldest and most unintelligible editions of the classics, I by no means subscribe to the opinions of those, who think that the antiquity of a work makes it on that account more valuable; and though I entertain a great veneration for ancient literature, I must acknowledge, that I am much more partial to modern publications.</p>
+    <p>But amongst all these, none, as I think, deserve to be put in competition with those daily productions of the press, the public newspapers: and if the merit of a work can be argued from the universal avidity with which it is perused, my opinion, I trust, will not be found singular. Nor is it difficult to assign a reason for the extraordinary success of these newspapers, as they not only gratify the natural curiosity of the human mind, with a continual succession of fresh intelligence, but contain a variety of topics adapted to every capacity, from the peer to the porter.—There are horse-races for my lord, scandal for my lady, politics for tradesmen, advertisements for farmers, and murders for servants.</p>
+    <p>The Athenians, we are told, used to go round the city in the morning, inquiring the news of the day; which circumstance, I think, may almost lead us to conclude, that the use of newspapers was entirely unknown to them; otherwise they would never have taken the trouble to walk about for intelligence, when they could have procured it in so convenient a manner at home. They were all politicians, because they had all a voice in public debates; we are all politicians, because the necessary information is so easily acquired; and while an Athenian was obliged to collect his news, and regulate public affairs by traversing the streets, an Englishman, with as much satisfaction to himself, deposes ministers, and plans <lb/>
+    <catchwords>the
+    
+<pb facs="ltr.013.005"/>    
+    the</catchwords> conquest of empires, without ever stirring from his fire-side.</p>
+    <p></p>
+
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
