@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.015" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.015</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-11"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.015.001"/>
+    <head>No. XIV.&#8212;Saturday, May 2, 1789.</head>
+    <head type="sub">&#8212;&#8212;Dissipat Evius.<lb/>
+    Curas edaces.&#8212;&#8212;Hor.</head>
+    <p><hi rend="italic">To the</hi> Author <hi rend="italic">of the</hi> LOITERER.</p>
+    <p>Sir,<lb/>
+    THOUGH I know not in what degree of estimation, you have been accustomed to hold the science of <choice><orig>Alchymy</orig><reg>alchemy</reg></choice>, yet as the author of every useful invention has claim on the attention of the candid and liberal, I have made choice of your paper, as the vehicle, to imapart to my countrymen a discovery, which has for its object the health and happiness of some thousands of his majesty's subjects.</p>
+    <p>You must know, Sir, it was ever my opinion that there did exist such an universal panacea, as should not only cure all diseases incident to the human body, and prolong life to its utmost period, but should be equally beneficial to our mental, as to our corporeal powers; should make us not only healthy, strong, and bold, but also learned, sagacious, and witty. In pursuance of this idea, I have devoted many years to the discovery of this able secret; have persevered in my search, spite of the contempt of the prejudiced, and the laughter of the gay; and now think the attention of my past life well rewarded, in being enabled to impart to my friends a secret, which will promote the happiness of theirs, and which (unlike the generality of modern projectors) I shall generously communicate to the public, without any subscription whatever.</p>
+    <p>Know then, Sir, and tell your readers, that this inestimable medicine, so long sought in vain, that its existence is almost become doubtful, is neither more nor less than <hi rend="italic">port wine</hi>—which, I will venture to say, if taken in "proper quantities, will <catchwords><choice><reg>answer</reg><orig>an<lb/>
+    swer
+        
+<pb facs="ltr.015.002"/>
+    swer</orig></choice></catchwords> every purpose of an universal medicine, and be found a most perfect restorative in all diseases both of body and mind—In proof of which assertion, I might bring numberless examples from among the young, and some from among the old, in this place; who, from a proper regard to their health, daily take a large dose of this mixture, which doubtless they would not give themselves the trouble of doing, did they not find it extremely beneficial and salutary.&#8212;But in this case I rather <choice><orig>chuse</orig><reg>choose</reg></choice> to plead my own manner of life than theirs. An argument which ought to have the more weight, as I am, I believe, the first advertiser who ever swallowed his own medicine. My regular allowance, for I am regularity itself, is something more than a quart, which, according as I find my constitution require, I occaſionally increase to three pints, and now and then to double that quantity, but never, on any account, diminisn; being entirely of opinion, that most of our complaints arise from poverty of blood, and having been all my life under apprehension of putrid disorders, to which, I am told, that my constitution is naturally inclined.&#8212;By the above-mentioned regimen, however, I have happily escaped them; and excepting a slight touch of the gout; in spring and autumn, and a few nervous tremblings (which I impute to having formerly drank too many diluting liquors) I enjoy at this moment a most perfect and uninterrupted state of health. Nor am I less indebted to this valuable elixir for improving the qualities of my mind, than preserving the powers of my body, having by long experience observed, that my courage, generosity, and wit, always rise in exact proportion to the number of glasses I have drank. Indeed I have reaſon to believe I am not naturally conspicuous for any of the above qualifications; and in the morning am very careful how I expose either my person or property, to any unnecessary danger; and have heard it predicted by my most intimate friends (who are indeed always too <catchwords>much
+    
+<pb facs="ltr.015.003"/>    
+    much</catchwords> inclined to flatter one) that I shall never be taken up for a plot. But in the evening the case is exactly reversed; for my courage and generosity have often induced me to fight those with whom I had no quarrel, and give money to others for whom I had no regard; and the brilliancy of my wit is so redundant, that it seldom fails to get me turned out of the room.—But it is not in the hour of festivity, or amidst the social circle alone, that I am obliged to the assistance of this invigorating fluid; for I always find it wonderfuily efficacious in raising my spirits, and restoring my good temper, whenever the carelessness is of my laundress, the aukwardness of my bedmaker, the blunders of the cook, or any other important misfortune has ruſfled the natural sweetness of my disposition. And I do hereby heartily recommend a very large dose of this medicine to those unfortunate young men, who, from the frowns of fortune, or of any other fickle fair one, have fallen into the deplorable state, which our politer neighbours dignify with the name <hi rend="italic">ennui</hi>, but which plain Englishmen call the <hi rend="italic">blue devils</hi>; and I will take upon me to allure them, that they will find, in this Lethean draught, as complete an opiate to all their cares and sorrows, as in the torturing powder of arsenic, or the benumbing juice of the laurel. And in the prosecution of this plan two particular advantages will arise—first, that the medicine itself is by far the most pleasant and palatable of the two—and secondly, that if it should happen to fail, they would still have it in their power to try the others. For this however I must flatter myself, they would find no occasion, and am sanguine enough to imagine, that a proper use of this liquor would conſiderably lessen the bills of mortality; that our fassionable young men, would be thus enabled to bear up against all the various misfortunes which occur in this troublesome world; would rise superior to the losses of a Newmarket meeting, or an ill-run at <choice><abbr type="editorial">B—ks's</abbr></choice> and would preserve their good temper <catchwords>and
+        
+<pb facs="ltr.015.004"/>        
+    and</catchwords> spirits, amidst the harsh blasts of the east, or the damps of an autumnal fog.</p>
+
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
