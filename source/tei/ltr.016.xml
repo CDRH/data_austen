@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.016" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.016</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-11"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.016.001"/>
+    <head>No. XV.&#8212;Saturday, May 9, 1789.</head>
+    <head type="sub">At Oxford bred in Anna's reign. Wharton. <lb/>
+    Mr. Loiterer,</head>
+    <p>THOUGH you are, I presume, at present neither an old man nor a father, yet as you must in time be the one, and may be the other, I take the liberty of troubling you with the complaints of a man, who, to his misfortune, is both. And if, in the following account of OT family, I should be a <lb/>
+    little<catchwords>
+         
+<pb facs="ltr.016.002"/>        
+    little</catchwords>tedious, remember that age has its privilege, and make allowances accordingly.</p>
+    <p>I was made a member of the university of Oxford in the beginning of the century, where I resided nearly thirty years, and thought myself happy in being presented, at the end of that term, to a college living of something less value than £200 per annum.</p>
+    <p>I soon after married the daughter of a respectable gentleman farmer, who, notwithstanding she was a little hasty, and loved to have her own way, made me in the main an excellent wife.—By her I had one son, whom the vanity of his father, would fain have made a scholar of—but heaven ordained it otherwise. Poor Jack—his head was not formed for logical or philological studies—so after having <choice><orig>teazed</orig><reg>teased</reg></choice> him and myself to no purpose, for three years, and finding we made small advancement, I e'en <!-- even --> gave up the point locked up his cordery, flung the remains of his grammar into the fire, and sent him to be brought up by a capital grazier, who was a first cousin of my wife's. In this line he succeeded admirably—his attention was unremitted, and his progress proportionate—he soon became an accurate judge of the value of land, and a critical connoisseur in the shape of cattle. &#8212;His advice was desired by the young, and his judgment approved by the old.—In short, though he never read Virgil's Georgics, or Columella, or indeed anything else, he made a capital farmer; and though no scholar, was a happy man.—He would probably have been a rich one too, had he not been suddenly taken off in the flower of his age.—Poor fellow!&#8212;I remember it as well as if it was but yesterday—He was just returned from Weyhill fair, in very low spirits at having sold only the second best hundred of lambs, instead of the first, as he expected.—Misfortunes never come alone.&#8212;He heard, on his return home, of the death of two yearling colts, and that his favourite bull was then actually in pound for having committed depradations on his neighbour's property.&#8212;Such complicated misfortunes quite <catchwords><choice><reg>overwhelmed</reg><orig>over<lb/>
+    whelmed
+        
+<pb facs="ltr.016.003"/>
+    whelmed</orig></choice></catchwords>him--it was too much to bear--he therefore retired to his bed-room; and with the spirit of a Roman, opened, not his veins, but a large bottle of brandy, of which he drank the larger half, and was soon after seized with a most violent frenzy fever.&#8212;In justice to his memory, I must say, that he made use of the only lucid interval he had, to recommend to the care of his wife some invalid sheep, and to desire the pigs might be put up to fat, at leaſt a month before Christmas.—He was proceeding to give some directions concerning the cows, but his voice failed him—a few minutes after he made another effort—muttered something about winter-vetches, and expired. I forgot to say, that he had some time since married the daughter of a neighbour of his own rank, by whom he leſt one son. As he could not be supposed to be in very opulent circumstances, I determined to take my daughter-in-law and grandson, to my own house, as soon as matters at the farm could be settled.—The lady however defeated my good intentions by marrying her late husband's bailiff, within two months after his death, prudently considering that, from his knowledge of the farm, he must be the properest perſon to carry on the business. I therefore contented myself with taking the boy—and as I had nothing else to do, took upon me the care of his education. Notwithstanding my former bad luck, I once more attempted to make a scholar; and this time my endeavours were crowned with success.—I do not like to boast, but I believe, Mr. Loiterer, few young men of sixteen were better fitted for the university than my boy—and to the university I was determined to send him; not having the least doubt but his abilities and character would not fail to recommend him to the notice of his superiors, and insure him the possession of a scholarship in a respectable society, for which I intended he should stand candidate—little did I think—but I will proceed regularly set off on a fine morning in the month of July, and reached Oxford at nine in the evening. After an absence of nearly forty years, <lb/>
+    <catchwords>you,
+    
+<pb facs="ltr.016.004"/>    
+        you,</catchwords> Mr. Loiterer, can better imagine than I can describe, the sensations I experienced at the first sight of a place, in which I had spent so many years of my life, certainly not without pleasure, and I think not without profit.—Every object around me awakened in my mind the tender and melancholy recollection of past scenes, amusements, and occupations, of pleasures which can never return, and of friends who have long since been no more. I know not whether it was from this principle, but certain it is, I did not view the boasted improvements of Oxford with the admiration they perhaps deserved, and many alterations since my time, rather gave me regret than pleasure. Improved the place certainly is, for impartial criticisms must allow, that streets clean, well lighted, and well paved, are more pleasing objects, as well as more commodious, than when dark and dirty—<choice><orig>choaked</orig><reg>choked</reg></choice> up with butcher's shambles, and obstructed by heavy buildings. Yet I passed, not without a sigh, by the place where Friar Bacon's study once stood, and was hardly reconciled to the loss of Carfax, by the beautiful and uninterrupted perspective of the high street. But if the alterations in the city rather produced melancholy, than pleasure, the change in the appearance of its inhabitants, was by no means more agreeable. I could not help thinking the young men, whom I saw parading up and down the high-street, would have been better employed in their respective colleges, than in rambling about the town, at so late an hour; for it was nearly half after nine. I could not help observing also that their dress was much altered since my time; and indeed so far were they from confining themselves to the <hi rend="italic">fuscus</hi>, or <hi rend="italic">subfuscus</hi>, which the statutes require, that it was the only colour, which they seemed not to wear. I was too much fatigued however to make further observation that night, and therefore retired immediately to rest. The next morning, after breakfast, we set forward in order to visit the head of the college, and implore his vote, and assistance against the day of election.</p>
+    <p><catchwords>On
+    
+<pb facs="ltr.016.005"/>    
+    On</catchwords> my arrival at the college, I saw no inconsiderable number of young men standing, or rather leaning, against the gate-way; who seemed to eye us with a good deal of curiosity; they were very finely, and I suppoſe very fashionably dressed, but I could not help observing that not one of them had a band on, that most of them wore <choice><orig>ribands</orig><reg>ribbons</reg></choice> in their shoes, and one or two of them were even in boots.&#8212;I fancy we furnished them with a little amusement, for the moment after we had passed, they gave vent to their mirth in terms, which were not indeed all of them intelligible to me, yet sufficiently so, to inform me they were not much pleased with our appearance—though I assure you, I had on my very best wig, properly floured for the occasion, and my boy was dressed in an handsome pea-green coat, nankeen waistcoat, corderoy breeches, and cotton stockings&#8212;I beg pardon for being tedious I just mentioned these particulars to <choice><orig>shew</orig><reg>show</reg></choice> you we were not proper objects of ridicule. As my own name was remembered, and the lad was really, <hi rend="italic">ingenui vultus puer ingenuique pudoris</hi>, my canvass was successful, and I had the pleasure of seeing him put on his scholars gown three days after my arrival. I therefore took leave of him, after having desired him never to ride on horseback, never to drink wine, never to play at billiards, never to go upon the water, and never to be out of college after nine o*clock at night.—As he promised me obedience, and I hate to be shabby, I gave him three guineas and left him to himself.&#8212; For some time after my return to my living, I found my hours hung heavy on my hands, but I always comforted myself with reflecting, that my grandson was employing his time much more profitably than if he had been at home.—This however did not last long, for every letter I received contained a demand for money. I did not, you may be sure, much like this, but there was no help for it; I therefore sent him the money he asked for, and a great deal of advice into the bargain. Hitherto his demands had been for trifling sums, but judge <lb/>
+    <catchwords>of
+    
+ <pb facs="ltr.016.006"/>   
+    of</catchwords> my surpriſe at receiving a letter from him informing me he had drawn on me for £20, and hoped I would honour his draft. I made no answer to it, but set out the next day for Oxford (although in the middle of winter) determined to see from what source this demand for money took its rise.—I arrived at the college very late in the evening, and went immediately to his room.—The outer door was open, and I knocked at the inner one; but after some time hearing nobody answer, I took the liberty of going in, and examining his apartments, and a very curious exhibition it was.—Of the furniture, which though not new or elegant, was neat and strong, there remained only a looking glass and <choice><orig>sopha</orig><reg>sofa</reg></choice>, two tables and five chairs, two of which wanted a leg, and one a back. On one of the tables were a couple, not a pair, of decanters, three or four dirty glasses, tea-cups, a sugar-canister without a lock, and a parcel of tea <choice><orig>wrapt</orig><reg>wrapped</reg></choice> up in a bit of greasy paper.</p>
+    <p>On the <choice><orig>sopha</orig><reg>sofa</reg></choice>, the cover of which had once been white, lay a pair of shoes, an ink stand, a flute, a couple of foils, and about half a dozen books, which, on taking them up, I found to be Beckford on hunting—Somerville—Bartlett's farriery—Hoyle&#8212;a book to take themes and verses from, and Secundas Baſia.—I had scarce finished this curious inventory, when the master of the room arrived; but such a figure, that had I not heard his voice in the quadrangle, I should with difficulty have recognised him.—He was dressed in a scarlet coat, well covered at top with powder, and at bottom with dirt; his fine auburn hair was tucked up in a plait, and concealed under a jockey cap&#8212;the rest of his dress was in the same <choice><orig>stile</orig><reg>style</reg></choice>— He seemed a little surprised at seeing me, but soon recovered himself, and told me he had been hunting with the Wards hounds, and bad afterwards dined with a snug party of friends at the Bear at Woodstock, where he believed they had drank rather more than did them good—he might have spared this piece of information&#8212;as I <lb/>
+    <catchwords>had
+    
+<pb facs="ltr.016.007"/>    
+        had</catchwords> seen at his entrance that he was not in a condition to be reasoned with; and fortunately recollecting that excellent saying. Never to talk to a drunken man, I forbore saying any thing to him that night, and only recommended to his consideration whether bed was not the best place for him.—The next day I paid him another visit, and after reading him a long lecture on the impropriety of his conduct, desired to know the amount of his debts.&#8212;Judge of my astnoishment when I found he has spent in one half year upwards of fifty pounds. From him I could get no other account of the matter than that he did what other young men did—I could not believe him, and determined to inquire as much as possible into his conduct. I went to his tutor, who, though too much my junior for me to remember even his name, I was informed bore an excellent character.—He received me politely, and in answer to my inquiries, told me that my grandson's conduct was in general far from being reprehensible, and that he believed him in the main to be a well-disposed young man. I mentioned his extravagance—he demanded how much—when I told him, not without indignation— he cooly answered, that it was rather less than he expected. Mr.<choice><abbr type="editorial">——</abbr></choice>, said he, you seem surprised—I know not what it was in your time, but you should make some allowance for the difference of nearly half a century in the manners of young men.—I do not. mean to defend any particular instance of extravagance your grandson may have been guilty of, but shall only say in general, that a young man cannot with economy spend much less than an hundred a year, and if it does not suit you to allow him that, I will be free to say, you had better remove him at once.—As I had been informed he was a sensible man, I could not doubt the truth of what he said—I therefore with a heavy heart withdrew, and after paying his debts with a very ill-grace, resigned his scholarship, which I found I could not afford to keep, and took him home with me, determined to breed him up an honest and <catchwords><choice><reg>ignorant</reg><orig>ig<lb/>
+    norant
+            
+<pb facs="ltr.016.008"/>
+    norant</orig></choice></catchwords> farmer, as his father was before him.&#8212;And now, Mr. Loiterer, I have only to beg your pardon, for having taken up so much of your time by so uninteresting a story, but I had no other way of making my misfortune known, and I confess it hangs too heavy on my mind to be concealed.—For myself or the boy, the loss perhaps is small—he will be a richer and a happier man in his present situation, than if starving on a country curacy of forty pounds a year; but to the world in general I muſt think the present heavy expence of an Oxford education a very great and a very serious grievance, since it deprives men of moderate fortune of the power of giving their children a learned education, and renders the pious liberality of our muniſicent ancestors of none effect through our foolishness. <lb/>
+    I am, Sir, your's, &#38;c.<lb/>
+    CRYSOSTOM.</p>
+    <p>C.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
