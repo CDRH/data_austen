@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.017" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.017</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-11"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.017.001"/>
+    <head>No. XVI.&#8212;Saturday, May 16, 1789.</head>
+    <head type="sub">Quandoque bonus dormitat homerus. Hor.</head>
+    <p>THE conductor of a periodical paper <choice><orig>hath</orig><reg>has</reg></choice> been frequently, and not unaptly compared to the driver of a stage coach. Like him he is obliged to be ready at an appointed hour, and is in some measure equally obliged to conform to the humour of the public; as it will answer but little purpose for the one to drive an empty coach, or the other to publish a paper, which no body reads. They are both in their turns solicited, and sometimes bribed to entrust their respective reins to the presumption of many an unskillful youth, who burns with an ardent desire to flourish his whip, or his pen; but it behoves the drivers in both cases to keep a watchful eye over their pupils, least, by too easy a compliance, they <lb/>
+    should<catchwords>
+        
+<pb facs="ltr.017.002"/>        
+    should</catchwords> suffer their vehicles to stick fast in a rut, to be plunged deep in the mire, or to be finally overturned and exposed to the derision of the multitude. The bribery of the Loiterer has hitherto been flattery alone; and it gives him concern to find, that a resolution, which he appeared to adopt in a former paper, but which he has since found impossible to keep, should have been likely to lessen the number of his readers, and much more to deprive him of one, who seems willing to become an occasional correspondent. To <choice><orig>shew</orig><reg>show</reg></choice> this gentleman, therefore, in whose name there is something of conceit, that the Loiterer is inclined to distinguish him from the common herd of Philos, who are in general very silly and empty fellows, ready to snatch the whip without being able to give it the proper smack, he will for once trust the reins into his hands, and permit him to turn the corner, which he trusts he will do with a becoming grace, notwithitanding he withholds the usual bribe.</p>
+    <p><hi rend="italic">To the</hi> Loiterer.</p>
+    <p>Sir,<lb/>
+    BEING a constant reader of your paper from its 1
+        
+        firſt appearance, I claim the privilege of giving you.
+        
+        my ſentiments concerning it; and to be plain with you, I ſhall even confeſs that I had fome thoughts of aſpiring to the honour of aſſiſting you now and then to carry it on. wut as I had come to this reſo-
+        
+        | lution, and given myſelf the rouſing ſhake, and had
+        
+        1 5 ſtate, during which I have had many dreams, both
+        
+        got my pen fairly dipped in the ink- horn, your ninth. number was delivered to me, in which with, inexpPreſſible ſorrow and confuſion, I found, that you had
+        
+        | taken a reſolution not to dream for the entertainment
+        
+        of your readers; to the generality of whom perhaps your reaſons may be good and fatisfactory z but to
+        
+        i they were- peculiarly diſtreſſing and unfortunate z
+        
+        | for you mult know, Sir, that the greateſt part of | my life hath been hitherto ſpent in a kind of ſleep</p>
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
