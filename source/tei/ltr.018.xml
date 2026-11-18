@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.018" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.018</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-11"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.018.001"/>
+    <head>No. XVII>&#8212;Saturday, May 23, 1789.</head>
+    <head type="sub">Aetas parentum pejor avis tulit <lb/>
+    Nos nequiores.&#8212;&#8212;Hor.</head>
+    <p>THE shameful degeneracy of modern times, and the visible superiority of preceding ones, in point of almost every moral excellence, has been in all ages, and still continues to be a favourite topic for declamation. To consider and (if I am able) to refute the truth of so mortifying an imputation, is the design of my present paper; and though I should prove unsuccessful, yet any attempt to vindicate the honour of the present age, must surely be entitled to its pardon, if not its approbation.</p>
+    <p><catchwords>There
+    
+<pb facs="ltr.018.002"/>    
+    There</catchwords>certainly is no one, who can be so prejudiced in favour of antiquity, as to wish that mankind were still buried in their first ignorance and barbarity. Every breast must naturally revolt from such an idea since we are indebted to refinement not only for all the pleasures, but most of the comforts of life. By this we have lessened the horrors of war, and improved the arts of peace; from this we derive all the endearing ties of society; and to this ultimately we may trace the benefits of civil jurisdiction. That refinement however may, be carried to too great an excess, and degenerate into folly and effeminacy, I do not <choice><orig>pretent</orig><reg>pretend</reg></choice> to deny; but that such is already the case, I cannot possibly allow; and hope that my readers, after the perusal of the following pages, will be of the same opinion.</p>
+    <p>And for the more easily accomplishing my design, I shall separately consider every article of which we are accused: the first of which is the almost universal depravity of modern times with respect to the extensive and shameful influence of gold. There was a time, say these <hi rend="italic">fautores veterum</hi>, when merit alone was regarded as deserving of reward; when genius alone obtained respect; and the first offices were filled only by those, whose virtues and abilities entitled them to such exalted situations: but riches are now equally the path to public honours; and whoever is able to gratify the avarice of the mercenary crowd, is by them preferred (though without character, or even necessary qualifications) to the claims of superior, though often unprotected genius.</p>
+    <p>It must be confessed: that this accusation appears so just, that to deny the truth of it might argue a mind prejudiced against conviction: that it is however a discredit to us, will admit of some doubt; and, I trust, we shall find, on a clearer consideration, that so far from having degenerated from our ancestors in this particular, we must, on the caterers be allowed to have improved on them.</p>
+    <p><catchwords>That
+    
+<pb facs="ltr.018.003"/>    
+    That</catchwords>men of genius, and merit, alone should maintain the exclusive possession of all high posts and powers, is a system which apparently carries with it a great deal of propriety, and in the theory seems to be founded on equity and reason; when, however, reduced to practice will be found very inconsistent with both. For that all the honours of the world should be partially confined to so small a portion of its inhabitants, is an act of injustice, which no superiority of talents can warrant. Surely, therefore, it must be matter of triumph to <hi rend="italic">us</hi>, that we have caused a more equal distribution of them, and opened a way to preferment for those whom the trifling deficiency of abilities and merit alone have hitherto excluded from the participation of those rights, which were undoubtedly designed by nature as common to all. To add any thing more on this head would be superfluous, I shall therefore proceed to the second charge, which is laid against us, namely, the luxury and extravagance of the age.</p>
+    <p>And here, though I again acknowledge that the assertion is true, I must at the same time aver, that our expences can by no means be objected to us as disgraceful, or unreasonable for ſurely to circulate riches not only implies a proper contempt for them, but displays also a benevolent and generous dispoſition: besides, if a person is deficient in every qualiſication, which characterises a great, or a good man, is it not natural that he should endeavour to purchase, by an elegant <choice><orig>profesion</orig><reg>profession</reg></choice> of wealth, that honour and respect which he can no other way procure? and is it not equally reasonable he should obtain it. It is true, we frequently hear of whole fortunes expended in one single entertainment, estates lavished on an equipage, and even several acres of good land converted into a pair of buckles; but then we see few instances of that absurd extravagance, which our ancestors displayed in founding hospitals, endowing Colleges, rebuilding churches, and other wanton expences of the same nature; so that if we are in some <lb/>
+    <catchwords>respects
+    
+<pb facs="ltr.018.004"/>   
+    respects</catchwords> more profuse than they were, in others we are much more <choice><orig>oeconomical</orig><reg>economical</reg></choice>.</p>
+    <p>Nor are the consequences of this extravagance so fatal or important, as some would wish us to imagine. For to so high a pitch of improvement are we now arrived, so fortunate are we in our resources, and so happy in our dispositions, that ruin has no more effect on us, and causes no more alteration in our manner of living, than if nothing at all had happened. Thus we continually see those, whom we know to have run through every shilling, whirling round in the same circle of dissipation and extravagance, as when they were the lords of thousands, and rushing into new expences with as much spirit and profuseness, as if they had any means to support them.—To be sure all are not so successful in this particular as we could wish: but few can be said to outlive their pleasures; for by the time they have dissipated their fortunes, they generally contrive to ruin their health; and thus by ingeniously making both ends meet, close their and their real existence at the same period. If, however, both these means should fail; if they find it inconvenient to live splendidly upon nothing, and that their constitution is too stubborn for their persevering attempts to destroy it so soon as they expected, a pistol presents itself as the sureſt remedy; and thus by a happy <choice><orig>manoeuvre</orig><reg>maneuver</reg></choice> they go out of the world in as fashionable a manner, and with as much <hi rend="italic">eclat</hi>, as they have lived in it.</p>
+    <p>The present neglect of social and moral duties is the third article of which we are accused. To surmount difficulties, which may impede the human mind in its career of glory, or confine it within limits too narrow for its exalted nature, has even been considered as an object of the utmost importance and for this purpose the subjection of the passions has been strongly recommended in the precepts of the moralist, and enforced by the example of the philosopher. Nor can the necessity of this conquest be in the least doubted of by any one, who has the most superficial acquaintance with any history whatever; <lb/>
+    <catchwords>for
+    
+<pb facs="ltr.018.005"/>        
+    for</catchwords> how many examples will he there find of heroes, statesmen, and kings, who have failed of success in the wisest and most noble designs through the destructive impulses of avarice, lust, or ambition. It is not however my intention to infer from this, that the present age can boast any great dominion over their passions&#8212;very different, I believe, is the case: but though we are in this point no better than preceding generations; yet we may be proud of having removed some obstacles, which clogged the wheels of pleasure, and rendered its course ſrequently unpleasant and imperfect. I allude to the conquest of our feelings, which, instead of being branded with the ignominious title of a neglect of social and moral duties, should doubtless be considered as the most important, and glorious improvement this age has produced. For how many young men, after setting out with the most promising expectations of success, have been restrained in the career of dissipation by the admonitions of a parent, the advice of a friend, the complaints of a family, or the reproaches of conscience. To render ineffectual, therefore, impediments so hostile to true pleasure, to triumph over the ties of friendship, consanguinity and honour, is certainly noble; and to be so far superior to all narrow feelings as deliberately to betray our friend, and interestedly to barter the happiness of our children, doubtless demands universal applause and admiration.</p>
+    <p>There is another accusation laid to our charge, to which, though I cannot say it is of any very material consequences, I shall give some attention. We are so degenerated, is the common exclamation of these <sic>malecontents</sic> <!-- malcontents, not found to be an archaic spelling -->, in personal strength and stature. Poets indeed have ever indulged this fancy, and have claimed a privilege of lessening the persons of mankind in a most extraordinary degree: nay, if we were inclined to credit the assertions of the Greek of Roman poet in this particular, and form a calculation by the surprising accounts which they relate of the great diminution of mankind; what prodigious strength must the Antediluvians have enjoyed; and if we allow <lb/>
+    <catchwords>them
+    
+<pb facs="ltr.018.006"/>    
+    them</catchwords> a due proportion of person, what jolly, gigantic fellows must. they have been! Stonehenge would be scarcely mile-stones to the patriarchs of Homer, or even brick-bats to those of Virgil.—Such accounts however must be considered merely as poetical fictions—whether in general mankind are inferior in size to their ancestors, or not, I cannot pretend to determine; that they are not in every faculty of the body, I can positively affirm—for if we cannot produce any one, who is able to wield a stone as far as Ajax did, we can boast of a cotemporary, who will make but a single meal of it; and though the young men of this century may be a foot shorter than those of two centuries ago, they make up for this deficiency by the rapid progress with which they acquire every other perfection. They have now, thank Heaven! got rid of that bashfulness, that embarrassing diffidence, which used to trouble the young gentlemen of former times; and, in short, are as much men at eighteen as their grandsires were at eight-and thirty.</p>
+    <p>Having thus stated, and I hope satisfactorily answered the objections of the misanthrope, I shall beg leave to point out one excellence, in which we have doubtless an amazing superiority, and which I never heard denied but by one person, and it should be observed, that he was a disappointed lover. I mean the unrivalled beauty of our fair sex.—Let the ancients boast of their Helens and Cleopatras; let our poets celebrate their Delias and their Chloes; but they can give us but an imperfect idea of the bright assemblage of charms, which appear in every part of the kingdom&#8212;age and deformity, those bugbears to our great aunts, and grand mothers, have been justly banished the land; and it is as uncommon to meet a woman who is not conspicuous for some beauty, as a man, who does not admire it. If nature has denied a fine complexion, art immediately supplies the defect: and can the treasures of the mineral and vegetable world be employed in a better manner, than in adorning the ſairest part of the human creation? I know that some look on this deception in a more serious light: <lb/>
+    <catchwords>but
+    
+<pb facs="ltr.018.007"/>    
+    but</catchwords>they should remember it is a deception designed to please; and every attempt to please is surely pleasing in itself—nay, though it should be attributed to malice; it is a malice which, I believe, all will allow pardonable, especially when they reflect, that without the malicious designs of a pretty face, how dull and insupportable life would be!</p>
+    <p>On the whole, therefore, if refinement, in addition to the other advantages we derive from it, has opened a new path to honours for those, whom the injustice of our ancestors excluded from them; if it has taught us to live elegantly, while our fortune lasts, and fashionably, when it is gone; if it has removed every bar to happiness; if it has matured the manhood of our beaux, and improved the beauty of our belles; we certainly cannot without injustice he termed degenerate: and though we may be induced to pardon in persons of an advanced state of life a fond partiality for an old-fashioned coat, or a <hi rend="italic">toast</hi> of their youth; yet we must justly bestow our contempt on those who are continually railing at the degeneracy, of the times, and profess a sentiment so illiberal in itself, and so degrading to the honour of mankind.</p>
+    <p>R.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
