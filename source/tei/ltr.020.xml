@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.020" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.020</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-11"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.020.001"/>
+    <head>No. XIX.&#8212;Saturday, June, 6, 1789.</head>
+    <head type="sub">Speciosa vocabula rerum. Hor.</head>
+    <p>AMONGST the many difficulties which foreigners experience in attaining any tolerable proficiency in tbe English language, nothing causes them so much trouble and embarrassment as the diversity of senses in which the very same words are variously used, according to the sex or age, the rank or situation of the speaker.—They complain that the fertility of our invention, and the severity of their labour are never at an end, that we not only continually coin new words, but affix to different a meaning to many of our old ones, that they are for ever led into the grossest errors-respecting the person or things we are describing.</p>
+    <p>Nor will this accusation be, found altogether groundless. For as we have more originality of genius, and lie less under the restraint of forms fashions, than our neighbours on the continent; and <lb/>
+    <catchwords>as
+    
+<pb facs="ltr.020.002"/>    
+    as</catchwords> freedom of speech, as well as freedom of action, are the birth-right of an Englishman, no wonder if we sometimes claim the right of selecting our own words, as well as regulating our own conduct, and think ourselves entitled to speak not only <hi rend="italic">what</hi> but <hi rend="italic">how</hi> we please.—Certain it is, that the various orders into which this kingdom is divided, seem to possess a very different vocabulary, and that many of those words which are most current in ordinary conversation, undergo a wonderful change, and are to be understood in a manner totally different, as they are used by the grave or the gay, the pursuers of pleasure, or the amassers of wealth. To exemplify—the words <hi rend="italic">good</hi> and <hi rend="italic">great</hi>, are understood by many as epithets applicable to those only, who have rendered themselves eminent for their virtue or their learning. Yet a citizen of London, who has long been taught to look on the art of acquiring riches as the only proof of parts, and their possession the only reward of excellence, naturally confers his respect and esteem on his acquaintance in exact proportion to the idea he has entertained of their circumstances. He therefore tells you that his neighbour Peter Pinch, the Pawn Broker, is a good man, because he knows him to be worth ten thousand pounds more than himself; but be reserves the epithet <hi rend="italic">great</hi> for his friend Simon Soapsuds, whose word would go upon change for three score thousand pounds any day in the week.—And let not the gay world pride themselves o several men of it, who have been more indebted for their reputation to the risibility of their muscles, than the brilliancy of their imagination, and have been told there are many young men of <hi rend="italic">spirit</hi> to be found, at the other end of the town, who have never performed one single action which could entitle them to that character, except making a riot at the playhouse, and throwing a few modest women into fits.&#8212;Nor are our fair friends in the least behind us in this art of perverting our language; they are on the contrary (probably from a greater habit of talking) <lb/>
+    <catchwords>rather
+    
+<pb facs="ltr.020.003"/>    
+    rather</catchwords> better proficients than ourselves.—Should a beautiful and accomplished girl, in the bloom of eighteen, make over her person for life, to a battered rake of family and fortune, with no good quality on earth to recommend him, and old enough to be her father; her female friends would not hesitate to pronounce her <hi rend="italic">well-married</hi>. And should the same young woman think proper to refuse such an advantageous offer, and afterwards throw herself into the arms of some deserving young fellow of small fortune, to whom she had been long attached; the same impartial judges would instantly pronounce her <hi rend="italic">ruined</hi>. Thus too, if the most amiable of her sex should be once betrayed, by the unguarded openness of her disposition, and the villainy of her seducer; the epitthets of <hi rend="italic">abandoned</hi> and <hi rend="italic">vicious</hi>, are liberally bestowed on her by those of her on sex, who from want of feeling, or want of beauty, have escaped the same fate; while the most termigant pupil of Xantippe's school, may ruin her husband by her extravagance, or break his heart by her ill temper, and yet enjoy the title of a <hi rend="italic">viriuous woman</hi>. Ingenious, however, as these <hi rend="italic">misnomers</hi> may appear, I am not certain that the merit of their inventors is not greatly outdone by many young men in this university, to whose unremitted industry and fertile genius the English language owes much of its present <hi rend="italic">copiousness</hi> and <hi rend="italic">ſorce</hi>: and would recommend it to the consideration of the learned, whether it would not be highly expedient to draw up a vocabulary, which might comprehend all such words and sentences, as have been invented within these last ten years, and are now current at this place; giving, at the same time, their true etymology and most received signification.—Such a work might make no improper appendix to the Oxford guide, and would be extremely useful, not only to <hi rend="italic">freshmen</hi>, at their first entrance, but to such of their relations, friends, and acquaintance, who occasionally favour them with their company during their residence here; and who for want of such information, sometimes find it very difficult to understand each other<lb/>
+    <catchwords>&#8212;To
+    
+<pb facs="ltr.020.004"/>    
+    &#8212;To</catchwords> recapitulate all the various modes of expressing our actions or passions, which our own ingenuity first introduced, and which custom has reconciled us to, would be entering into a field much too large for the Loiterer; I cannot however avoid mentioning one, and which I have been led to take notice of, from a conversation, which passed not many weeks ago, between an acquaintance of mine, a country neighbour of his (who was come to see the university) and myself.—The country gentleman, amongst a variety of other impertinent questions, made many foolish inquiries after a near relation of his, who was not then in Oxford; such as—how he spent his time? what progress he made in his studies? and what was his character in the college?—with other trifling particulars of the same sort; most of which, my friend, very properly, thought undeserving any reply; and, therefore, only said in general, that he need be under no concern about him, for that he <hi rend="italic">trainedon famously</hi> well, and would soon be a very <hi rend="italic">dashing man</hi>. An expression which, though to me it was perfectly familiar, I saw plainly conveyed no sort of idea to the person to whom it was addressed. He made no effort, however, to obtain an explanation (possibly afraid to expose his ignorance) and cooly said, he was happy to hear so good an account, as it would give great pleasure to his family and friends, who had formed very sanguine expectations of his doing well. How far these their expectations are likely to be answered, it is not my business to inquire, and I shall only observe, that all his relations and friends will soon be enabled to form a very <choice><orig>compleat</orig><reg>complete</reg></choice> idea of a <hi rend="italic">Dashing Man</hi>, the moment they inspect his next quarter's bills. During the above conversation, I was indeed once half inclined to have given the gentleman some little insight into the character of the on alluded to, and was checked in the attempt only by recollecting the difficulty of succeeding. To do justice indeed to all the various qualifications and acquirements which go to forming this distinguished appellation, and which (to use the language of <catchwords><choice><reg>arithmeticians)</reg><orig>arith<lb/>
+    meticians)
+            
+<pb facs="ltr.020.005"/>
+    meticians)</orig></choice></catchwords></p>
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
