@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.021" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.021</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-11"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="ltr.021.001"/>
+    <head>No. XX.&#8212;Saturday, June 13, 1789.</head>
+    <head type="sub">Arma <hi rend="italic">virumque Cano. Virg.</hi></head>
+    <p><hi rend="italic">To the</hi> LOiterer.<lb/>
+    Sir,<lb/>
+    I AM not not one of those men who send tber communications to the author of a periodical work with any sanguine expectation of making the world either much better, or much wiser than it was before; nor do I, at my time of life, flatter myself with the idea of decking these grey hairs with the chaplet of literary fame; but a subject which has long engaged my thoughts, and long roused my indignation prompts me at this time of day to turn Knight-Errant in behalf of a neglected cause.</p>
+    <p>Amongst the many alterations which have attended on modern times, there are douhtless many for the better; there are some roughnesses polished off, and some barbarisms softened away. But there is one venerable custom abused, which could be the object of popular dislike only because it defended a property which all envied, but which few alone possessed. I allude, Mr. Loiterer, to the little care with which hereditary honours are preserved; a neglect of which is particularly assisted by, and chiefly evident in the indiscriminate use of <hi rend="italic">arms</hi> which all, who can afford to have them painted, enjoy! But a truce to exclamations. I will endeavour to practice upon paper. that clearness, and precision which I <lb/>
+    <catchwords>often
+    
+<pb facs="ltr.021.002"/>    
+    often</catchwords> do upon parchment, when I am tracing up my own family with all its intermarriages, younger children, and collateral branches, to the reign of Alaric the Goth. I shall therefore divide my subject in the following manner. First, I shall endeavour to ascertain the earliest period when arms were asumed, and the merits which entitled a man to bear them himself, and to transmit them to his heirs. Secondly, I shall mention the time when, and the motives why the use of arms became more vulgar and promiscuous; and lastly, I will state the folly and injustice which dictated the breach of the former, and the introduction of the latter cuſtom.</p>
+    <p>If antiquity can sanctify forms, the advocates of heraldry need not blush in tracing the use of <hi rend="italic">arms</hi> as early as the 11th century; and in confessing that they were adopted for no meaner purpose than to give an honourable distinction to the Soldiers of Religion, and the deliverers of Jerusalem. The devices which they assumed were of course analagous to the cause in which they fought; and we shall find upon proper inquiry, that the <hi rend="italic">cross</hi> is the most ancient and most honourable bearing. In after times when the passion for <hi rend="italic">crusading</hi> had somewhat abated, and when the chieftains of Britain fought no longer for Palestine, still there subsisted the original desire of acquiring military distinctions; and those who best displayed their valour, and their patriotism by defending their country, or by invading its enemies, assumed by the consent of all some memorable device. The choice of a soldier was naturally fixed on emblems of courage, or on symbols of battle, and next to the cross we may rank in honor, The <hi rend="italic">points of spears, shattered <choice><orig>scmytars</orig><reg>scmitars</reg></choice></hi>, and <hi rend="italic">bleeding hands</hi>; or beasts of prey, as <hi rend="italic">Lions</hi>, <hi rend="italic">Bears</hi>, and <hi rend="italic">Tigers</hi>.</p>
+    <p>Such were the ornaments which our ancestors bore on their shields, their ſur coats, or their helms; and lightly as the present age may esteem such honours, it should not be forgot that, in a more military one, they were of intrinsic value, because they were to be  earned only by military desert; and because they <lb/>
+    <catchwords>were
+    
+<pb facs="ltr.021.003"/>    
+    were</catchwords> were won on the fields of <hi rend="italic">Crecy</hi>, of <hi rend="italic">Poictiers</hi>, and <hi rend="italic">Agincourt.</hi></p>
+    <p>The merit of the father naturally secures some respect to his son; and the affection of the latter would as naturally prompt him to follow the footsteps of his sire; to fight by his side, to share his dangers and his triumphs whilst alive, and to preserve his honours after he was dead. Thus were <hi rend="italic">arms</hi> delivered down from father to son, and what was not disallowed in the first stages of descent, soon became the legal inheritance of succeeding ones.</p>
+    <p>Having thus finished the first part of my plan, I shall next mention the aera (and memorable is it in the annals of England) when the assumption of arm became more general, the laws of acquiring them less strict, and their value of course much diminished.</p>
+    <p>Accident, or exigence, or perhaps both (for I wave all political disquisitions) removed the sceptre from the hands of James IId, and seated a foreigner on the throne. William, though himself a soldier, was nevertheless surrounded by favourites, who drew both their wealth and their existence from the commercial situation of their native swamps; who would in vain have searched for the merit of honourable ancestry; and had they searched at all, would have found them busy in the looms of Flanders, or in draining the fens of Holland.</p>
+    <p>We all very stoically despise a merit which we possess not; yet at the same time take infinite pains in despoiling those who do. To this effect, men, who were conscious of their want of <hi rend="italic">family</hi>, strenuously endeavoured to lessen the value of it in the estimation of the public. Their first <choice><orig>manoeuvre</orig><reg>maneuvre</reg></choice> was of course, to confound all customs which tended to distinguish honourable professions and ancient families from upstart sons of trade. In these attempts they were not a little assiſted by the recent changes which had taken place in our constitution, which had crushed in the inordinate power of the Barons, and confirmed a third estate in their long-contested rights; but this alone would not have secured them success. They <lb/>
+    <catchwords>saw
+    
+<pb facs="ltr.021.004"/>    
+    saw</catchwords></p>
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</text>
+</TEI>
+
+
