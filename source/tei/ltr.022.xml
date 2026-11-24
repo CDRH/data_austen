@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.4.0.0/tei_all.rng"  type="xml"?>
+<TEI xml:id="ltr.022" xmlns="http://www.tei-c.org/ns/1.0">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>White, Laura Mooneyham</principal>
+<respStmt>
+<resp>Transcription, encoding, proofreading</resp>
+<name xml:id="hb">Borrell, Hannah</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2026</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Henry Thomas Austen</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+    <idno type="project">ltr.022</idno>
+    
+<availability>
+<p>This edition is licensed under a Creative Commons Licence (available at http://creativecommons.org/licenses/by-nc-sa/3.0/). You are free: to copy,
+distribute, display, and perform the work, and to make derivative works under the following conditions: you must attribute the work in the manner
+specified by the licensor; you may not use this work for commercial purposes; if you alter, transform, or build upon this work, you may distribute
+the resulting work only under a license identical to this one. For any reuse or distribution, you must make clear to others the license terms of
+this work. Any of these conditions can be waived if you get permission from the licensor. Your fair use and other rights are in no way affected by
+the above.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+<note/>
+</notesStmt>
+<sourceDesc>
+<bibl type="print">
+<author></author>
+<title></title>
+<respStmt>
+<resp></resp>
+<name></name>
+</respStmt>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno type="callnumber"></idno>
+<idno type="box"></idno>
+<idno type="folder"></idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+</textClass>
+
+</profileDesc>
+<revisionDesc>
+<change when="2026-11"><name sameAs="#hb"/> transcribed and encoded</change> 
+    
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div type="sermon">
+
+<!-- transcribe lecture here -->
+    <!-- HELPFUL TIPS!
+    
+    new page: <pb facs="hta.00x.00x"/> replace the x's with the file number and then the page number, should correspond with the file names in the sharepoint JPEG file folder
+    headings: <head>HEADING IV.</head>
+    subheadings: <head type="sub">less aggressive heading</head>
+    linebreak: <lb/> use whenever there is a linebreak, usually common with subheadings or headings on the first page of a lecture
+    paragraphs: <p></p> example: <p>all my awesome text, yippee</p>
+    em dash: &#8212;
+    italicized text: <hi rend="italic"></hi> example: <hi rend="italic">text that is italicized</hi>
+    stupid words that are cut off at the end of a page: 
+    
+    <choice><reg>ascertaining</reg><orig>ascer-
+    
+    <pb facs="hta.00x.00x"/>
+    
+    taining</orig></choice>
+    
+    
+    
+    -->
+
+<pb facs="lt4.022.001"/>
+    <head>No. XXI.&#8212;Saturday, June 20, 1789.</head>
+    <head type="sub">Qui Color albus erat nunc est contrarius albo.&#8212;Ovid.</head>
+    <p>ON my return to Oxford last week (after the absence of a few days) I was not a little surprised at the a astomishing alteration, which so short a time had produced, in the external part at least, of many of my acquaintance. So numerous indeed, were the black coats, and so dismal the looks of the weavers, that I was almost led to imagine there must be a general mourning. This idea, however, was but short-lived, for on turning my head round to take a retrospective view of these gentlemen, I perceived the metamorphosis was not confined to the coat alone; and the depredations committed on their back ſront <lb/>
+    <catchwords>soon
+    
+<pb facs="ltr.022.002"/>    
+    soon</catchwords> convinced me, that the melancholy event had lately taken place, which twice in a year puts a period to the exploits of the adventurers, and the mirth of the witty; which deprives the University of some of its most distinguished members, and throws a considerable damp on the spirits of the remainder. For myself, indeed, I have at present nothing more to hope or fear on this subject, and am no otherwise interested in the matter, than as the concern I take in the affairs of my Oxford friends obliges me to sympathize with them in all their afflictions.</p>
+    <p>It was not, therefore, without the sincerest sorrow I learnt, that scarce fewer than thirty young men had suffered on this occasion. Young men in the bloom of life, and in the heyday of their blood, cut off from all that renders life agreeable, removed from the scene of their triumphs, and the witnesses of their glory, and condemned to pass many years in solitary obscurity and insipid quiet. To be obliged to wear black to those who have been usually dressed in brown or blue; to be under the necessity of going twice in a week to church, to those, who for some time, have never gone at al;, are very serious mortiſications; but by no means the only ones to which this change in their situations will expose them. For in spite of all the fine things which poets, both ancient and modern, have said on the charms of solitude, and the happiness of a country life, an impartial examination of the matter will convince us, that a dirty village 1s not half so good a place to lounge in as High-street, and that boarding at a farm-house is by no means so pleasant as dining at the Cross, the Star, or the Angel. It would also be in vain to deny, that the above-mentioned alteration in their manner of living, is often rendered cutting, by the unkind and cruel behaviour of parents and <sic>freinds</sic>, who, at this time, are but too at to lessen or entirely discontinue the small pittance which they have hitherto reluctantly allowed their sons (especially if they have many other children) from an absurd idea, that as they have supported them <lb/>
+    <catchwords>for
+    
+<pb facs="ltr.022.003"/>    
+    for</catchwords> four years at the University, and have put them into a profession, by which they may support themselves; there can be no reasonable claim to any further assistance: not considering how very difficult it must be for young men to live on a curacy of fifty pounds a year, and a fellowship of thirty, who for the last three years of their lives have found it impossible to exist without spending three times that sum. The thing, indeed, speaks for itself; but as I have spent some few years of my life in Oxford, and consequently know how idle it is ever to argue against authority, I shall not waste my time, paper, and wit, by entering into any remonstrances with them on this subject, but shall leave them to be punished by those reproaches, which must ariſe in their own minds, whenever they rellect on such unnatural conduct; and shall content myself with devoting. this number to those ill-fated young men, whose <hi rend="italic">poverty, but not their will</hi>, has induced to engage in so unprofitable and so unpleasant a profession. It has, indeed, never been my failing to desert my friends in adversity, and on this occasion, I should ill discharge the office I have taken on myself, as a periodical writer, if I neglected to administer every comfort, in my power, to my fellow students when under such distressing circumitances.</p>
+    <p>Not that I by any means pledge myself to prove their line of life an eligible one: of the impracticability of such an attempt, I am fully convinced, which in fact, would be literally endeavouring to <hi rend="italic">wash the black-a-moor white</hi>; and shall only give a few hints with regard to the regulation of their conduct, which, if adopted, will render their situation inſinitely more comfortable. But in order to do this, I must first presuppoſe certain qualifications and powers in the agents, without which data, it will be absolutely impossible to go on with my plan; but then they are qualifications, which few members of this University are entirely deficient in, aud which many possess in a very eminent and superior degree.&#8212;For instance, I must suppose they have, during <lb/>
+    <catchwords>their
+    
+<pb facs="ltr.022.004"/>    
+    their</catchwords> stay at Oxford, taken care to make themselves tolerable masters of whist, have obtained a competent knowledge of cribbage, and are not-entirely ignorant of piquet and back-gammon. Of the former of which games to be ignorant, would be inexcusable, and an acquaintance with the latter will be found extremely convenient when they spend a tête-à-tête evening with the squire of the parish; whose good opinion it ought to be their first endeavour to cultivate as much of the happiness or misery of their lives must, after all, depend on his conduct. Nor can this be found a difficult task, if to the above-mentioned qualifications, they add also an extensive and accurate knowledge in all sporting matters: an acquirement, without which all others will avail but little; and which I have put last in my list, not because I think it of a smaller consequence, but because its importance seems at present to be so thoroughly understood, that to enumerate it, might be almost deemed superfluous. It is indeed, with sincere pleasure, I have long contemplated the earnest efforts of many of our younger members, to introduce a taste for sporting into the University, both by precept and example; and think I may now fairly congratulate both it and themselves on their success; for interested in the welfare, and zealous for the honour of Oxford, I cannot but feel highly gratified at the reflection, that another science is thus added to the circle of those, which were formerly taught at this place; and must ever look with great complacency on those men, who have obligingly been at so much pains and expence, in order to wipe off the stain, which our total ignorance in whatever related to horses and dogs, had once thrown on our reputation.&#8212;But to return to my subject. I will suppoſe a young man, who has all these qualifications in a tolerable degree of perfection, either by the inexorable order of his parents, or because he finds himself fit or nothing else, or any other good reason, thinks proper to take orders, quits with a heavy heart his Oxford friends, and goes to reside at a country <catchwords><choice><reg>curacy;</reg><orig>cur<lb/>
+    racy;
+            
+<pb facs="ltr.022.005"/>
+    racy;</orig></choice></catchwords> I will also imagine him conveyed to the place of his abode, together with all his <hi rend="italic">live</hi> and <hi rend="italic">dead</hi> stock; the latter consisting of Dr. Trusler's <hi rend="italic">sermons</hi>, a <hi rend="italic">fishing rod</hi>, and a <hi rend="italic">gun</hi>; and the former including (all the animals, which an Oxford man is ever possessed of) two or three <hi rend="italic">pointers</hi> and <hi rend="italic">spaniels</hi>, a <hi rend="italic">hunter</hi>, and a <hi rend="italic"><choice><orig>poney</orig><reg>pony</reg></choice></hi>: and having brought him into this dreaded situation, will do my best to make it as pleasant as the nature of the thing will admit of. And here I am well aware, that it will be objected to me, by those who love to make objections, that I have mentioned an establishment much too large for the finances of a curate, especially as there is no such thing as <hi rend="italic">ticking</hi> in the country. But to this objection, however specious, I cannot allow much weight; and fancy, if we examine matters impartially, it will be found rather plausible than convincing. For if the pointers and spaniels do not more than pay for their keep, he must be a bad manager, or a bad shot. The <choice><orig>poney</orig><reg>pony</reg></choice> may live in the church-yard; and as to the hunter, though it be true that hay and corn are dear commodities, especially when people pay for them as well as buy them; yet if all the good acquaintance and good dinners, which a man gets by his attendance in the field be fairly estimated, I know not whether he would not be a gainer at the end of the year. Now were the advantages arifing from a knowledge of sporting matters, and an acquaintance with sporting men confined to this only; there would scarce need any additional motive to animate all those, who are delirous of making creditable <choice><orig>connexions</orig><reg>connections</reg></choice>, to an earnest and steady pursuit of such valuable attainments, and the constant practice of an amusement, which blends so much of the <hi rend="italic">utile</hi> with the <hi rend="italic">dulci</hi>.</p>
+    <p>But the contrary is notoriously the fact; and the early lucrative pieces of preferment, which are obtained by young men, who have rendered themselves eminent in this way, prove beyond all controversy, that our country gentlemen are very acute distinguishers of genius, and very liberal rewarders of <catchwords><choice><reg>merit.</reg><orig>me<lb/>
+    rit.
+        
+<pb facs="ltr.022.006"/>
+    rit.</orig></choice></catchwords> For nothing is more certain than a good shot has often brought down a comfortable vicarage, and many a bold rider leaped into a snug rectory.—Admitting, however, that instances of this kind but rarely happen, and that the squire of the parish has it neither in his inclination or power to give a curate such substantial marks of his friendship, yet there are numberless ways and means, by which, in a smaller degree, he may testify his approbation of the clergyman's conduct. He will not only give him unlimited leave to sport over his manor, and take care there shall be a knife and fork always laid for him at his table; but will occasionally mount him on some young horse, which he is afraid to ride himself, or (if he is in an extraordinary generous humour) even make him a present of a restive and vicious one, after he has broken the necks of two or three <hi rend="italic">whipper's-in</hi>.&#8212;Now, considering the importance of all these advantages, I must think it a most fortunate circumstance, that every curate has it so much in his own power to obtain them. For all learned men, who have thought, and written on the nature of human society, unanimously declare, that so intimate and necessary a connection exists between every rank and condition of men, from the highest to the lowest, that neither the lord or the peasant can, with any degree of truth, say to the other, <hi rend="italic">I have no need of thee</hi>, and the remark will hold equally good as to the connection between the personages I before mentioned. For after having enumerated the many different ways in which the squire may be useful to the curate; it is but justice to own, that there are many good offices in the latter's power to perform, which will not a little contribute to the ease, happiness, and comfort of the former. And these may (perhaps not improperly) be divided into the negative and the positive kind. In the negative kind, I reckon the <hi rend="italic">not</hi> <choice><orig>shewing</orig><reg>showing</reg></choice> symptoms of sleepiness at the length of his stories; or expressing signs of disbelief at their improbability. The <hi rend="italic">not</hi> contradicting <hi rend="italic">him</hi> when <lb/>
+    <catchwords>he
+    
+<pb facs="ltr.022.007"/>    
+    he</catchwords> is pleased to be in a passion, and the <hi rend="italic">not</hi> making his own sermons too long.</p>
+    <p>As to the precise length of the latter, indeed, it is not easy to say any thing with certainty, as it must depend on many circumstances which it is impossible to foresee; such as, the number of churches under their care, the heat of the weather, &amp;c. &amp;c. &amp;c. But I shall observe, that in general, it is not reckoned good manners, to <hi rend="italic">persevere</hi> more than five minutes after the great people begin to nod. With regard to the positive kind of good offices, by which they may recommend themselves, they are so very numerous and important, that I shall not attempt to enumerate more than a few of them. I believe, however, that the watching three nights in a week, during the winter, to assist the game keeper in taking poachers; the writing a song in praise of his hounds, and abusing all the other packs in the county; together with the merit of spending an evening alone at the <hi rend="italic">great house</hi> when the <hi rend="italic">great master</hi> of it has no better company, will always be found very conciliating services.</p>
+    <p>Of the necessity of some knowledge of cards, on these occasions, I have already given my opinion, but cannot finish this paper without observing, that I by no means approve of letting the <hi rend="italic">squire name the trump</hi>; nat even if he is the patron of the living, unless they have a positive promise of the next presentation, and the incumbent is at least <hi rend="italic">four-score</hi>.</p>
+    <p>In short, by a proper application of these hints, I am clearly of opinion, a man may find his time pass away not unpleasantly, at the distance of many miles from London or Oxford; and if not rise to riches and eminence, at least live in idleness and comfort.&#8212;Not that I am stoic enough to despise, or hypocrite enough to affect to despise, the possession of dignity, and the enjoyment of opulence; I well know (on the contrary) that it is better to be a canon or prebendary, than a vicar or curate: And should the merits of the Loiterer ever draw its authors into the notice of the public, and procure them the <catchwords><choice><reg>patronage</reg><orig>pa<lb/>
+    tronage
+        
+<pb facs="ltr.022.008"/>
+    tronage</orig></choice></catchwords> of the powerful, I, as one of them, hereby pledge myself, that I will not refuse a prebend or a stall; and that if on the offer of a higher station (in compliance with established form) I might say, <hi rend="italic">nolo</hi>, &amp;c. I should all the while be terribly afraid, left his <choice><abbr type="editorial">M—y</abbr></choice> should take me at my word. Still, however, as the possession of so much happiness can be the lot of but <hi rend="italic">few</hi>, it will be much the wisest part, among the <hi rend="italic">many</hi>, to make up their minds to their circumstances, and endeavour to obtain as much happiness as their situation will admit of: and as happiness and misery are comparative terms, they may both be experienced to a certain degree in all situations. Monsieur de Linguet, in his excellent account of his sufferings, talks of certain indulgences ranted to more favoured prisoners, which he calls the l<hi rend="italic">iberties of the Bastile</hi>. I would wish my readers to enjoy the luxuries of a curacy.</p>
+
+</div>
+</body>
+</text>
+</TEI>
+
+
